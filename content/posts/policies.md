@@ -1,1 +1,0 @@
-* **DBS Checks**: All teachers and volunteers will be subject to Disclosure and Barring Service (DBS) checks, updated every six months to ensure compliance.
