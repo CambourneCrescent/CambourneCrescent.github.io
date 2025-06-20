@@ -1,16 +1,14 @@
 ---
-title: Introduction
+title: Crescent School
 type: docs
 ---
 
-# Acerbo datus maxime
+# Crescent School
 
 {{% columns %}}
-## Astris ipse furtiva
+## About the School
 
-Est in vagis et Pittheus tu arge accipiter regia iram vocatur nurus. Omnes ut
-olivae sensit **arma sorori** deducit, inesset **crudus**, ego vetuere aliis,
-modo arsit? Utinam rapta fiducia valuere litora _adicit cursu_, ad facies
+The school was set up in year 2011 to meet the growing religious, social, cultural, recreational needs of the local community.
 
 <--->
 
