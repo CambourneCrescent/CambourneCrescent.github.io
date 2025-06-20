@@ -1,7 +1,6 @@
 ---
-weight: 10
-bookFlatSection: true
-title: "What If"
+weight: 50
+title: "What If?"
 ---
 # **"What If"**  **Scenarios Guide for Staff and Volunteers**
 

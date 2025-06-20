@@ -4,13 +4,12 @@
   <url>
     <loc>http://localhost:1313/docs/example/</loc>
   </url><url>
-    <loc>http://localhost:1313/docs/policies/</loc>
-  </url><url>
-    <loc>http://localhost:1313/docs/policies/tep/</loc>
-  </url><url>
     <loc>http://localhost:1313/docs/example/table-of-contents/with-toc/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/example/table-of-contents/without-toc/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/syllabus/</loc>
+    <lastmod>2025-06-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/creating-a-new-theme/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
@@ -20,18 +19,79 @@
   </url><url>
     <loc>http://localhost:1313/docs/example/table-of-contents/</loc>
   </url><url>
+    <loc>http://localhost:1313/docs/policies/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/syllabus/quran/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/policies/students/</loc>
+  </url><url>
     <loc>http://localhost:1313/docs/example/collapsed/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/policies/teachers/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/policies/parents/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/policies/venue/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/policies/whatif/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/policies/safeguarding/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/arabic/</loc>
+    <lastmod>2025-06-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/docs/syllabus/arabic/</loc>
+    <lastmod>2025-06-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2025-06-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/classes/</loc>
+    <lastmod>2025-06-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2025-06-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/curriculum/</loc>
+    <lastmod>2025-06-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/docs/</loc>
+    <lastmod>2025-06-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/education/</loc>
+    <lastmod>2025-06-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/islamic-school/</loc>
+    <lastmod>2025-06-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/docs/syllabus/islamicstudies/</loc>
+    <lastmod>2025-06-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/islamic-studies/</loc>
+    <lastmod>2025-06-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/kitabi-series/</loc>
+    <lastmod>2025-06-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/language-curriculum/</loc>
+    <lastmod>2025-06-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/quran/</loc>
+    <lastmod>2025-06-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/safar-curriculum/</loc>
+    <lastmod>2025-06-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/syllabus/</loc>
+    <lastmod>2025-06-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-06-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/posts/goisforlovers/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/development/</loc>
@@ -55,9 +115,6 @@
     <loc>http://localhost:1313/tags/hugo/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/templates/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url><url>
@@ -71,20 +128,6 @@
     <loc>http://localhost:1313/docs/example/hidden/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/policies/hidden/</loc>
-  </url><url>
-    <loc>http://localhost:1313/docs/policies/parents/</loc>
-  </url><url>
-    <loc>http://localhost:1313/docs/policies/policies/</loc>
-  </url><url>
-    <loc>http://localhost:1313/docs/policies/safeguarding/</loc>
-  </url><url>
-    <loc>http://localhost:1313/docs/policies/students/</loc>
-  </url><url>
-    <loc>http://localhost:1313/docs/policies/teachers/</loc>
-  </url><url>
-    <loc>http://localhost:1313/docs/policies/venue/</loc>
-  </url><url>
-    <loc>http://localhost:1313/docs/policies/whatif/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/shortcodes/</loc>
   </url><url>
@@ -105,10 +148,6 @@
     <loc>http://localhost:1313/docs/shortcodes/section/second-page/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/shortcodes/tabs/</loc>
-  </url><url>
-    <loc>http://localhost:1313/posts/policies/</loc>
-  </url><url>
-    <loc>http://localhost:1313/docs/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/shortcodes/katex/</loc>
   </url>

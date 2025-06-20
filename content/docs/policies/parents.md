@@ -1,3 +1,7 @@
+---
+weight: 30
+title: "Parents"
+---
 **School Fee Policy**
 
 1. **Fee Confirmation**  

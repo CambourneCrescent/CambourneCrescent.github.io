@@ -1,3 +1,7 @@
+---
+weight: 60
+title: "Safeguarding"
+---
 ## **Health, Safety, and Safeguarding Policy**
 
 * **First Aid and Emergency Training**: First-aid kits will be placed in accessible areas, and annual first-aid training will be provided to staff.  

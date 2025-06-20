@@ -1,6 +1,6 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Crescent School'
 theme = 'hugo-book'
 
 # Needed for mermaid/katex shortcodes

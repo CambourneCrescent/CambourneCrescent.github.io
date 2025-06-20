@@ -1,13 +1,76 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on My New Hugo Site</title>
+    <title>Tags on Crescent School</title>
     <link>http://localhost:1313/tags/</link>
-    <description>Recent content in Tags on My New Hugo Site</description>
+    <description>Recent content in Tags on Crescent School</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 02 Apr 2014 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Jun 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Arabic</title>
+      <link>http://localhost:1313/tags/arabic/</link>
+      <pubDate>Thu, 19 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/arabic/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Classes</title>
+      <link>http://localhost:1313/tags/classes/</link>
+      <pubDate>Thu, 19 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/classes/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Curriculum</title>
+      <link>http://localhost:1313/tags/curriculum/</link>
+      <pubDate>Thu, 19 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/curriculum/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Islamic Studies</title>
+      <link>http://localhost:1313/tags/islamic-studies/</link>
+      <pubDate>Thu, 19 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/islamic-studies/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Kitabi Series</title>
+      <link>http://localhost:1313/tags/kitabi-series/</link>
+      <pubDate>Thu, 19 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/kitabi-series/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Language Curriculum</title>
+      <link>http://localhost:1313/tags/language-curriculum/</link>
+      <pubDate>Thu, 19 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/language-curriculum/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Quran</title>
+      <link>http://localhost:1313/tags/quran/</link>
+      <pubDate>Thu, 19 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/quran/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Safar Curriculum</title>
+      <link>http://localhost:1313/tags/safar-curriculum/</link>
+      <pubDate>Thu, 19 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/safar-curriculum/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Syllabus</title>
+      <link>http://localhost:1313/tags/syllabus/</link>
+      <pubDate>Thu, 19 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/syllabus/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Development</title>
       <link>http://localhost:1313/tags/development/</link>

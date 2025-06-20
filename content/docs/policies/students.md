@@ -1,3 +1,7 @@
+---
+title: Students
+weight: 15
+---
 **Homework Policy**
 
 **Completion of Homework**  

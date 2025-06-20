@@ -1,6 +1,6 @@
 ---
 title: Teacher
-weight: 10
+weight: 20
 ---
 ## **Teacher and Volunteer Code of Conduct**
 
