@@ -1,6 +1,7 @@
 ---
 title: Venue
 weight: 10
+---
 ## **Venue Management and Cleanliness**
 
 * **Room Bookings**: Room bookings will be managed carefully to avoid conflicts. A weekly review of room usage schedules will be conducted.  
