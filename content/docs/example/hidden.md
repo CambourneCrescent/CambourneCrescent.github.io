@@ -1,4 +1,4 @@
----
+ ---
 bookHidden: true
 ---
 
