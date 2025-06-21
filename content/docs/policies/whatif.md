@@ -2,7 +2,8 @@
 weight: 50
 title: "What If?"
 ---
-# **"What If"**  **Scenarios Guide for Staff and Volunteers**
+# What If? 
+## Scenarios Guide for Staff and Volunteers
 
 ### **1\. Teacher Absence**
 

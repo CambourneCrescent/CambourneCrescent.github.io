@@ -3,7 +3,7 @@ weight: 10
 title: "Policies"
 ---
 
-# Crescent School \- Policies
+# **Crescent School \- Policies**
 
 These policy guidelines are for those wanting to enrol their child/ren to the School which is run on Sundays between 10:00 am to 2:00 pm.
 

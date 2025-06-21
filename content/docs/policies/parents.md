@@ -2,7 +2,7 @@
 weight: 30
 title: "Parents"
 ---
-**School Fee Policy**
+# School Fee Policy
 
 1. **Fee Confirmation**  
     Parents are requested to confirm with the school during drop-off whether their school fees have been successfully processed and ensure that all references are correctly identified.

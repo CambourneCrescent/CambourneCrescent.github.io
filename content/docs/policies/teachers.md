@@ -2,7 +2,7 @@
 title: Teacher
 weight: 20
 ---
-## **Teacher and Volunteer Code of Conduct**
+# Teacher and Volunteer Code of Conduct
 
 * **Professional Standards**: Teachers and volunteers are expected to act as role models, demonstrating the highest standards of professionalism and Islamic ethics.
 

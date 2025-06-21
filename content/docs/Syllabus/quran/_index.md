@@ -1,15 +1,0 @@
----
-title: Quran
-weight: 15
----
-
-|   |  Tajweed Basics |  Qaidah/ Reading |  Memorization |  Dua’s |
-| :---: | ----- | ----- | :---: | ----- |
-| **Class 1**  | Focus: Correct Makharij (pronunciation of Arabic letters) | Noorani (letter recognition, sounds, vowels, rules of elongation) | **Al-Fatiha An-Nas  Al-Falaq Al-Ikhlas Al-Masad  An-Nasr**  |  |
-| **Class 2**  | Ghunnah, Qalqalah, Madd (basic elongation). |  | **Al-Kafirun  Al-Kawthar Al-Ma’un Quraish  Al-Fil Al-Humazah Al-Asr   At-Takathur Al-Qari’ah** |  |
-| **Class 3**  | Rules of Noon Saakin & Tanween (Ikhfaa, Idgham, Iqlab, Izhar). |  | **Al-Adiyat Az-Zalzalah Al-Bayyinah Al-Qadr  Al-‘Alaq  At-Tin  Ash-Sharh  Ad-Duha Al-Lail** |  |
-| **Class 4**  | Rules of Meem Saakin & Advanced Madd rules. |  | **Ash-ShamsAl-Balad  Al-Fajr  Al-GhashiyahAl-A’la  At-Tariq**  |  |
-| **Class 5**  | Makharij improvement & Sifat of letters (whispered, heavy/light letters). |  | **Al-Buruj Al-InshiqaqAl-Mutaffifin**  |  |
-| **Class 6** | Advanced Tajweed (Hamzah rules, stopping signs). |  | **Al-Infitar At-Takwir Abasa** |  |
-| **Class 7** | Full rules of stopping, silent letters, & advanced application |  | **An-Nazi’at An-Naba’**  |  |
-

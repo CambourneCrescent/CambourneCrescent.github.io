@@ -2,7 +2,7 @@
 title: Students
 weight: 15
 ---
-**Homework Policy**
+# Homework Policy
 
 **Completion of Homework**  
  Parents/guardians are required to ensure their child completes all assigned homework. If a homework booklet or sheet is provided, it must be signed by either the parent or guardian and returned to the teacher within the specified deadline.

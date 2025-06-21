@@ -1,19 +1,52 @@
 ---
-weight: 60
 title: "Safeguarding"
+date: 2025-06-19T00:00:00Z
+draft: false
+weight: 40
+menu: main
 ---
-## **Health, Safety, and Safeguarding Policy**
 
-* **First Aid and Emergency Training**: First-aid kits will be placed in accessible areas, and annual first-aid training will be provided to staff.  
-* **Hygiene and Food Safety**: Snack times will be monitored by volunteers to ensure hygiene standards are maintained, and proper handwashing procedures are followed.
+# Safeguarding and Child Protection
 
-## **DBS**
+At Crescent School, the safety and well-being of every child is our top priority. We are committed to providing a secure, caring, and supportive environment in which children can learn and flourish. Our safeguarding and health & safety policies are designed to protect all pupils, staff, and volunteers.
 
-* **DBS Checks**: All teachers and volunteers will be subject to Disclosure and Barring Service (DBS) checks, updated every six months to ensure compliance.
+---
 
-## **Safeguarding and Child Protection Policy**
+## 🔒 Safeguarding and Child Protection Policy
 
-* **Safeguarding Training**: Annual safeguarding training will be provided, covering relevant local and national regulations.  
-* **Child Protection Officer**: A designated safeguarding officer will be responsible for managing any child protection concerns.  
-* **Reporting Concerns**: Any suspicions or concerns related to child abuse or neglect must be reported immediately to the designated officer.
+- **Designated Safeguarding Officer (DSO)**  
+  A qualified Designated Safeguarding Officer is appointed each year. They are responsible for handling all matters related to child protection and are the first point of contact for any safeguarding concerns.
 
+- **Reporting Concerns**  
+  If any adult or child has a concern about a child’s welfare, it must be reported immediately to the Designated Safeguarding Officer. All concerns will be treated seriously and handled sensitively in accordance with statutory guidelines.
+
+---
+
+## 🧾 Disclosure and Barring Service (DBS)
+
+- All staff and volunteers who work with children are required to undergo an enhanced **DBS check**.
+- No adult may work unsupervised with children unless a valid DBS certificate is on file.
+
+---
+
+## 🩹 Health, Safety, and Emergency Response
+
+- **First Aid & Emergency Training**  
+  First-aid kits are available at designated locations within the school premises.
+
+- **Emergency Procedures**  
+  Clear evacuation procedures are in place for fire, lockdown, or medical emergencies. Staff and pupils are briefed regularly and participate in scheduled safety drills.
+
+---
+
+## 🍎 Hygiene and Food Safety
+
+- **Snack Time Supervision**  
+  Volunteers monitor snack times to ensure hygiene is maintained and appropriate behaviour is encouraged.
+
+- **Hand Hygiene**  
+  Children are reminded and supervised to wash their hands properly before and after snack breaks and after using the toilet.
+
+---
+
+If you have any questions about our safeguarding policies or would like to raise a concern, please contact our Designated Safeguarding Officer Ms Lobna Rihawi.

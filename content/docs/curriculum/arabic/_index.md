@@ -4,7 +4,10 @@ date: 2025-06-19T00:00:00Z
 draft: false
 tags: ["Arabic", "Kitabi Series", "Language Curriculum"]
 categories: ["Education", "Islamic School"]
+weight: 10
 ---
+
+# Arabic language Curriculum Overview
 
 Our Arabic language curriculum is based on the **Kitābī Series**, a progressive, child-friendly programme designed to build proficiency in reading, writing, listening, and speaking Arabic. The curriculum focuses on grammar (*naḥw*), vocabulary, sentence structure, and comprehension through engaging themes and structured progression.
 
@@ -80,7 +83,7 @@ Our Arabic language curriculum is based on the **Kitābī Series**, a progressiv
 
 ---
 
-### **Class 7 (Ages 11–13)**  
+### **Class GCSE (Ages 11–13)**  
 **Based on: Kitābī 7**
 - Sentence structure: nominal vs verbal sentences
 - Understanding and using root letters (*جذر*) and verb forms
@@ -105,5 +108,5 @@ Our approach is interactive, engaging, and paced to match the child’s developm
 *“Learn Arabic, for it strengthens the mind and increases one’s chivalry.”* — ʿUmar ibn al-Khaṭṭāb رضي الله عنه
 
 
-
-
+Looking for more details?  
+➡️ [View Class-by-Class Curriculum →](/docs/curriculum/quran/)

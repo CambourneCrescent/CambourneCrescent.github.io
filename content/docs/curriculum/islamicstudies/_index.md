@@ -4,7 +4,10 @@ date: 2025-06-19T00:00:00Z
 draft: false
 tags: ["Islamic Studies", "Safar Curriculum", "Syllabus"]
 categories: ["Education", "Islamic School"]
+weight: 30
 ---
+
+# Islamic Studies Curriculum Overview
 
 Our Islamic Studies curriculum is based on the **Safar Islamic Studies series**, a comprehensive and age-appropriate programme that builds Islamic knowledge step by step. The curriculum is structured to cater to different age groups and learning stages, blending theory with practical application.
 
