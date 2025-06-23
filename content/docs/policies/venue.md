@@ -52,19 +52,6 @@ To maintain a professional and respectful learning space, the following cleanlin
 
 ---
 
-## 🚻 Toilets & Water Facilities
-
-- 🚫 **Avoid Water Spillage:**  
-  Students must be careful not to spill water, especially near toilet areas, as this may cause slips and safety hazards.
-
-- 🚽 **Use Toilets Before School:**  
-  Students are expected to use the toilet before arriving at school to minimise lesson disruptions caused by frequent toilet breaks.
-
-- 💧 **Bring Water Bottles:**  
-  Students should bring their own filled water bottles. This helps reduce congestion and waiting time at the water coolers.
-
----
-
 ## 🤝 Community Responsibility
 
 Maintaining cleanliness is a shared responsibility between staff, students, and parents. We believe it is an essential part of character development and mutual respect:
