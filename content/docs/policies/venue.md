@@ -1,36 +1,77 @@
 ---
 title: "Venue"
 weight: 40
+tags: ["venue", "facilities", "cleanliness", "management", "Crescent School", "Cambourne Village College"]
 ---
 
-# Venue Management and Cleanliness
+# 📍 Venue
 
-At Crescent School, we take pride in maintaining a clean, well-organised, and safe learning environment for all students and staff. Our venue management policies ensure smooth operations and uphold high standards of hygiene and organisation.
+Crescent School operates on Sundays during term time at **Cambourne Village College**. 
+
+- 🕙 **Timing (Term Time):** 10:00 AM – 2:00 PM  
+- 🕌 **Timing (Ramadan):** 10:00 AM – 1:00 PM  
+- 📍 **Location:** Pink Corridor – Ground Floor and First Floor
+
+---
+
+## 🧭 Venue Management & Cleanliness
+
+At Crescent School, we are committed to maintaining a clean, organised, and safe learning environment for all students and staff. Our venue policies are designed to ensure smooth day-to-day operations and uphold high standards of hygiene, respect, and shared responsibility.
 
 ---
 
 ## 🏫 Room Bookings
 
-- Room bookings are managed centrally to avoid clashes and ensure effective use of space.
-- A schedule review helps address any updates or changes.
-- Staff are expected to check and adhere to the published room timetable.
+- Room bookings are centrally managed to prevent scheduling conflicts and ensure efficient use of space.
+- A schedule is reviewed and shared regularly; staff are expected to refer to and follow this schedule.
+- Any room-related issues should be reported promptly to the School Administrator.
 
 ---
 
-## 🧼 Cleanliness Standards
+## 🧼 Cleanliness Policy
 
-- Classrooms are cleaned regularly, with clear responsibilities assigned to volunteers.
-- A cleanliness checklist is displayed in each room to support hygiene standards.
+To maintain a professional and respectful learning space, the following cleanliness rules apply:
+
+- ❗ **Before Class:**  
+  Teachers must report to the School Administrator if a room is found unclean or disorganised. Photos should be taken for documentation.
+
+- 🧒 **Student Involvement:**  
+  Students are encouraged to assist in tidying their classroom at the end of lessons, under teacher supervision.
+
+- 🚫 **Furniture Use:**  
+  Class furniture must not be moved by students or teachers.
+
+- 📚 **Cambourne Village College Property:**  
+  Books, papers, and stationery belonging to Cambourne Village College must not be moved, used, or disturbed.
+
+- ✏️ **Own Supplies:**  
+  All Crescent School staff and students are expected to bring their own essential supplies.
+
+- 📝 **Stationery Requests:**  
+  Teachers should inform the School Administrator well in advance if specific stationery or supplies are required.
 
 ---
 
-## 🤝 Clean-Up Assistance
+## 🚻 Toilets & Water Facilities
 
-- Parents, students, and teachers are encouraged to work together to maintain a tidy environment.
-- Children learn the importance of caring for shared spaces as part of their character development.
-- End-of-day classroom checks help reinforce personal responsibility and teamwork.
+- 🚫 **Avoid Water Spillage:**  
+  Students must be careful not to spill water, especially near toilet areas, as this may cause slips and safety hazards.
+
+- 🚽 **Use Toilets Before School:**  
+  Students are expected to use the toilet before arriving at school to minimise lesson disruptions caused by frequent toilet breaks.
+
+- 💧 **Bring Water Bottles:**  
+  Students should bring their own filled water bottles. This helps reduce congestion and waiting time at the water coolers.
 
 ---
 
-Together, we create a space that reflects the values of respect, cleanliness, and cooperation.
-```
+## 🤝 Community Responsibility
+
+Maintaining cleanliness is a shared responsibility between staff, students, and parents. We believe it is an essential part of character development and mutual respect:
+
+- 🧹 Parents, students, and teachers are all encouraged to contribute to keeping our shared spaces clean and tidy.
+- ✅ End-of-day classroom checks help reinforce responsibility, discipline, and community spirit.
+
+---
+
+Together, we aim to create a space that reflects our shared values of respect, cleanliness, and cooperation.
