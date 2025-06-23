@@ -1,7 +1,7 @@
 ---
 weight: 30
 title: "Parents"
-tags: ["parents", "fees", "attendance", "drop-off", "collection", "policy", "school rules"]
+tags: ["parents", "fees", "attendance", "drop-off", "collection", "policy", "school rules", "communication"]
 ---
 
 # 📆 Attendance and Absence Policy
@@ -40,6 +40,21 @@ tags: ["parents", "fees", "attendance", "drop-off", "collection", "policy", "sch
 
 - For safety and safeguarding reasons, **parents/guardians are not allowed** to enter classrooms during drop-off or collection, unless they have **explicit prior approval**.
 - This ensures a secure and calm environment for all students and teachers.
+
+---
+
+# 💬 Parent Communication Policy
+
+- **Parents must not post unrelated or social messages** in the class WhatsApp groups. These groups are strictly for:
+  - Homework and reminders shared by teachers.
+  - Parents to notify the teacher about absences or changes in pick-up arrangements.
+- While the groups are **monitored**, teachers are **not expected to reply to each message** individually.
+- Homework-related questions may be asked in the group, but please allow teachers **adequate time** to respond.
+
+## 🚫 Respect for Staff
+
+- **Parents must treat all Crescent School teachers and admin staff with respect and courtesy.**  
+- Any form of mistreatment, including inappropriate language or behaviour, will not be tolerated and may result in further action from the school.
 
 ---
 
