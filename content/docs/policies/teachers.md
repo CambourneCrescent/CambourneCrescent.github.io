@@ -1,42 +1,109 @@
 ---
-title: Teacher
+title: "Teacher"
 weight: 20
+tags: ["teachers", "volunteers", "staff policy", "code of conduct", "onboarding"]
 ---
-# Teacher and Volunteer Code of Conduct
 
-* **Professional Standards**: Teachers and volunteers are expected to act as role models, demonstrating the highest standards of professionalism and Islamic ethics.
+# 👩‍🏫 Teachers and Volunteers
 
-**New Teachers**
+All teachers are expected to arrive at least **5 minutes before** the start of their lesson.  
+Students are the **responsibility of the teacher** from the beginning of the class until they are either:
 
-**Policy for Hiring New Teachers**
+- Handed over to the next teacher during class transitions, or  
+- Dismissed directly to their parent/guardian at the end of the school day.
 
-**Trial Period for New Teachers**
+---
 
-1. Initial Trial Period  
-   All newly hired teachers will undergo a four-week trial period, during which they will work as a teaching assistant. This period will allow the school to assess the candidate's suitability for a permanent teaching position.  
-2. Evaluation  
-   At the end of the trial period, a decision will be made regarding their employment based on performance, feedback, and alignment with the school's standards.
+## 🏫 Supervision and Dismissal
 
-**Payment During the Trial Period**  
-Teaching assistants currently are not paid during the trial period. However, this is an open topic for future discussion and decision-making.
+- At the end of the school day, **teachers must escort their students to the exit gate** and ensure they are handed over safely to their parent/guardian.
+- Students must **not be left unsupervised in the corridors at any time**.
+- Teachers are expected to ensure that students remain under supervision until formally dismissed.
 
-**Criteria for Hiring Decisions**
+---
 
-1. Financial Assistance Not a Criterion  
-   The school will not consider financial need as a factor in appointing a teacher. Employment decisions will be based solely on merit and suitability for the role.  
-2. Minimum English Proficiency  
-   Teachers must demonstrate a minimum level of spoken and written English proficiency to meet the school's requirements.
+## 🧹 Classroom Cleanliness
 
-**Interview Process**
+- Teachers must leave the classroom in the same condition as they found it.
+- They should **involve students in cleaning up** after the lesson, which includes:
+  - Picking up any litter
+  - Pushing in chairs
+  - Ensuring the classroom looks tidy and presentable
+- Furniture should not be moved from its original position unless previously arranged.
 
-1. Online Interview  
-   Candidates will participate in an online interview conducted by the head teacher and one additional school representative.  
-2. Decision-making  
-   The interview process will be used to assess the candidate’s qualifications, communication skills, and potential fit within the school environment.
+---
 
-This policy applies to all new teaching hires moving forward.
+## ✏️ Stationery and Supplies
 
-**Onboarding Program**
+- Teachers must **not use Cambourne Village College stationery** or materials left in classrooms.
+- All teachers are expected to bring their **own teaching resources and stationery**.
+- Requests for Crescent School-provided stationery must be made **in advance**, allowing sufficient time for procurement by the admin team.
 
-New teachers and volunteers will undergo an onboarding process, including training sessions and a mentorship program.
+---
 
+## 📝 Homework Communication
+
+- Homework should be sent to parents **on the same day** as the lesson.
+- If this is not possible, it must be sent **by the next day at the latest** to give students and parents enough time to complete it.
+- All communication with parents must be in **English only**, to ensure all parents can understand the information shared.
+
+---
+
+# 🧭 Code of Conduct
+
+- **Professional Standards**: All teachers and volunteers must act as role models, maintaining high standards of professionalism and Islamic character.
+- **Respectful Communication**: Teachers must communicate respectfully with students, parents, and colleagues at all times.
+- **Safety and Wellbeing**: Safeguarding children is a shared responsibility. Teachers must be vigilant and report any concerns to the School Lead.
+
+---
+
+# 📋 New Teacher Policy
+
+## ✍️ Recruitment and Trial Period
+
+1. **Initial Trial Period**  
+   - All newly recruited teachers will undergo a **four-week trial period**.
+   - During this time, they will work as a **teaching assistant**, allowing the school to evaluate their suitability.
+   - The trial period will assess commitment, professionalism, subject knowledge, and classroom behaviour.
+
+2. **Evaluation and Decision**  
+   - At the end of the trial, a decision will be made based on:
+     - Performance and interaction with students
+     - Feedback from the lead teacher
+     - Alignment with Crescent School values
+
+---
+
+## ✅ Hiring Criteria
+
+1. **English Proficiency**  
+   - Teachers must have a **minimum level of spoken and written English** to effectively communicate with students, staff, and parents.
+
+2. **Subject Knowledge**  
+   - Teachers must demonstrate competency in **Arabic Language**, **Qur’an**, or **Islamic Studies**, depending on the role applied for.
+
+---
+
+## 👥 Interview Process
+
+1. **Onsite Interview**  
+   - Candidates will be invited to attend a **Sunday session** for an interview with the Head Teacher and a school representative.
+   - The session may include classroom observation or participation in activities.
+
+2. **Assessment**  
+   - The candidate’s qualifications, teaching ability, communication skills, and potential fit within the school will be assessed.
+
+---
+
+## 📚 Onboarding and Training
+
+All new teachers and volunteers will undergo a **structured onboarding programme**, which includes:
+
+- Introduction to the school’s policies and expectations  
+- Observation of experienced teachers  
+- Mentoring support  
+- Ongoing training and feedback
+
+---
+
+Together, we maintain a school culture built on trust, integrity, respect, and continuous growth.
