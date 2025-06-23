@@ -11,6 +11,10 @@ tags: ["parents", "fees", "attendance", "drop-off", "collection", "policy", "sch
 - The school operates on Sundays from **10:00 AM to 2:00 PM** during term time.  
 - During **Ramadan**, the school runs on a reduced timetable, typically until **1:00 PM**.
 
+## Break Times
+Children are given a 5 to 10-minute break after every hour.
+Please note that it is not possible to take children outside to the school grounds during breaks, as we do not have access to the grounds.
+
 ## 🎯 Punctuality and Attendance Expectations
 
 - Punctuality is a key value. Students arriving more than **10 minutes late** will receive a warning.
