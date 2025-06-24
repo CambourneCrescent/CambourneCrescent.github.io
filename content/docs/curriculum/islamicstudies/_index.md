@@ -105,5 +105,7 @@ We aim to nurture students who understand Islam not only as a subject, but as a 
 
 *“The best of you are those who learn the Qur'an and teach it.”* — Prophet Muḥammad ﷺ *(Bukhārī)*
 
+---
+
 Looking for Crescent School Curriculum?  
 ➡️ [View Curriculum Overview →](/docs/curriculum/)
