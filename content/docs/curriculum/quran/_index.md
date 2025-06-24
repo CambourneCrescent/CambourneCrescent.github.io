@@ -1,101 +1,81 @@
 ---
-title: "Qur'an"
-weight: 20
+title: "Qur’an Memorisation Curriculum"
+date: 2025-06-23T00:00:00Z
+draft: false
+tags: ["curriculum", "Qur’an", "memorisation", "Islamic education"]
+categories: ["Education", "Islamic School"]
+weight: 12
+menu:
+  main:
+    parent: "Curriculum"
 ---
 
-# Qur’an Curriculum Overview
+# 📖 Qur’an Curriculum Overview
 
-Our Qur’an programme focuses on Tajwīd, reading fluency, memorisation, and learning essential duʿās. Students progress through a carefully structured syllabus from Class 1 to Class 7.
-
----
-
-## Class 1
-
-- **Tajwīd Focus**: Correct **Makharij** (pronunciation of Arabic letters)
-- **Reading**: Noorani Qāʿidah – letter recognition, sounds, vowels, rules of elongation
-- **Memorisation**:  
-  - Sūrah al-Fātiḥah  
-  - Sūrah an-Nās  
-  - Sūrah al-Falaq  
-  - Sūrah al-Ikhlāṣ  
-  - Sūrah al-Masad  
-  - Sūrah an-Naṣr
+Our Qur’an programme emphasises **Tajwīd**, reading fluency, memorisation, and the learning of essential **duʿās**. Students progress through a carefully structured syllabus from Class 1 to Class 7, allowing them to gradually develop confidence, skill, and a connection with the Qur’an.
 
 ---
 
-## Class 2
+## 🧠 Memorisation Curriculum
 
-- **Tajwīd Focus**: Ghunnah, Qalqalah, basic Madd (elongation)
-- **Memorisation**:  
-  - Sūrah al-Kāfirūn  
-  - Sūrah al-Kawthar  
-  - Sūrah al-Māʿūn  
-  - Sūrah Quraysh  
-  - Sūrah al-Fīl  
-  - Sūrah al-Humazah  
-  - Sūrah al-ʿAṣr  
-  - Sūrah at-Takāthur  
-  - Sūrah al-Qāriʿah
+Each class memorises a set of short **Sūrahs** from *Juz ʿAmma*, beginning with the easiest to learn. As students advance, they are introduced to longer and more complex chapters appropriate to their age and ability.
+
+| **Class** | **Autumn Term** | **Spring Term** | **Summer Term** |
+|:---------:|:----------------|:----------------|:----------------|
+| 1 | Al-Ikhlāṣ, Al-Falaq | Al-Masad, An-Nās | An-Naṣr, Al-Fātiḥah |
+| 2 | Al-Kāfirūn, Al-Kawthar, Al-Māʿūn | Quraysh, Al-Fīl, Al-Humazah | Al-ʿAṣr, At-Takāthur, Al-Qāriʿah |
+| 3 | Al-ʿĀdiyāt, Az-Zalzalah, Al-Bayyinah | Al-Qadr, Al-ʿAlaq, At-Tīn | Ash-Sharḥ, Aḍ-Ḍuḥā, Al-Layl |
+| 4 | Ash-Shams, Al-Balad | Al-Fajr, Al-Ghāshiyah | Al-Aʿlā, Aṭ-Ṭāriq |
+| 5 | Al-Burūj | Al-Inshiqqāq | Al-Muṭaffifīn |
+| 6 | Al-Infiṭār | At-Takwīr | ʿAbasa |
+| 7 | An-Nāziʿāt | An-Nabaʾ | Al-Kahf (1–10), Al-Baqarah (285–286) |
 
 ---
 
-## Class 3
+## 📘 Tajwīd and Reading Curriculum
 
-- **Tajwīd Focus**: Rules of Nūn Sākin and Tanwīn  
+Each year group follows a progressive Tajwīd curriculum focused on clarity of recitation and accurate application of rules. Below is a summary of the key learning objectives by class:
+
+---
+
+### Class 1  
+- **Tajwīd Focus**: Correct **Makharij** (pronunciation of Arabic letters)  
+- **Reading**: *Noorani Qāʿidah* – letter recognition, short vowels, basic elongation rules
+
+---
+
+### Class 2  
+- **Tajwīd Focus**: Introduction to **Ghunnah**, **Qalqalah**, and simple **Madd** (elongation)
+
+---
+
+### Class 3  
+- **Tajwīd Focus**: Rules of **Nūn Sākin** and **Tanwīn**  
   *(Ikhfāʾ, Idghām, Iqlāb, Iẓhār)*
-- **Memorisation**:  
-  - Sūrah al-ʿĀdiyāt  
-  - Sūrah az-Zalzalah  
-  - Sūrah al-Bayyinah  
-  - Sūrah al-Qadr  
-  - Sūrah al-ʿAlaq  
-  - Sūrah at-Tīn  
-  - Sūrah ash-Sharḥ  
-  - Sūrah aḍ-Ḍuḥā  
-  - Sūrah al-Layl
 
 ---
 
-## Class 4
-
-- **Tajwīd Focus**: Rules of Mīm Sākin, advanced Madd rules
-- **Memorisation**:  
-  - Sūrah ash-Shams  
-  - Sūrah al-Balad  
-  - Sūrah al-Fajr  
-  - Sūrah al-Ghāshiyah  
-  - Sūrah al-Aʿlā  
-  - Sūrah aṭ-Ṭāriq
+### Class 4  
+- **Tajwīd Focus**: Rules of **Mīm Sākin**, and extended **Madd** rules
 
 ---
 
-## Class 5
-
-- **Tajwīd Focus**: Improving Makharij and learning **Ṣifāt** of letters  
-  *(whispered, heavy/light letters)*
-- **Memorisation**:  
-  - Sūrah al-Burūj  
-  - Sūrah al-Inshiqqāq  
-  - Sūrah al-Muṭaffifīn
+### Class 5  
+- **Tajwīd Focus**: Refinement of **Makharij** and learning **Ṣifāt** (characteristics of letters), including  
+  - Whispered and voiced letters  
+  - Heavy and light articulation
 
 ---
 
-## Class 6
-
-- **Tajwīd Focus**: Advanced rules – **Hamzah**, stopping signs
-- **Memorisation**:  
-  - Sūrah al-Infiṭār  
-  - Sūrah at-Takwīr  
-  - Sūrah ʿAbasa
+### Class 6  
+- **Tajwīd Focus**: Advanced application including **Hamzah** rules and stopping signs
 
 ---
 
-## Class 7
+### Class 7  
+- **Tajwīd Focus**: Mastery of stopping rules, silent letters, and advanced Tajwīd techniques
 
-- **Tajwīd Focus**: Full rules of stopping, silent letters, and advanced application
-- **Memorisation**:  
-  - Sūrah an-Nāziʿāt  
-  - Sūrah an-Nabaʾ
-  
+---
+
 Looking for more details?  
 ➡️ [View Class-by-Class Curriculum →](/docs/curriculum/islamicstudies/)
