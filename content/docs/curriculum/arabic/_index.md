@@ -107,5 +107,7 @@ Our approach is interactive, engaging, and paced to match the child’s developm
 
 *“Learn Arabic, for it strengthens the mind and increases one’s chivalry.”* — ʿUmar ibn al-Khaṭṭāb رضي الله عنه
 
+---
+
 Looking for Crescent School Curriculum?  
 ➡️ [View Curriculum Overview →](/docs/curriculum/)
