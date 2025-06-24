@@ -104,3 +104,6 @@ Our Islamic Studies curriculum is based on the **Safar Islamic Studies series**,
 We aim to nurture students who understand Islam not only as a subject, but as a way of life.
 
 *“The best of you are those who learn the Qur'an and teach it.”* — Prophet Muḥammad ﷺ *(Bukhārī)*
+
+Looking for details?  
+➡️ [View Class-by-Class Curriculum →](/docs/curriculum/)
