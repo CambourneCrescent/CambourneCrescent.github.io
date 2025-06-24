@@ -6,11 +6,11 @@ tags: ["venue", "facilities", "cleanliness", "management", "Crescent School", "C
 
 # 📍 Venue
 
-Crescent School operates on Sundays during term time at **Cambourne Village College**. 
+Crescent School operates on Sundays during term time at [**Cambourne Village College**](https://maps.app.goo.gl/HyUSCzUd7Dv6UYtW6). 
 
-- 🕙 **Timing (Term Time):** 10:00 AM – 2:00 PM  
-- 🕌 **Timing (Ramadan):** 10:00 AM – 1:00 PM  
-- 📍 **Location:** Pink Corridor – Ground Floor and First Floor
+> **Timing (Term Time):** 10:00 AM – 2:00 PM  
+> **Timing (Ramadan):** 10:00 AM – 1:00 PM  
+> **Location:** Pink Corridor – Ground Floor and First Floor
 
 ---
 
