@@ -32,13 +32,19 @@ We offer a combination of **core** and **optional** subjects that cater to the v
 
 Our Arabic curriculum is carefully structured to build fluency in reading, writing, speaking, and understanding the Arabic language. Lessons are age-appropriate and designed to support steady progress in vocabulary, grammar, and communication skills.
 
+[View Arabic Language Curriculum →](/docs/curriculum/arabic/)
+
 ### 📖 Qur’an Studies
 
 Students begin by learning the Arabic alphabet and pronunciation rules. They gradually progress towards fluent recitation of the **Qur’an**, with a strong emphasis on **Tajwīd** (correct articulation and pronunciation). The goal is to instil a deep appreciation of the Qur’an while developing accurate reading skills.
 
+[View Qur’an Curriculum →](/docs/curriculum/quran/)
+
 ### 🕌 Islamic Studies
 
 Using the **Safar Publications** curriculum, children explore key themes such as beliefs, worship, manners, and the life of the Prophet ﷺ. Lessons are interactive, inclusive, and designed to be engaging for learners of all ages.
+
+[View Islamic Studies Curriculum →](/docs/curriculum/islamicstudies/)
 
 ---
 
@@ -55,6 +61,3 @@ These students typically attend for the **first two hours** of the school day, w
 In addition to our children's programme, we also offer **Arabic classes for adults** in the community. These sessions are suitable for beginners and focus on reading, vocabulary building, and developing a basic understanding of the Arabic language—especially in the context of Qur’anic text.
 
 ---
-
-Looking for more detailed information?  
-➡️ [View Class-by-Class Curriculum →](/docs/curriculum/arabic/)
