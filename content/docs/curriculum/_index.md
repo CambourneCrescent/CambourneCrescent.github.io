@@ -16,6 +16,16 @@ We offer a combination of **core** and **optional** subjects that cater to the v
 
 ---
 
+## 🗓️ Academic Year Structure
+
+**Autumn Term**: Early September to mid-December (Half-term: Late October)
+
+**Spring Term**: Early January to end-March (Half-term: Mid-February)
+
+**Summer Term**: Early-April to mid-July (Half-term: Late May / Early June)
+
+---
+
 ## 🌟 Core Subjects for Children
 
 ### 🔤 Arabic Language
