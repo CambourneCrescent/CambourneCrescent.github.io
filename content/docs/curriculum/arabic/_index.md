@@ -84,7 +84,7 @@ Our Arabic language curriculum is based on the **Kitābī Series**, a progressiv
 ---
 
 ### **Class GCSE (Ages 11–13)**  
-**Based on: Kitābī 7**
+**Based on: Kitābī GCSE syllabus**
 - Sentence structure: nominal vs verbal sentences
 - Understanding and using root letters (*جذر*) and verb forms
 - Descriptive writing and letter writing in Arabic
