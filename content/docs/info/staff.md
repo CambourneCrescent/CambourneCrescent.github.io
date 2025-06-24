@@ -49,7 +49,7 @@ Our dedicated team of educators and administrators work together to deliver high
   ![](https://via.placeholder.com/150)
 
 ### Non-Arabic Speaker Classes  
-- **NAS Class 1 Teacher** – *Noura*  
+- **NAS Class 1 Teacher** – *Noura Adem*  
   ![](https://via.placeholder.com/150)  
 - **NAS Class 2 Teacher** – *Shima Barkati*  
   ![](https://via.placeholder.com/150)
@@ -87,9 +87,9 @@ Our dedicated team of educators and administrators work together to deliver high
   ![](https://via.placeholder.com/150)  
 - **Class 2 Islamic Studies Teacher** – *Rana Ezzat*  
   ![](https://via.placeholder.com/150)  
-- **Class 3 Islamic Studies Teacher** – *Noura*  
+- **Class 3 Islamic Studies Teacher** – *Noura Adem*  
   ![](https://via.placeholder.com/150)  
-- **Class 4 Islamic Studies Teacher** – *Noura*  
+- **Class 4 Islamic Studies Teacher** – *Noura Adem*  
   ![](https://via.placeholder.com/150)  
 - **Class 5 Islamic Studies Teacher** – *Rouda*  
   ![](https://via.placeholder.com/150)  
