@@ -18,7 +18,7 @@ Our Qur’an programme emphasises **Tajwīd**, reading fluency, memorisation, an
 
 ## 🧠 Memorisation Curriculum
 
-Each class memorises a set of short **Sūrahs** from *Juz ʿAmma*, beginning with the easiest to learn. As students advance, they are introduced to longer and more complex chapters appropriate to their age and ability.
+Each class memorises a set of short **Sūrahs** from *Juz ʿAmma*, along with other important verses and Surahs, beginning with those that are easiest to learn. The memorisation schedule is spread across [three terms](https://cambournecrescent.github.io/docs/curriculum/#-academic-year-structure) each year. As students progress, they are gradually introduced to longer and more complex Sūrahs suited to their age and ability.
 
 | **Class** | **Autumn Term** | **Spring Term** | **Summer Term** |
 |:---------:|:----------------|:----------------|:----------------|
