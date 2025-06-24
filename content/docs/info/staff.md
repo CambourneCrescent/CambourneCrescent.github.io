@@ -55,7 +55,7 @@ Our dedicated team of educators and administrators work together to deliver high
   ![](https://via.placeholder.com/150)
 
 ### Adult Arabic Classes  
-- **Adult Class Teacher** – *Abdellatif Salah*  
+- **Adult Class Teacher** – [*Dr. Abdellatif Salah*](https://www.linkedin.com/in/abdellatif-salah)
   ![](https://via.placeholder.com/150)
 
 ---
