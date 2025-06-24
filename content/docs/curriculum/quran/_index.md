@@ -77,5 +77,5 @@ Each year group follows a progressive Tajwīd curriculum focused on clarity of r
 
 ---
 
-Looking for Islamic Studies details?  
-➡️ [View Class-by-Class Curriculum →](/docs/curriculum/islamicstudies/)
+Looking for Crescent School Curriculum?  
+➡️ [View Curriculum Overview →](/docs/curriculum/)
