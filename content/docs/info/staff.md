@@ -18,12 +18,12 @@ Our dedicated team of educators and administrators work together to deliver high
 
 ## 🏫 School Leadership
 
-- **School Administrator:** – [Bushra Shahbaz](https://www.linkedin.com/in/bushra-shahbaz-103248293/)  
+- **School Administrator:** – [Ms Bushra Shahbaz](https://www.linkedin.com/in/bushra-shahbaz-103248293/)  
   ![](https://via.placeholder.com/150)
 - **Advisors Team**  
 *Cambourne Crescent Trustees* - _Providing strategic direction and support to Crescent School._  
   ![](https://via.placeholder.com/150)
-- **Safeguarding Lead:** – Lobna Rihawi
+- **Safeguarding Lead:** – Ms Lobna Rihawi
   ![](https://via.placeholder.com/150)  
 
 ---
@@ -31,27 +31,27 @@ Our dedicated team of educators and administrators work together to deliver high
 ## 📘 Arabic Language Teachers
 
 ### Classes 1–6  
-- **Class 1 Teacher** – *Rana Ezzat*  
+- **Class 1 Teacher** – *Ms Rana Ezzat*  
   ![](https://via.placeholder.com/150)  
-- **Class 2 Teacher** – *Yomna*  
+- **Class 2 Teacher** – *Ms Yomna Mostafa*  
   ![](https://via.placeholder.com/150)  
-- **Class 3 Teacher** – *Eman Siddek*  
+- **Class 3 Teacher** – *Ms Eman Siddek*  
   ![](https://via.placeholder.com/150)  
-- **Class 4 Teacher** – *Wessam Khalifa*  
+- **Class 4 Teacher** – *Ms Wessam Khalifa*  
   ![](https://via.placeholder.com/150)  
-- **Class 5 Teacher** – *Dr Rasha*  
+- **Class 5 Teacher** – *Dr Rasha Badawy*  
   ![](https://via.placeholder.com/150)  
-- **Class 6 Teacher** – *Madleen Alhams*  
+- **Class 6 Teacher** – *Ms Madleen Alhams*  
   ![](https://via.placeholder.com/150)
 
 ### GCSE Class  
-- **GCSE Arabic Teacher** – *Khatija*  
+- **GCSE Arabic Teacher** – *Ms Khatija Abughannam*  
   ![](https://via.placeholder.com/150)
 
 ### Non-Arabic Speaker Classes  
-- **NAS Class 1 Teacher** – *Noura Adem*  
+- **NAS Class 1 Teacher** – *Ms Noura Adem*  
   ![](https://via.placeholder.com/150)  
-- **NAS Class 2 Teacher** – *Shima Barkati*  
+- **NAS Class 2 Teacher** – *Ms Shima Barkati*  
   ![](https://via.placeholder.com/150)
 
 ### Adult Arabic Classes  
@@ -63,15 +63,15 @@ Our dedicated team of educators and administrators work together to deliver high
 ## 📖 Qur’an Teachers
 
 ### Classes 1–7  
-- **Class 1 Qur’an Teacher** – *Yomna & Eman Abdelzaher*  
+- **Class 1 Qur’an Teacher** – *Ms Yomna Mostafa & Ms Eman Abdelzaher*  
   ![](https://via.placeholder.com/150)  
-- **Class 2 Qur’an Teacher** – *Khatija*  
+- **Class 2 Qur’an Teacher** – *Ms Khatija Abughannam*  
   ![](https://via.placeholder.com/150)  
-- **Class 3 Qur’an Teacher** – *Dr Rasha*  
+- **Class 3 Qur’an Teacher** – *Dr Rasha Badawy*  
   ![](https://via.placeholder.com/150)  
-- **Class 4 Qur’an Teacher** – *Dr Rasha*  
+- **Class 4 Qur’an Teacher** – *Dr Rasha Badawy*  
   ![](https://via.placeholder.com/150)  
-- **Class 5 Qur’an Teacher** – *Mouna & Wessam*  
+- **Class 5 Qur’an Teacher** – *Ms Mouna & Ms Wessam Khalifa*  
   ![](https://via.placeholder.com/150)  
 - **Class 6 Qur’an Teacher** – [*Dr Tamer Said*](https://www.linkedin.com/in/tamer-said-54a01b26)  
   ![](https://via.placeholder.com/150)  
@@ -83,19 +83,19 @@ Our dedicated team of educators and administrators work together to deliver high
 ## 📚 Islamic Studies Teachers
 
 ### Classes 1–7  
-- **Class 1 Islamic Studies Teacher** – *Yomna & Eman Abdelzaher*  
+- **Class 1 Islamic Studies Teacher** – *Ms Yomna Mostafa & Ms Eman Abdelzaher*  
   ![](https://via.placeholder.com/150)  
-- **Class 2 Islamic Studies Teacher** – *Rana Ezzat*  
+- **Class 2 Islamic Studies Teacher** – *Ms Rana Ezzat*  
   ![](https://via.placeholder.com/150)  
-- **Class 3 Islamic Studies Teacher** – *Noura Adem*  
+- **Class 3 Islamic Studies Teacher** – *Ms Noura Adem*  
   ![](https://via.placeholder.com/150)  
-- **Class 4 Islamic Studies Teacher** – *Noura Adem*  
+- **Class 4 Islamic Studies Teacher** – *Ms Noura Adem*  
   ![](https://via.placeholder.com/150)  
-- **Class 5 Islamic Studies Teacher** – *Rouda*  
+- **Class 5 Islamic Studies Teacher** – *Ms Rouda*  
   ![](https://via.placeholder.com/150)  
-- **Class 6 Islamic Studies Teacher** – *Madleen Alhams*  
+- **Class 6 Islamic Studies Teacher** – *Ms Madleen Alhams*  
   ![](https://via.placeholder.com/150)  
-- **Class 7 Islamic Studies Teacher** – *Ali Omar*  
+- **Class 7 Islamic Studies Teacher** – *Shaykh Ali Omar*  
   ![](https://via.placeholder.com/150)
 
 ---
