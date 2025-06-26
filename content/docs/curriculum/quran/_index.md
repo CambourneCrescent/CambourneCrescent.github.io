@@ -20,7 +20,7 @@ Each class memorises a set of short **Sūrahs** from *Juz ʿAmma*, along with ot
 
 | **Class** | **Autumn Term** | **Spring Term** | **Summer Term** |
 |:---------:|:----------------|:----------------|:----------------|
-| 1 | Al-Ikhlāṣ, Al-Falaq | Al-Masad, An-Nās | An-Naṣr, Al-Fātiḥah |
+| 1 | [Al-Ikhlāṣ](/docs/curriculum/quran/112-Ikhlas), [Al-Falaq](/docs/curriculum/quran/113-Falaq) | Al-Masad, An-Nās | An-Naṣr, [Al-Fātiḥah](/docs/curriculum/quran/1-Fatihah) |
 | 2 | Al-Kāfirūn, Al-Kawthar, Al-Māʿūn | Quraysh, Al-Fīl, Al-Humazah | Al-ʿAṣr, At-Takāthur, Al-Qāriʿah |
 | 3 | Al-ʿĀdiyāt, Az-Zalzalah, Al-Bayyinah | Al-Qadr, Al-ʿAlaq, At-Tīn | Ash-Sharḥ, Aḍ-Ḍuḥā, Al-Layl |
 | 4 | Ash-Shams, Al-Balad | Al-Fajr, Al-Ghāshiyah | Al-Aʿlā, Aṭ-Ṭāriq |
