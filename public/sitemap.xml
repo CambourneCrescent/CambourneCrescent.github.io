@@ -52,6 +52,9 @@
   </url><url>
     <loc>http://localhost:1313/docs/policies/whatif/</loc>
   </url><url>
+    <loc>http://localhost:1313/docs/curriculum/quran/86-tariq/</loc>
+    <lastmod>2025-06-23T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/docs/curriculum/quran/112-ikhlas/</loc>
     <lastmod>2025-06-23T00:00:00+00:00</lastmod>
   </url><url>
@@ -70,6 +73,9 @@
     <lastmod>2025-06-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/class-1/</loc>
+    <lastmod>2025-06-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/class-4/</loc>
     <lastmod>2025-06-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/curriculum/</loc>
