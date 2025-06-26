@@ -18,15 +18,15 @@ categories: ["Education", "Islamic School", "Qur’an"]
 
 ---
 
-## 📖 Arabic Text
+## 📜 Surah Fatiha
 
-**بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ**  
-**ٱلْـحَمْدُ لِلَّهِ رَبِّ ٱلْعَـٰلَمِينَ**  
-**ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ**  
-**مَـٰلِكِ يَوْمِ ٱلدِّينِ**  
-**إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ**  
-**ٱهْدِنَا ٱلصِّرَٰطَ ٱلْمُسْتَقِيمَ**  
-**صِرَٰطَ ٱلَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ ٱلْمَغْضُوبِ عَلَيْهِمْ وَلَا ٱلضَّآلِّينَ**
+> **بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ**  
+> **ٱلْـحَمْدُ لِلَّهِ رَبِّ ٱلْعَـٰلَمِينَ**  
+> **ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ**  
+> **مَـٰلِكِ يَوْمِ ٱلدِّينِ**  
+> **إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ**  
+> **ٱهْدِنَا ٱلصِّرَٰطَ ٱلْمُسْتَقِيمَ**  
+> **صِرَٰطَ ٱلَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ ٱلْمَغْضُوبِ عَلَيْهِمْ وَلَا ٱلضَّآلِّينَ**
 
 ---
 
@@ -62,6 +62,12 @@ categories: ["Education", "Islamic School", "Qur’an"]
 ## 💭 Reflection
 
 Sūrah al-Fātiḥah is a powerful duʿā and the opening chapter of the Qur’an. It expresses our need for Allah’s guidance and affirms His mercy and lordship. It is recited in every unit of prayer (ṣalāh), making its memorisation and understanding essential for all Muslims.
+
+---
+
+## 📺 Video Resource
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aMKnCveaoD0?si=YBHefvJXTvgZhEOc" title="Surah al-Fātiḥah Recitation & Explanation" frameborder="0" allowfullscreen></iframe>
 
 ---
 

@@ -20,7 +20,7 @@ weight: 112
 
 ---
 
-## 📜 Surah
+## 📜 Surah Ikhlas
 
 > **بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ**  
 > قُلْ هُوَ ٱللَّهُ أَحَدٌ  
@@ -71,6 +71,12 @@ weight: 112
 - Discuss what it means that Allāh is **One** and **Eternal**.
 - Reflect on how belief in the Oneness of Allāh shapes a Muslim's life.
 - Encourage children to say this surah in daily prayers.
+
+---
+
+## 📺 Video Resource
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wz_a9uAPmB8?si=2WQXRBcm6Nmk4Wts" title="Surah al-Ikhlas Recitation & Explanation" frameborder="0" allowfullscreen></iframe>
 
 ---
 
