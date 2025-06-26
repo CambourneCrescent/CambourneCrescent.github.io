@@ -1,6 +1,7 @@
 ---
 title: "Qur'an"
 weight: 20
+bookCollapseSection: true
 ---
 
 # Qur’an Curriculum Overview

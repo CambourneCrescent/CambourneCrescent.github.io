@@ -1,180 +1,812 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Crescent School</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on Crescent School</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 19 Jun 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>With ToC</title>
-      <link>http://localhost:1313/docs/example/table-of-contents/with-toc/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/docs/example/table-of-contents/with-toc/</guid>
-      <description>&lt;h1 id=&#34;caput-vino-delphine-in-tamen-vias&#34;&gt;&#xD;&#xA;  Caput vino delphine in tamen vias&#xD;&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#caput-vino-delphine-in-tamen-vias&#34;&gt;#&lt;/a&gt;&#xD;&#xA;&lt;/h1&gt;&#xD;&#xA;&lt;h2 id=&#34;cognita-laeva-illo-fracta&#34;&gt;&#xD;&#xA;  Cognita laeva illo fracta&#xD;&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#cognita-laeva-illo-fracta&#34;&gt;#&lt;/a&gt;&#xD;&#xA;&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;Lorem markdownum pavent auras, surgit nunc cingentibus libet &lt;strong&gt;Laomedonque que&lt;/strong&gt;&#xA;est. Pastor &lt;a href=&#34;http://est.org/ire.aspx&#34;&gt;An&lt;/a&gt; arbor filia foedat, ne &lt;a href=&#34;http://www.indiciumturbam.org/moramquid.php&#34;&gt;fugit&#xA;aliter&lt;/a&gt;, per. Helicona illas et&#xA;callida neptem est &lt;em&gt;Oresitrophos&lt;/em&gt; caput, dentibus est venit. Tenet reddite&#xA;&lt;a href=&#34;http://www.antro-et.net/&#34;&gt;famuli&lt;/a&gt; praesentem fortibus, quaeque vis foret si&#xA;frondes &lt;em&gt;gelidos&lt;/em&gt; gravidae circumtulit &lt;a href=&#34;http://incurvasustulit.io/illi-virtute.html&#34;&gt;inpulit armenta&#xA;nativum&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Te at cruciabere vides rubentis manebo&lt;/li&gt;&#xA;&lt;li&gt;Maturuit in praetemptat ruborem ignara postquam habitasse&lt;/li&gt;&#xA;&lt;li&gt;Subitarum supplevit quoque fontesque venabula spretis modo&lt;/li&gt;&#xA;&lt;li&gt;Montis tot est mali quasque gravis&lt;/li&gt;&#xA;&lt;li&gt;Quinquennem domus arsit ipse&lt;/li&gt;&#xA;&lt;li&gt;Pellem turis pugnabant locavit&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h2 id=&#34;natus-quaerere&#34;&gt;&#xD;&#xA;  Natus quaerere&#xD;&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#natus-quaerere&#34;&gt;#&lt;/a&gt;&#xD;&#xA;&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;Pectora et sine mulcere, coniuge dum tincta incurvae. Quis iam; est dextra&#xA;Peneosque, metuis a verba, primo. Illa sed colloque suis: magno: gramen, aera&#xA;excutiunt concipit.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Without ToC</title>
-      <link>http://localhost:1313/docs/example/table-of-contents/without-toc/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/docs/example/table-of-contents/without-toc/</guid>
-      <description>&lt;h1 id=&#34;at-me-ipso-nepotibus-nunc-celebratior-genus&#34;&gt;&#xD;&#xA;  At me ipso nepotibus nunc celebratior genus&#xD;&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#at-me-ipso-nepotibus-nunc-celebratior-genus&#34;&gt;#&lt;/a&gt;&#xD;&#xA;&lt;/h1&gt;&#xD;&#xA;&lt;h2 id=&#34;tanto-oblite&#34;&gt;&#xD;&#xA;  Tanto oblite&#xD;&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#tanto-oblite&#34;&gt;#&lt;/a&gt;&#xD;&#xA;&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;Lorem markdownum pectora novis patenti igne sua opus aurae feras materiaque&#xA;illic demersit imago et aristas questaque posset. Vomit quoque suo inhaesuro&#xA;clara. Esse cumque, per referri triste. Ut exponit solisque communis in tendens&#xA;vincetis agisque iamque huic bene ante vetat omina Thebae rates. Aeacus servat&#xA;admonitu concidit, ad resimas vultus et rugas vultu &lt;strong&gt;dignamque&lt;/strong&gt; Siphnon.&lt;/p&gt;&#xA;&lt;p&gt;Quam iugulum regia simulacra, plus meruit humo pecorumque haesit, ab discedunt&#xA;dixit: ritu pharetramque. Exul Laurenti orantem modo, per densum missisque labor&#xA;manibus non colla unum, obiectat. Tu pervia collo, fessus quae Cretenque Myconon&#xA;crate! Tegumenque quae invisi sudore per vocari quaque plus ventis fluidos. Nodo&#xA;perque, fugisse pectora sorores.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Creating a New Theme</title>
-      <link>http://localhost:1313/posts/creating-a-new-theme/</link>
-      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/creating-a-new-theme/</guid>
-      <description>&lt;h2 id=&#34;introduction&#34;&gt;&#xD;&#xA;  Introduction&#xD;&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#introduction&#34;&gt;#&lt;/a&gt;&#xD;&#xA;&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.&lt;/p&gt;&#xA;&lt;p&gt;We&amp;rsquo;ll start with creating a new site with a very basic template. Then we&amp;rsquo;ll add in a few pages and posts. With small variations on that, you will be able to create many different types of web sites.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Migrate to Hugo from Jekyll</title>
-      <link>http://localhost:1313/posts/migrate-from-jekyll/</link>
-      <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/migrate-from-jekyll/</guid>
-      <description>&lt;h2 id=&#34;move-static-content-to-static&#34;&gt;&#xD;&#xA;  Move static content to &lt;code&gt;static&lt;/code&gt;&#xD;&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#move-static-content-to-static&#34;&gt;#&lt;/a&gt;&#xD;&#xA;&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;Jekyll has a rule that any directory not starting with &lt;code&gt;_&lt;/code&gt; will be copied as-is to the &lt;code&gt;_site&lt;/code&gt; output. Hugo keeps all static content under &lt;code&gt;static&lt;/code&gt;. You should therefore move it all there.&#xA;With Jekyll, something that looked like&lt;/p&gt;&#xA;&lt;pre&gt;&lt;code&gt;▾ &amp;lt;root&amp;gt;/&#xD;&#xA;    ▾ images/&#xD;&#xA;        logo.png&#xD;&#xA;&lt;/code&gt;&lt;/pre&gt;&#xA;&lt;p&gt;should become&lt;/p&gt;&#xA;&lt;pre&gt;&lt;code&gt;▾ &amp;lt;root&amp;gt;/&#xD;&#xA;    ▾ static/&#xD;&#xA;        ▾ images/&#xD;&#xA;            logo.png&#xD;&#xA;&lt;/code&gt;&lt;/pre&gt;&#xA;&lt;p&gt;Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as &lt;code&gt;CNAME&lt;/code&gt;) to be moved to &lt;code&gt;static&lt;/code&gt;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Students</title>
-      <link>http://localhost:1313/docs/policies/students/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/docs/policies/students/</guid>
-      <description>&lt;h1 id=&#34;homework-policy&#34;&gt;&#xD;&#xA;  Homework Policy&#xD;&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#homework-policy&#34;&gt;#&lt;/a&gt;&#xD;&#xA;&lt;/h1&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Completion of Homework&lt;/strong&gt;&lt;br&gt;&#xA;Parents/guardians are required to ensure their child completes all assigned homework. If a homework booklet or sheet is provided, it must be signed by either the parent or guardian and returned to the teacher within the specified deadline.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Non-Completion of Homework&lt;/strong&gt;&lt;br&gt;&#xA;In the event that a child does not complete their homework, the teacher may, at their discretion, impose a sanction, such as detention. If there is a valid reason for the late submission of homework, it is the responsibility of the parent or guardian to notify the teacher in writing.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Teacher</title>
-      <link>http://localhost:1313/docs/policies/teachers/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/docs/policies/teachers/</guid>
-      <description>&lt;h1 id=&#34;teacher-and-volunteer-code-of-conduct&#34;&gt;&#xD;&#xA;  Teacher and Volunteer Code of Conduct&#xD;&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#teacher-and-volunteer-code-of-conduct&#34;&gt;#&lt;/a&gt;&#xD;&#xA;&lt;/h1&gt;&#xD;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Professional Standards&lt;/strong&gt;: Teachers and volunteers are expected to act as role models, demonstrating the highest standards of professionalism and Islamic ethics.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;New Teachers&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Policy for Hiring New Teachers&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Trial Period for New Teachers&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Initial Trial Period&lt;br&gt;&#xA;All newly hired teachers will undergo a four-week trial period, during which they will work as a teaching assistant. This period will allow the school to assess the candidate&amp;rsquo;s suitability for a permanent teaching position.&lt;/li&gt;&#xA;&lt;li&gt;Evaluation&lt;br&gt;&#xA;At the end of the trial period, a decision will be made regarding their employment based on performance, feedback, and alignment with the school&amp;rsquo;s standards.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;&lt;strong&gt;Payment During the Trial Period&lt;/strong&gt;&lt;br&gt;&#xA;Teaching assistants currently are not paid during the trial period. However, this is an open topic for future discussion and decision-making.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Parents</title>
-      <link>http://localhost:1313/docs/policies/parents/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/docs/policies/parents/</guid>
-      <description>&lt;h1 id=&#34;school-fee-policy&#34;&gt;&#xD;&#xA;  School Fee Policy&#xD;&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#school-fee-policy&#34;&gt;#&lt;/a&gt;&#xD;&#xA;&lt;/h1&gt;&#xD;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Fee Confirmation&lt;/strong&gt;&lt;br&gt;&#xA;Parents are requested to confirm with the school during drop-off whether their school fees have been successfully processed and ensure that all references are correctly identified.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Fee Structure&lt;/strong&gt;&lt;br&gt;&#xA;A clear fee payment structure will be communicated to all parents at the start of the year. Payment deadlines will be set, and reminders sent to parents via email or SMS.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Unpaid Fees&lt;/strong&gt;&lt;br&gt;&#xA;For parents with unpaid school fees, full payment of the year’s fees will be required moving forward. This policy aims to reduce administrative tasks and allow the school to focus more on students&amp;rsquo; education.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Safeguarding</title>
-      <link>http://localhost:1313/docs/policies/safeguarding/</link>
-      <pubDate>Thu, 19 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/docs/policies/safeguarding/</guid>
-      <description>&lt;h1 id=&#34;safeguarding-and-child-protection&#34;&gt;&#xD;&#xA;  Safeguarding and Child Protection&#xD;&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#safeguarding-and-child-protection&#34;&gt;#&lt;/a&gt;&#xD;&#xA;&lt;/h1&gt;&#xD;&#xA;&lt;p&gt;At Crescent School, the safety and well-being of every child is our top priority. We are committed to providing a secure, caring, and supportive environment in which children can learn and flourish. Our safeguarding and health &amp;amp; safety policies are designed to protect all pupils, staff, and volunteers.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;-safeguarding-and-child-protection-policy&#34;&gt;&#xD;&#xA;  🔒 Safeguarding and Child Protection Policy&#xD;&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#-safeguarding-and-child-protection-policy&#34;&gt;#&lt;/a&gt;&#xD;&#xA;&lt;/h2&gt;&#xD;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Designated Safeguarding Officer (DSO)&lt;/strong&gt;&lt;br&gt;&#xA;A qualified Designated Safeguarding Officer is appointed each year. They are responsible for handling all matters related to child protection and are the first point of contact for any safeguarding concerns.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Venue</title>
-      <link>http://localhost:1313/docs/policies/venue/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/docs/policies/venue/</guid>
-      <description>&lt;h1 id=&#34;venue-management-and-cleanliness&#34;&gt;&#xD;&#xA;  Venue Management and Cleanliness&#xD;&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#venue-management-and-cleanliness&#34;&gt;#&lt;/a&gt;&#xD;&#xA;&lt;/h1&gt;&#xD;&#xA;&lt;p&gt;At Crescent School, we take pride in maintaining a clean, well-organised, and safe learning environment for all students and staff. Our venue management policies ensure smooth operations and uphold high standards of hygiene and organisation.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;-room-bookings&#34;&gt;&#xD;&#xA;  🏫 Room Bookings&#xD;&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#-room-bookings&#34;&gt;#&lt;/a&gt;&#xD;&#xA;&lt;/h2&gt;&#xD;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Room bookings are managed centrally to avoid clashes and ensure effective use of space.&lt;/li&gt;&#xA;&lt;li&gt;A schedule review helps address any updates or changes.&lt;/li&gt;&#xA;&lt;li&gt;Staff are expected to check and adhere to the published room timetable.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;-cleanliness-standards&#34;&gt;&#xD;&#xA;  🧼 Cleanliness Standards&#xD;&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#-cleanliness-standards&#34;&gt;#&lt;/a&gt;&#xD;&#xA;&lt;/h2&gt;&#xD;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Classrooms are cleaned regularly, with clear responsibilities assigned to volunteers.&lt;/li&gt;&#xA;&lt;li&gt;A cleanliness checklist is displayed in each room to support hygiene standards.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;-clean-up-assistance&#34;&gt;&#xD;&#xA;  🤝 Clean-Up Assistance&#xD;&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#-clean-up-assistance&#34;&gt;#&lt;/a&gt;&#xD;&#xA;&lt;/h2&gt;&#xD;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Parents, students, and teachers are encouraged to work together to maintain a tidy environment.&lt;/li&gt;&#xA;&lt;li&gt;Children learn the importance of caring for shared spaces as part of their character development.&lt;/li&gt;&#xA;&lt;li&gt;End-of-day classroom checks help reinforce personal responsibility and teamwork.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Together, we create a space that reflects the values of respect, cleanliness, and cooperation.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>What If?</title>
-      <link>http://localhost:1313/docs/policies/whatif/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/docs/policies/whatif/</guid>
-      <description>&lt;h1 id=&#34;what-if&#34;&gt;&#xD;&#xA;  What If?&#xD;&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#what-if&#34;&gt;#&lt;/a&gt;&#xD;&#xA;&lt;/h1&gt;&#xD;&#xA;&lt;h2 id=&#34;scenarios-guide-for-staff-and-volunteers&#34;&gt;&#xD;&#xA;  Scenarios Guide for Staff and Volunteers&#xD;&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#scenarios-guide-for-staff-and-volunteers&#34;&gt;#&lt;/a&gt;&#xD;&#xA;&lt;/h2&gt;&#xD;&#xA;&lt;h3 id=&#34;1-teacher-absence&#34;&gt;&#xD;&#xA;  &lt;strong&gt;1. Teacher Absence&lt;/strong&gt;&#xD;&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#1-teacher-absence&#34;&gt;#&lt;/a&gt;&#xD;&#xA;&lt;/h3&gt;&#xD;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Scenario&lt;/strong&gt;: A teacher is absent without prior notice.&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Action Plan&lt;/strong&gt;:&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Immediate Communication&lt;/strong&gt;: The absent teacher must inform the school coordinator as soon as possible via phone or WhatsApp.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Cover Arrangements&lt;/strong&gt;: The school coordinator will assign a backup teacher or a qualified volunteer to cover the class. In the absence of a substitute, a senior volunteer or class assistant should follow the pre-prepared lesson plan.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Lesson Plan Availability&lt;/strong&gt;: Teachers should submit their weekly lesson plans in advance, stored digitally (Google Docs or shared folder) for easy access by substitutes.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Notification to Parents&lt;/strong&gt;: If the absence will significantly impact the class, parents should be notified via the school’s WhatsApp group or email.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;2-student-behaviour-issues&#34;&gt;&#xD;&#xA;  &lt;strong&gt;2. Student behaviour Issues&lt;/strong&gt;&#xD;&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#2-student-behaviour-issues&#34;&gt;#&lt;/a&gt;&#xD;&#xA;&lt;/h3&gt;&#xD;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Scenario&lt;/strong&gt;: A student is disruptive during class (e.g., not listening, distracting others, showing defiant behaviour).&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Action Plan&lt;/strong&gt;:&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Verbal Warning&lt;/strong&gt;: The teacher gives a calm but firm verbal warning, explaining the disruptive behaviour and its impact on the class.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Time-Out&lt;/strong&gt;: If the behaviour continues, the student will be given a time-out in a designated quiet area for reflection (no more than 5 minutes).&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Discussion&lt;/strong&gt;: After class, the teacher will have a one-on-one conversation with the student to understand the underlying cause of the behaviour and to reinforce expected conduct.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Parental Involvement&lt;/strong&gt;: If the behaviour persists across multiple sessions, the teacher will inform the parents and discuss possible solutions (e.g., positive reinforcement at home, additional support).&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Referral to Coordinator&lt;/strong&gt;: For severe cases, the issue will be escalated to the school coordinator, who will schedule a meeting with the parents.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;3-a-volunteer-is-late-or-absent&#34;&gt;&#xD;&#xA;  &lt;strong&gt;3. A Volunteer is Late or Absent&lt;/strong&gt;&#xD;&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#3-a-volunteer-is-late-or-absent&#34;&gt;#&lt;/a&gt;&#xD;&#xA;&lt;/h3&gt;&#xD;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Scenario&lt;/strong&gt;: A volunteer responsible for helping with classroom activities or operations is late or absent.&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Action Plan&lt;/strong&gt;:&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Immediate Communication&lt;/strong&gt;: Volunteers must inform the school coordinator or class teacher if they anticipate being late or absent.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Task Redistribution&lt;/strong&gt;: The teacher or coordinator will reassign tasks to available volunteers or staff for that session. This could include dividing responsibilities (e.g., managing snack time, organizing materials).&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Volunteer Roster&lt;/strong&gt;: Maintain a weekly volunteer roster with backup personnel for critical tasks like classroom support and monitoring student breaks.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;4-classroom-materials-or-resources-are-missing&#34;&gt;&#xD;&#xA;  &lt;strong&gt;4. Classroom Materials or Resources Are Missing&lt;/strong&gt;&#xD;&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#4-classroom-materials-or-resources-are-missing&#34;&gt;#&lt;/a&gt;&#xD;&#xA;&lt;/h3&gt;&#xD;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Scenario&lt;/strong&gt;: Key teaching materials or resources (e.g., textbooks, whiteboard markers) are missing or unavailable.&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Action Plan&lt;/strong&gt;:&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Use Digital Resources&lt;/strong&gt;: Teachers can switch to digital tools (e.g., tablets, phones) to access materials like Qur&amp;rsquo;an verses, Arabic worksheets, or educational videos.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Improvise&lt;/strong&gt;: Teachers can adapt the lesson by encouraging group discussions, storytelling, or using available materials creatively (e.g., using a chalkboard if whiteboard markers are missing).&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Restock Procedure&lt;/strong&gt;: Ensure that a stock of essential materials is always available, and teachers are required to inform the coordinator about low stock at least a week in advance.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;5-a-student-falls-ill-during-class&#34;&gt;&#xD;&#xA;  &lt;strong&gt;5. A Student Falls Ill During Class&lt;/strong&gt;&#xD;&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#5-a-student-falls-ill-during-class&#34;&gt;#&lt;/a&gt;&#xD;&#xA;&lt;/h3&gt;&#xD;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Scenario&lt;/strong&gt;: A student becomes unwell or has a medical emergency during school hours.&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Action Plan&lt;/strong&gt;:&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Immediate Care&lt;/strong&gt;: The teacher or volunteer provides immediate care, ensuring the student is taken to a quiet, comfortable area.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;First-Aid Response&lt;/strong&gt;: If first-aid is required, the designated first-aider on duty will administer necessary care.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Notify Parents&lt;/strong&gt;: The school coordinator must immediately notify the parents, requesting them to pick up their child if needed.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Emergency Services&lt;/strong&gt;: In the case of a severe illness or injury, call 999 for emergency medical assistance.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Incident Report&lt;/strong&gt;: Complete a written incident report to log the situation and actions taken.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;6-a-parent-is-late-for-pickup&#34;&gt;&#xD;&#xA;  &lt;strong&gt;6. A Parent is Late for Pickup&lt;/strong&gt;&#xD;&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#6-a-parent-is-late-for-pickup&#34;&gt;#&lt;/a&gt;&#xD;&#xA;&lt;/h3&gt;&#xD;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Scenario&lt;/strong&gt;: A parent is late in picking up their child after school hours.&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Action Plan&lt;/strong&gt;:&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Supervision&lt;/strong&gt;: The child will remain supervised by a designated teacher or volunteer in a safe space, preferably in the main hall or a designated waiting area.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Parent Communication&lt;/strong&gt;: Attempt to contact the parent via phone, using the emergency contact details provided during registration.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Escalation&lt;/strong&gt;: If the parent is unreachable after 30 minutes, escalate the matter to the school coordinator, who may need to contact an alternative emergency contact or, in rare cases, local authorities.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;7-a-student-is-absent-without-prior-notice&#34;&gt;&#xD;&#xA;  &lt;strong&gt;7. A Student is Absent Without Prior Notice&lt;/strong&gt;&#xD;&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#7-a-student-is-absent-without-prior-notice&#34;&gt;#&lt;/a&gt;&#xD;&#xA;&lt;/h3&gt;&#xD;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Scenario&lt;/strong&gt;: A student is absent without prior notification from parents.&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Action Plan&lt;/strong&gt;:&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Contact the Parents&lt;/strong&gt;: The coordinator or designated attendance officer should contact the parents after the first hour of class to check on the student’s well-being.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Record Absences&lt;/strong&gt;: Record the absence in the attendance register and, if frequent, follow up with the parents to address potential issues such as health concerns or lack of engagement.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Encouraging Attendance&lt;/strong&gt;: Discuss strategies with parents for improving attendance if necessary, such as incentives or personalised support.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;8-teacher-or-student-conflict&#34;&gt;&#xD;&#xA;  &lt;strong&gt;8. Teacher or Student Conflict&lt;/strong&gt;&#xD;&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#8-teacher-or-student-conflict&#34;&gt;#&lt;/a&gt;&#xD;&#xA;&lt;/h3&gt;&#xD;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Scenario&lt;/strong&gt;: A conflict arises between a teacher and a student during class (e.g., the student feels unfairly treated or the teacher feels disrespected).&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Action Plan&lt;/strong&gt;:&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Calm Intervention&lt;/strong&gt;: The teacher will address the issue calmly and privately with the student after class to understand both perspectives.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Involve the Coordinator&lt;/strong&gt;: If the issue is not resolved, the teacher will involve the school coordinator to mediate a discussion between the teacher, student, and parents if necessary.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Documentation&lt;/strong&gt;: The conflict and any resolutions will be documented for future reference in case of repeated incidents.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;9-parent-complaint&#34;&gt;&#xD;&#xA;  &lt;strong&gt;9. Parent Complaint&lt;/strong&gt;&#xD;&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#9-parent-complaint&#34;&gt;#&lt;/a&gt;&#xD;&#xA;&lt;/h3&gt;&#xD;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Scenario&lt;/strong&gt;: A parent raises a concern or complaint about the school (e.g., teaching methods, classroom behaviour management).&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Action Plan&lt;/strong&gt;:&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Acknowledge the Complaint&lt;/strong&gt;: Listen to the parent’s concerns respectfully and thank them for raising the issue.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Immediate Follow-Up&lt;/strong&gt;: Inform the school coordinator of the complaint and schedule a meeting with the parent to discuss the matter in detail.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Action Plan&lt;/strong&gt;: Based on the outcome of the meeting, create an action plan to address the issue and follow up with the parent to ensure satisfaction.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Record the Complaint&lt;/strong&gt;: Document the complaint and resolution steps for transparency and tracking.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;10-facility-issue-eg-heating-lighting-or-cleanliness&#34;&gt;&#xD;&#xA;  &lt;strong&gt;10. Facility Issue (e.g., Heating, Lighting, or Cleanliness)&lt;/strong&gt;&#xD;&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#10-facility-issue-eg-heating-lighting-or-cleanliness&#34;&gt;#&lt;/a&gt;&#xD;&#xA;&lt;/h3&gt;&#xD;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Scenario&lt;/strong&gt;: There is an issue with the facility, such as no heating, broken lighting, or unclean classrooms.&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Action Plan&lt;/strong&gt;:&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Immediate Fix&lt;/strong&gt;: Notify the venue manager or on-site staff to resolve the issue as quickly as possible.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Temporary Solutions&lt;/strong&gt;: If the issue cannot be fixed immediately, relocate the class to a different room or space. For cleanliness issues, assign available volunteers to clean up.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Long-Term Resolution&lt;/strong&gt;: Document the issue and schedule a meeting with the venue staff to ensure long-term solutions, especially for recurring problems.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>(Hu)go Template Primer</title>
-      <link>http://localhost:1313/posts/goisforlovers/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/goisforlovers/</guid>
-      <description>&lt;p&gt;Hugo uses the excellent &lt;a href=&#34;https://golang.org/&#34;&gt;Go&lt;/a&gt; &lt;a href=&#34;https://golang.org/pkg/html/template/&#34;&gt;html/template&lt;/a&gt; library for&#xA;its template engine. It is an extremely lightweight engine that provides a very&#xA;small amount of logic. In our experience that it is just the right amount of&#xA;logic to be able to create a good static website. If you have used other&#xA;template systems from different languages or frameworks you will find a lot of&#xA;similarities in Go templates.&lt;/p&gt;&#xA;&lt;p&gt;This document is a brief primer on using Go templates. The &lt;a href=&#34;https://golang.org/pkg/html/template/&#34;&gt;Go docs&lt;/a&gt;&#xA;provide more details.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Getting Started with Hugo</title>
-      <link>http://localhost:1313/posts/hugoisforlovers/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/hugoisforlovers/</guid>
-      <description>&lt;h2 id=&#34;step-1-install-hugo&#34;&gt;&#xD;&#xA;  Step 1. Install Hugo&#xD;&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#step-1-install-hugo&#34;&gt;#&lt;/a&gt;&#xD;&#xA;&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;Go to &lt;a href=&#34;https://github.com/spf13/hugo/releases&#34;&gt;Hugo releases&lt;/a&gt; and download the&#xA;appropriate version for your OS and architecture.&lt;/p&gt;&#xA;&lt;p&gt;Save it somewhere specific as we will be using it in the next step.&lt;/p&gt;&#xA;&lt;p&gt;More complete instructions are available at &lt;a href=&#34;https://gohugo.io/getting-started/installing/&#34;&gt;Install Hugo&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;step-2-build-the-docs&#34;&gt;&#xD;&#xA;  Step 2. Build the Docs&#xD;&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#step-2-build-the-docs&#34;&gt;#&lt;/a&gt;&#xD;&#xA;&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;Hugo has its own example site which happens to also be the documentation site&#xA;you are reading right now.&lt;/p&gt;&#xA;&lt;p&gt;Follow the following steps:&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title></title>
-      <link>http://localhost:1313/docs/example/collapsed/3rd-level/4th-level/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/docs/example/collapsed/3rd-level/4th-level/</guid>
-      <description>&lt;h1 id=&#34;4th-level-of-menu&#34;&gt;&#xD;&#xA;  4th Level of Menu&#xD;&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#4th-level-of-menu&#34;&gt;#&lt;/a&gt;&#xD;&#xA;&lt;/h1&gt;&#xD;&#xA;&lt;h2 id=&#34;caesorum-illa-tu-sentit-micat-vestes-papyriferi&#34;&gt;&#xD;&#xA;  Caesorum illa tu sentit micat vestes papyriferi&#xD;&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#caesorum-illa-tu-sentit-micat-vestes-papyriferi&#34;&gt;#&lt;/a&gt;&#xD;&#xA;&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;Inde aderam facti; Theseus vis de tauri illa peream. Oculos &lt;strong&gt;uberaque&lt;/strong&gt; non&#xA;regisque vobis cursuque, opus venit quam vulnera. Et maiora necemque, lege modo;&#xA;gestanda nitidi, vero? Dum ne pectoraque testantur.&lt;/p&gt;&#xA;&lt;p&gt;Venasque repulsa Samos qui, exspectatum eram animosque hinc, &lt;a href=&#34;http://www.creveratnon.net/apricaaetheriis&#34;&gt;aut&#xA;manes&lt;/a&gt;, Assyrii. Cupiens auctoribus&#xA;pariter rubet, profana magni super nocens. Vos ius sibilat inpar turba visae&#xA;iusto! Sedes ante dum superest &lt;strong&gt;extrema&lt;/strong&gt;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title></title>
-      <link>http://localhost:1313/docs/example/hidden/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/docs/example/hidden/</guid>
-      <description>&lt;h1 id=&#34;this-page-is-hidden-in-menu&#34;&gt;&#xD;&#xA;  This page is hidden in menu&#xD;&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#this-page-is-hidden-in-menu&#34;&gt;#&lt;/a&gt;&#xD;&#xA;&lt;/h1&gt;&#xD;&#xA;&lt;h1 id=&#34;quondam-non-pater-est-dignior-ille-eurotas&#34;&gt;&#xD;&#xA;  Quondam non pater est dignior ille Eurotas&#xD;&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#quondam-non-pater-est-dignior-ille-eurotas&#34;&gt;#&lt;/a&gt;&#xD;&#xA;&lt;/h1&gt;&#xD;&#xA;&lt;h2 id=&#34;latent-te-facies&#34;&gt;&#xD;&#xA;  Latent te facies&#xD;&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#latent-te-facies&#34;&gt;#&lt;/a&gt;&#xD;&#xA;&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;Lorem markdownum arma ignoscas vocavit quoque ille texit mandata mentis ultimus,&#xA;frementes, qui in vel. Hippotades Peleus &lt;a href=&#34;http://gratia.net/tot-qua.php&#34;&gt;pennas&#xA;conscia&lt;/a&gt; cuiquam Caeneus quas.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Pater demittere evincitque reddunt&lt;/li&gt;&#xA;&lt;li&gt;Maxime adhuc pressit huc Danaas quid freta&lt;/li&gt;&#xA;&lt;li&gt;Soror ego&lt;/li&gt;&#xA;&lt;li&gt;Luctus linguam saxa ultroque prior Tatiumque inquit&lt;/li&gt;&#xA;&lt;li&gt;Saepe liquitur subita superata dederat Anius sudor&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;cum-honorum-latona&#34;&gt;&#xD;&#xA;  Cum honorum Latona&#xD;&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#cum-honorum-latona&#34;&gt;#&lt;/a&gt;&#xD;&#xA;&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;O fallor &lt;a href=&#34;http://www.spectataharundine.org/aquas-relinquit.html&#34;&gt;in sustinui&#xA;iussorum&lt;/a&gt; equidem.&#xA;Nymphae operi oris alii fronde parens dumque, in auro ait mox ingenti proxima&#xA;iamdudum maius?&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title></title>
-      <link>http://localhost:1313/docs/policies/hidden/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/docs/policies/hidden/</guid>
-      <description>&lt;h1 id=&#34;this-page-is-hidden-in-menu&#34;&gt;&#xD;&#xA;  This page is hidden in menu&#xD;&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#this-page-is-hidden-in-menu&#34;&gt;#&lt;/a&gt;&#xD;&#xA;&lt;/h1&gt;&#xD;&#xA;&lt;h1 id=&#34;quondam-non-pater-est-dignior-ille-eurotas&#34;&gt;&#xD;&#xA;  Quondam non pater est dignior ille Eurotas&#xD;&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#quondam-non-pater-est-dignior-ille-eurotas&#34;&gt;#&lt;/a&gt;&#xD;&#xA;&lt;/h1&gt;&#xD;&#xA;&lt;h2 id=&#34;latent-te-facies&#34;&gt;&#xD;&#xA;  Latent te facies&#xD;&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#latent-te-facies&#34;&gt;#&lt;/a&gt;&#xD;&#xA;&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;Lorem markdownum arma ignoscas vocavit quoque ille texit mandata mentis ultimus,&#xA;frementes, qui in vel. Hippotades Peleus &lt;a href=&#34;http://gratia.net/tot-qua.php&#34;&gt;pennas&#xA;conscia&lt;/a&gt; cuiquam Caeneus quas.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Pater demittere evincitque reddunt&lt;/li&gt;&#xA;&lt;li&gt;Maxime adhuc pressit huc Danaas quid freta&lt;/li&gt;&#xA;&lt;li&gt;Soror ego&lt;/li&gt;&#xA;&lt;li&gt;Luctus linguam saxa ultroque prior Tatiumque inquit&lt;/li&gt;&#xA;&lt;li&gt;Saepe liquitur subita superata dederat Anius sudor&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;cum-honorum-latona&#34;&gt;&#xD;&#xA;  Cum honorum Latona&#xD;&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#cum-honorum-latona&#34;&gt;#&lt;/a&gt;&#xD;&#xA;&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;O fallor &lt;a href=&#34;http://www.spectataharundine.org/aquas-relinquit.html&#34;&gt;in sustinui&#xA;iussorum&lt;/a&gt; equidem.&#xA;Nymphae operi oris alii fronde parens dumque, in auro ait mox ingenti proxima&#xA;iamdudum maius?&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title></title>
-      <link>http://localhost:1313/docs/shortcodes/buttons/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/docs/shortcodes/buttons/</guid>
-      <description>&lt;h1 id=&#34;buttons&#34;&gt;&#xD;&#xA;  Buttons&#xD;&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#buttons&#34;&gt;#&lt;/a&gt;&#xD;&#xA;&lt;/h1&gt;&#xD;&#xA;&lt;p&gt;Buttons are styled links that can lead to local page or external link.&lt;/p&gt;&#xA;&lt;h2 id=&#34;example&#34;&gt;&#xD;&#xA;  Example&#xD;&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#example&#34;&gt;#&lt;/a&gt;&#xD;&#xA;&lt;/h2&gt;&#xD;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-tpl&#34; data-lang=&#34;tpl&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;{{&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;button&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;relref&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;/&amp;#34;&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;[&lt;/span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;class&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;...&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;]&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;&amp;gt;&lt;/span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;}}&lt;/span&gt;Get Home&lt;span style=&#34;color:#75715e&#34;&gt;{{&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;/&lt;/span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;button&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;&amp;gt;&lt;/span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;}}&lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;{{&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;button&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;href&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;https://github.com/alex-shpak/hugo-book&amp;#34;&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;&amp;gt;&lt;/span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;}}&lt;/span&gt;Contribute&lt;span style=&#34;color:#75715e&#34;&gt;{{&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;/&lt;/span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;button&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;&amp;gt;&lt;/span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;}}&lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;&lt;a  href=&#34;http://localhost:1313/&#34;   class=&#34;book-btn&#34;&gt;Get Home&lt;/a&gt;&#xD;&#xA;&#xA;&lt;a  href=&#34;https://github.com/alex-shpak/hugo-book&#34;   target=&#34;_blank&#34; rel=&#34;noopener&#34;  class=&#34;book-btn&#34;&gt;Contribute&lt;/a&gt;&#xD;&#xA;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title></title>
-      <link>http://localhost:1313/docs/shortcodes/columns/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/docs/shortcodes/columns/</guid>
-      <description>&lt;h1 id=&#34;columns&#34;&gt;&#xD;&#xA;  Columns&#xD;&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#columns&#34;&gt;#&lt;/a&gt;&#xD;&#xA;&lt;/h1&gt;&#xD;&#xA;&lt;p&gt;Columns help organize shorter pieces of content horizontally for readability.&lt;/p&gt;&#xA;&lt;h2 id=&#34;example&#34;&gt;&#xD;&#xA;  Example&#xD;&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#example&#34;&gt;#&lt;/a&gt;&#xD;&#xA;&lt;/h2&gt;&#xD;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-html&#34; data-lang=&#34;html&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;{{% columns [ratio=&amp;#34;1:1&amp;#34;] [class=&amp;#34;...&amp;#34;] %}} &lt;span style=&#34;color:#75715e&#34;&gt;&amp;lt;!-- begin columns block --&amp;gt;&lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;# Left Content&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;Lorem markdownum insigne...&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&amp;lt;&lt;span style=&#34;color:#f92672&#34;&gt;---&lt;/span&gt;&amp;gt; &lt;span style=&#34;color:#75715e&#34;&gt;&amp;lt;!-- magic separator, between columns --&amp;gt;&lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;# Mid Content&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;Lorem markdownum insigne...&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&amp;lt;&lt;span style=&#34;color:#f92672&#34;&gt;---&lt;/span&gt;&amp;gt; &lt;span style=&#34;color:#75715e&#34;&gt;&amp;lt;!-- magic separator, between columns --&amp;gt;&lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;# Right Content&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;Lorem markdownum insigne...&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;{{% /columns %}}&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&#34;book-columns flex flex-wrap&#34;&gt;&#xD;&#xA;&lt;div class=&#34;flex-even markdown-inner&#34; style=&#34;flex-grow: 1;&#34;&gt;&#xD;&#xA;&lt;h3 id=&#34;left-content&#34;&gt;&#xD;&#xA;  Left Content&#xD;&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#left-content&#34;&gt;#&lt;/a&gt;&#xD;&#xA;&lt;/h3&gt;&#xD;&#xA;&lt;p&gt;Lorem markdownum insigne. Olympo signis Delphis! Retexi Nereius nova develat&#xA;stringit, frustra Saturnius uteroque inter! Oculis non ritibus Telethusa&#xA;protulit, sed sed aere valvis inhaesuro Pallas animam: qui &lt;em&gt;quid&lt;/em&gt;, ignes.&#xA;Miseratus fonte Ditis conubia.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title></title>
-      <link>http://localhost:1313/docs/shortcodes/details/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/docs/shortcodes/details/</guid>
-      <description>&lt;h1 id=&#34;details&#34;&gt;&#xD;&#xA;  Details&#xD;&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#details&#34;&gt;#&lt;/a&gt;&#xD;&#xA;&lt;/h1&gt;&#xD;&#xA;&lt;p&gt;Details shortcode is a helper for &lt;code&gt;details&lt;/code&gt; html5 element. It is going to replace &lt;code&gt;expand&lt;/code&gt; shortcode.&lt;/p&gt;&#xA;&lt;h2 id=&#34;example&#34;&gt;&#xD;&#xA;  Example&#xD;&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#example&#34;&gt;#&lt;/a&gt;&#xD;&#xA;&lt;/h2&gt;&#xD;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-tpl&#34; data-lang=&#34;tpl&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;{{&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;%&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;details&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Title&amp;#34;&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;[&lt;/span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;open&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;]&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;%&lt;/span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;}}&lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;## Markdown content&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;Lorem markdownum insigne...&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;{{&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;%&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;/&lt;/span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;details&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;%&lt;/span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;}}&lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-tpl&#34; data-lang=&#34;tpl&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;{{&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;%&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;details&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;title&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Title&amp;#34;&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;open&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;true&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;%&lt;/span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;}}&lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;## Markdown content&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;Lorem markdownum insigne...&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;{{&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;%&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;/&lt;/span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;details&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;%&lt;/span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;}}&lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;details open&gt;&lt;summary&gt;Title&lt;/summary&gt;&#xD;&#xA;  &lt;div class=&#34;markdown-inner&#34;&gt;&#xD;&#xA;&lt;h2 id=&#34;markdown-content&#34;&gt;&#xD;&#xA;  Markdown content&#xD;&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#markdown-content&#34;&gt;#&lt;/a&gt;&#xD;&#xA;&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;Lorem markdownum insigne&amp;hellip;&lt;/p&gt;&#xA;  &lt;/div&gt;&#xD;&#xA;&lt;/details&gt;</description>
-    </item>
-    <item>
-      <title></title>
-      <link>http://localhost:1313/docs/shortcodes/hints/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/docs/shortcodes/hints/</guid>
-      <description>&lt;h1 id=&#34;hints&#34;&gt;&#xD;&#xA;  Hints&#xD;&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#hints&#34;&gt;#&lt;/a&gt;&#xD;&#xA;&lt;/h1&gt;&#xD;&#xA;&lt;p&gt;Hint shortcode can be used as hint/alerts/notification block.&lt;br&gt;&#xA;There are 3 colors to choose: &lt;code&gt;info&lt;/code&gt;, &lt;code&gt;warning&lt;/code&gt; and &lt;code&gt;danger&lt;/code&gt;.&lt;/p&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-tpl&#34; data-lang=&#34;tpl&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;{{&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;%&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;hint&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;[&lt;/span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;info&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;|&lt;/span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;warning&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;|&lt;/span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;danger&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;]&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;%&lt;/span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;}}&lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;**Markdown content**  &#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;Lorem markdownum insigne. Olympo signis Delphis! Retexi Nereius nova develat&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;stringit, frustra Saturnius uteroque inter! Oculis non ritibus Telethusa&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;{{&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;%&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;/&lt;/span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;hint&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;%&lt;/span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;}}&lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;example&#34;&gt;&#xD;&#xA;  Example&#xD;&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#example&#34;&gt;#&lt;/a&gt;&#xD;&#xA;&lt;/h2&gt;&#xD;&#xA;&lt;blockquote class=&#34;book-hint info&#34;&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Markdown content&lt;/strong&gt;&lt;br&gt;&#xA;Lorem markdownum insigne. Olympo signis Delphis! Retexi Nereius nova develat&#xA;stringit, frustra Saturnius uteroque inter! Oculis non ritibus Telethusa&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xD;&#xA;&lt;blockquote class=&#34;book-hint warning&#34;&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Markdown content&lt;/strong&gt;&lt;br&gt;&#xA;Lorem markdownum insigne. Olympo signis Delphis! Retexi Nereius nova develat&#xA;stringit, frustra Saturnius uteroque inter! Oculis non ritibus Telethusa&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title></title>
-      <link>http://localhost:1313/docs/shortcodes/mermaid/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/docs/shortcodes/mermaid/</guid>
-      <description>&lt;h1 id=&#34;mermaid-chart&#34;&gt;&#xD;&#xA;  Mermaid Chart&#xD;&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#mermaid-chart&#34;&gt;#&lt;/a&gt;&#xD;&#xA;&lt;/h1&gt;&#xD;&#xA;&lt;p&gt;&lt;a href=&#34;https://mermaid-js.github.io/&#34;&gt;MermaidJS&lt;/a&gt; is library for generating svg charts and diagrams from text.&lt;/p&gt;&#xA;&lt;blockquote class=&#34;book-hint info&#34;&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Override Mermaid initialization config&lt;/strong&gt;&lt;br&gt;&#xA;To override the &lt;a href=&#34;https://mermaid-js.github.io/mermaid/#/Setup&#34;&gt;initialization config&lt;/a&gt; for Mermaid,&#xA;create a &lt;code&gt;mermaid.json&lt;/code&gt; file in your &lt;code&gt;assets&lt;/code&gt; folder!&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xD;&#xA;&lt;h2 id=&#34;example&#34;&gt;&#xD;&#xA;  Example&#xD;&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#example&#34;&gt;#&lt;/a&gt;&#xD;&#xA;&lt;/h2&gt;&#xD;&#xA;&lt;div class=&#34;book-columns flex flex-wrap&#34;&gt;&#xD;&#xA;&lt;div class=&#34;flex-even markdown-inner&#34; style=&#34;flex-grow: 1;&#34;&gt;&#xD;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-tpl&#34; data-lang=&#34;tpl&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;{{&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;mermaid&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;[&lt;/span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;class&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;...&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;]&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;&amp;gt;&lt;/span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;}}&lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;stateDiagram-v2&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    State1: The state with a note&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    note right of State1&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;        Important information! You can write&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;        notes.&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    end note&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    State1 --&amp;gt; State2&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    note left of State2 : This is the note to the left.&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;{{&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;/&lt;/span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;mermaid&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;&amp;gt;&lt;/span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;}}&lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;  &lt;/div&gt;&#xD;&#xA;&lt;div class=&#34;flex-even markdown-inner&#34; style=&#34;flex-grow: 1;&#34;&gt;&#xD;&#xA;&lt;script src=&#34;http://localhost:1313/mermaid.min.js&#34;&gt;&lt;/script&gt;&#xD;&#xA;  &lt;script&gt;mermaid.initialize({&#xD;&#xA;  &#34;flowchart&#34;: {&#xD;&#xA;    &#34;useMaxWidth&#34;:true&#xD;&#xA;  },&#xD;&#xA;  &#34;theme&#34;: &#34;default&#34;&#xD;&#xA;}&#xD;&#xA;)&lt;/script&gt;&#xD;&#xA;&lt;pre class=&#34;mermaid&#34;&gt;&#xD;&#xA;stateDiagram-v2&#xD;&#xA;    State1: The state with a note&#xD;&#xA;    note right of State1&#xD;&#xA;        Important information! You can write&#xD;&#xA;        notes.&#xD;&#xA;    end note&#xD;&#xA;    State1 --&gt; State2&#xD;&#xA;    note left of State2 : This is the note to the left.&#xD;&#xA;&lt;/pre&gt;&#xD;&#xA;  &lt;/div&gt;&#xD;&#xA;&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title></title>
-      <link>http://localhost:1313/docs/shortcodes/section/first-page/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/docs/shortcodes/section/first-page/</guid>
-      <description>&lt;h1 id=&#34;first-page&#34;&gt;&#xD;&#xA;  First page&#xD;&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#first-page&#34;&gt;#&lt;/a&gt;&#xD;&#xA;&lt;/h1&gt;&#xD;&#xA;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title></title>
-      <link>http://localhost:1313/docs/shortcodes/section/second-page/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/docs/shortcodes/section/second-page/</guid>
-      <description>&lt;h1 id=&#34;second-page&#34;&gt;&#xD;&#xA;  Second Page&#xD;&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#second-page&#34;&gt;#&lt;/a&gt;&#xD;&#xA;&lt;/h1&gt;&#xD;&#xA;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title></title>
-      <link>http://localhost:1313/docs/shortcodes/tabs/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/docs/shortcodes/tabs/</guid>
-      <description>&lt;h1 id=&#34;tabs&#34;&gt;&#xD;&#xA;  Tabs&#xD;&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#tabs&#34;&gt;#&lt;/a&gt;&#xD;&#xA;&lt;/h1&gt;&#xD;&#xA;&lt;p&gt;Tabs let you organize content by context, for example installation instructions for each supported platform.&lt;/p&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-tpl&#34; data-lang=&#34;tpl&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;{{&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;tabs&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;id&amp;#34;&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;&amp;gt;&lt;/span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;}}&lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;{{&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;%&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;tab&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;MacOS&amp;#34;&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;%&lt;/span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;}}&lt;/span&gt; # MacOS Content &lt;span style=&#34;color:#75715e&#34;&gt;{{&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;%&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;/&lt;/span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;tab&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;%&lt;/span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;}}&lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;{{&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;%&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;tab&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Linux&amp;#34;&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;%&lt;/span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;}}&lt;/span&gt; # Linux Content &lt;span style=&#34;color:#75715e&#34;&gt;{{&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;%&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;/&lt;/span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;tab&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;%&lt;/span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;}}&lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;{{&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;%&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;tab&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Windows&amp;#34;&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;%&lt;/span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;}}&lt;/span&gt; # Windows Content &lt;span style=&#34;color:#75715e&#34;&gt;{{&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;%&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;/&lt;/span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;tab&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;%&lt;/span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;}}&lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;{{&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;/&lt;/span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;tabs&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;&amp;gt;&lt;/span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;}}&lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;example&#34;&gt;&#xD;&#xA;  Example&#xD;&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#example&#34;&gt;#&lt;/a&gt;&#xD;&#xA;&lt;/h2&gt;&#xD;&#xA;&lt;div class=&#34;book-tabs&#34;&gt;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&lt;input type=&#34;radio&#34; class=&#34;toggle&#34; name=&#34;tabs-0&#34; id=&#34;tabs-0-0&#34; checked=&#34;checked&#34; /&gt;&#xD;&#xA;&lt;label for=&#34;tabs-0-0&#34;&gt;MacOS&lt;/label&gt;&#xD;&#xA;&lt;div class=&#34;book-tabs-content markdown-inner&#34;&gt;&lt;h1 id=&#34;macos&#34;&gt;&#xD;&#xA;  MacOS&#xD;&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#macos&#34;&gt;#&lt;/a&gt;&#xD;&#xA;&lt;/h1&gt;&#xD;&#xA;&lt;p&gt;This is tab &lt;strong&gt;MacOS&lt;/strong&gt; content.&lt;/p&gt;&#xA;&lt;p&gt;Lorem markdownum insigne. Olympo signis Delphis! Retexi Nereius nova develat&#xA;stringit, frustra Saturnius uteroque inter! Oculis non ritibus Telethusa&#xA;protulit, sed sed aere valvis inhaesuro Pallas animam: qui &lt;em&gt;quid&lt;/em&gt;, ignes.&#xA;Miseratus fonte Ditis conubia.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>KaTeX</title>
-      <link>http://localhost:1313/docs/shortcodes/katex/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/docs/shortcodes/katex/</guid>
-      <description>&lt;h1 id=&#34;katex&#34;&gt;&#xD;&#xA;  KaTeX&#xD;&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#katex&#34;&gt;#&lt;/a&gt;&#xD;&#xA;&lt;/h1&gt;&#xD;&#xA;&lt;p&gt;KaTeX shortcode let you render math typesetting in markdown document. See &lt;a href=&#34;https://katex.org/&#34;&gt;KaTeX&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;example&#34;&gt;&#xD;&#xA;  Example&#xD;&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#example&#34;&gt;#&lt;/a&gt;&#xD;&#xA;&lt;/h2&gt;&#xD;&#xA;&lt;div class=&#34;book-columns flex flex-wrap&#34;&gt;&#xD;&#xA;&lt;div class=&#34;flex-even markdown-inner&#34; style=&#34;flex-grow: 1;&#34;&gt;&#xD;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-latex&#34; data-lang=&#34;latex&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;{{&amp;lt; katex display=true &amp;gt;}}&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;f(x) = &lt;span style=&#34;color:#66d9ef&#34;&gt;\int&lt;/span&gt;_{-&lt;span style=&#34;color:#66d9ef&#34;&gt;\infty&lt;/span&gt;}^&lt;span style=&#34;color:#66d9ef&#34;&gt;\infty\hat&lt;/span&gt; f(&lt;span style=&#34;color:#66d9ef&#34;&gt;\xi&lt;/span&gt;)&lt;span style=&#34;color:#66d9ef&#34;&gt;\,&lt;/span&gt;e^{2 &lt;span style=&#34;color:#66d9ef&#34;&gt;\pi&lt;/span&gt; i &lt;span style=&#34;color:#66d9ef&#34;&gt;\xi&lt;/span&gt; x}&lt;span style=&#34;color:#66d9ef&#34;&gt;\,&lt;/span&gt;d&lt;span style=&#34;color:#66d9ef&#34;&gt;\xi&lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;{{&amp;lt; /katex &amp;gt;}}&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;  &lt;/div&gt;&#xD;&#xA;&lt;div class=&#34;flex-even markdown-inner&#34; style=&#34;flex-grow: 1;&#34;&gt;&#xD;&#xA;&lt;link rel=&#34;stylesheet&#34; href=&#34;http://localhost:1313/katex/katex.min.css&#34; /&gt;&#xD;&#xA;&lt;script defer src=&#34;http://localhost:1313/katex/katex.min.js&#34;&gt;&lt;/script&gt;&#xD;&#xA;&lt;script defer src=&#34;http://localhost:1313/katex/auto-render.min.js&#34; onload=&#34;renderMathInElement(document.body);&#34;&gt;&lt;/script&gt;&lt;span&gt;&#xD;&#xA;  \[&#xD;&#xA;f(x) = \int_{-\infty}^\infty\hat f(\xi)\,e^{2 \pi i \xi x}\,d\xi&#xD;&#xA;\]&#xD;&#xA;&lt;/span&gt;&#xD;&#xA;  &lt;/div&gt;&#xD;&#xA;&lt;/div&gt;&#xD;&#xA;&lt;h2 id=&#34;display-mode-example&#34;&gt;&#xD;&#xA;  Display Mode Example&#xD;&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#display-mode-example&#34;&gt;#&lt;/a&gt;&#xD;&#xA;&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;Here is some inline example: &lt;span&gt;&#xD;&#xA;  \(\pi(x)\)&#xD;&#xA;&lt;/span&gt;&#xD;&#xA;, rendered in the same line. And below is &lt;code&gt;display&lt;/code&gt; example, having &lt;code&gt;display: block&lt;/code&gt;&#xA;&lt;span&gt;&#xD;&#xA;  \[&#xD;&#xA;f(x) = \int_{-\infty}^\infty\hat f(\xi)\,e^{2 \pi i \xi x}\,d\xi&#xD;&#xA;\]&#xD;&#xA;&lt;/span&gt;&#xD;&#xA;&#xA;Text continues here.&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Crescent School</title><link>http://localhost:1313/</link><description>Recent content on Crescent School</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Mon, 23 Jun 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml"/><item><title>1-Al-Fātiḥah</title><link>http://localhost:1313/docs/curriculum/quran/01-fatiha/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/docs/curriculum/quran/01-fatiha/</guid><description>&lt;h1 id="-quran-syllabus-sūrah-al-fātiḥah">
+ 🕋 Qur’an Syllabus: &lt;strong>Sūrah al-Fātiḥah&lt;/strong>
+ &lt;a class="anchor" href="#-quran-syllabus-s%c5%abrah-al-f%c4%81ti%e1%b8%a5ah">#&lt;/a>
+&lt;/h1>
+&lt;hr>
+&lt;h2 id="-surah-overview">
+ 📖 Surah Overview
+ &lt;a class="anchor" href="#-surah-overview">#&lt;/a>
+&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Name:&lt;/strong> Sūrah al-Fātiḥah (The Opening)&lt;/li>
+&lt;li>&lt;strong>Position in Qur’an:&lt;/strong> 1st Surah&lt;/li>
+&lt;li>&lt;strong>Verses:&lt;/strong> 7 (Āyāt)&lt;/li>
+&lt;li>&lt;strong>Revelation:&lt;/strong> Makkiyyah&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="-arabic-text">
+ 📖 Arabic Text
+ &lt;a class="anchor" href="#-arabic-text">#&lt;/a>
+&lt;/h2>
+&lt;p>&lt;strong>بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ&lt;/strong>&lt;br>
+&lt;strong>ٱلْـحَمْدُ لِلَّهِ رَبِّ ٱلْعَـٰلَمِينَ&lt;/strong>&lt;br>
+&lt;strong>ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ&lt;/strong>&lt;br>
+&lt;strong>مَـٰلِكِ يَوْمِ ٱلدِّينِ&lt;/strong>&lt;br>
+&lt;strong>إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ&lt;/strong>&lt;br>
+&lt;strong>ٱهْدِنَا ٱلصِّرَٰطَ ٱلْمُسْتَقِيمَ&lt;/strong>&lt;br>
+&lt;strong>صِرَٰطَ ٱلَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ ٱلْمَغْضُوبِ عَلَيْهِمْ وَلَا ٱلضَّآلِّينَ&lt;/strong>&lt;/p>
+&lt;hr>
+&lt;h2 id="-learning-objectives">
+ 🌟 Learning Objectives
+ &lt;a class="anchor" href="#-learning-objectives">#&lt;/a>
+&lt;/h2>
+&lt;ul>
+&lt;li>Memorise the Sūrah with correct Tajwīd&lt;/li>
+&lt;li>Understand the meaning of key words and phrases&lt;/li>
+&lt;li>Reflect on the central themes of guidance, mercy, and worship&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="-memorisation-strategy">
+ 📝 Memorisation Strategy
+ &lt;a class="anchor" href="#-memorisation-strategy">#&lt;/a>
+&lt;/h2>
+&lt;ul>
+&lt;li>Repeat each verse multiple times&lt;/li>
+&lt;li>Recite with a teacher or parent to ensure correct pronunciation&lt;/li>
+&lt;li>Listen to recitation by qualified Qāriʾ&lt;/li>
+&lt;li>Practise regularly in small sections&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="-key-vocabulary">
+ 🧠 Key Vocabulary
+ &lt;a class="anchor" href="#-key-vocabulary">#&lt;/a>
+&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>ٱلْـحَمْدُ&lt;/strong> – All praise&lt;/li>
+&lt;li>&lt;strong>رَبِّ&lt;/strong> – Lord, Sustainer&lt;/li>
+&lt;li>&lt;strong>ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ&lt;/strong> – The Most Gracious, the Most Merciful&lt;/li>
+&lt;li>&lt;strong>مَـٰلِكِ&lt;/strong> – Master&lt;/li>
+&lt;li>&lt;strong>ٱهْدِنَا&lt;/strong> – Guide us&lt;/li>
+&lt;li>&lt;strong>ٱلصِّرَٰطَ ٱلْمُسْتَقِيمَ&lt;/strong> – The straight path&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="-reflection">
+ 💭 Reflection
+ &lt;a class="anchor" href="#-reflection">#&lt;/a>
+&lt;/h2>
+&lt;p>Sūrah al-Fātiḥah is a powerful duʿā and the opening chapter of the Qur’an. It expresses our need for Allah’s guidance and affirms His mercy and lordship. It is recited in every unit of prayer (ṣalāh), making its memorisation and understanding essential for all Muslims.&lt;/p></description></item><item><title>With ToC</title><link>http://localhost:1313/docs/example/table-of-contents/with-toc/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/docs/example/table-of-contents/with-toc/</guid><description>&lt;h1 id="caput-vino-delphine-in-tamen-vias">
+ Caput vino delphine in tamen vias
+ &lt;a class="anchor" href="#caput-vino-delphine-in-tamen-vias">#&lt;/a>
+&lt;/h1>
+&lt;h2 id="cognita-laeva-illo-fracta">
+ Cognita laeva illo fracta
+ &lt;a class="anchor" href="#cognita-laeva-illo-fracta">#&lt;/a>
+&lt;/h2>
+&lt;p>Lorem markdownum pavent auras, surgit nunc cingentibus libet &lt;strong>Laomedonque que&lt;/strong>
+est. Pastor &lt;a href="http://est.org/ire.aspx">An&lt;/a> arbor filia foedat, ne &lt;a href="http://www.indiciumturbam.org/moramquid.php">fugit
+aliter&lt;/a>, per. Helicona illas et
+callida neptem est &lt;em>Oresitrophos&lt;/em> caput, dentibus est venit. Tenet reddite
+&lt;a href="http://www.antro-et.net/">famuli&lt;/a> praesentem fortibus, quaeque vis foret si
+frondes &lt;em>gelidos&lt;/em> gravidae circumtulit &lt;a href="http://incurvasustulit.io/illi-virtute.html">inpulit armenta
+nativum&lt;/a>.&lt;/p>
+&lt;ol>
+&lt;li>Te at cruciabere vides rubentis manebo&lt;/li>
+&lt;li>Maturuit in praetemptat ruborem ignara postquam habitasse&lt;/li>
+&lt;li>Subitarum supplevit quoque fontesque venabula spretis modo&lt;/li>
+&lt;li>Montis tot est mali quasque gravis&lt;/li>
+&lt;li>Quinquennem domus arsit ipse&lt;/li>
+&lt;li>Pellem turis pugnabant locavit&lt;/li>
+&lt;/ol>
+&lt;h2 id="natus-quaerere">
+ Natus quaerere
+ &lt;a class="anchor" href="#natus-quaerere">#&lt;/a>
+&lt;/h2>
+&lt;p>Pectora et sine mulcere, coniuge dum tincta incurvae. Quis iam; est dextra
+Peneosque, metuis a verba, primo. Illa sed colloque suis: magno: gramen, aera
+excutiunt concipit.&lt;/p></description></item><item><title>Without ToC</title><link>http://localhost:1313/docs/example/table-of-contents/without-toc/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/docs/example/table-of-contents/without-toc/</guid><description>&lt;h1 id="at-me-ipso-nepotibus-nunc-celebratior-genus">
+ At me ipso nepotibus nunc celebratior genus
+ &lt;a class="anchor" href="#at-me-ipso-nepotibus-nunc-celebratior-genus">#&lt;/a>
+&lt;/h1>
+&lt;h2 id="tanto-oblite">
+ Tanto oblite
+ &lt;a class="anchor" href="#tanto-oblite">#&lt;/a>
+&lt;/h2>
+&lt;p>Lorem markdownum pectora novis patenti igne sua opus aurae feras materiaque
+illic demersit imago et aristas questaque posset. Vomit quoque suo inhaesuro
+clara. Esse cumque, per referri triste. Ut exponit solisque communis in tendens
+vincetis agisque iamque huic bene ante vetat omina Thebae rates. Aeacus servat
+admonitu concidit, ad resimas vultus et rugas vultu &lt;strong>dignamque&lt;/strong> Siphnon.&lt;/p>
+&lt;p>Quam iugulum regia simulacra, plus meruit humo pecorumque haesit, ab discedunt
+dixit: ritu pharetramque. Exul Laurenti orantem modo, per densum missisque labor
+manibus non colla unum, obiectat. Tu pervia collo, fessus quae Cretenque Myconon
+crate! Tegumenque quae invisi sudore per vocari quaque plus ventis fluidos. Nodo
+perque, fugisse pectora sorores.&lt;/p></description></item><item><title>Creating a New Theme</title><link>http://localhost:1313/posts/creating-a-new-theme/</link><pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate><guid>http://localhost:1313/posts/creating-a-new-theme/</guid><description>&lt;h2 id="introduction">
+ Introduction
+ &lt;a class="anchor" href="#introduction">#&lt;/a>
+&lt;/h2>
+&lt;p>This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.&lt;/p>
+&lt;p>We&amp;rsquo;ll start with creating a new site with a very basic template. Then we&amp;rsquo;ll add in a few pages and posts. With small variations on that, you will be able to create many different types of web sites.&lt;/p></description></item><item><title>Migrate to Hugo from Jekyll</title><link>http://localhost:1313/posts/migrate-from-jekyll/</link><pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate><guid>http://localhost:1313/posts/migrate-from-jekyll/</guid><description>&lt;h2 id="move-static-content-to-static">
+ Move static content to &lt;code>static&lt;/code>
+ &lt;a class="anchor" href="#move-static-content-to-static">#&lt;/a>
+&lt;/h2>
+&lt;p>Jekyll has a rule that any directory not starting with &lt;code>_&lt;/code> will be copied as-is to the &lt;code>_site&lt;/code> output. Hugo keeps all static content under &lt;code>static&lt;/code>. You should therefore move it all there.
+With Jekyll, something that looked like&lt;/p>
+&lt;pre>&lt;code>▾ &amp;lt;root&amp;gt;/
+ ▾ images/
+ logo.png
+&lt;/code>&lt;/pre>
+&lt;p>should become&lt;/p>
+&lt;pre>&lt;code>▾ &amp;lt;root&amp;gt;/
+ ▾ static/
+ ▾ images/
+ logo.png
+&lt;/code>&lt;/pre>
+&lt;p>Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as &lt;code>CNAME&lt;/code>) to be moved to &lt;code>static&lt;/code>.&lt;/p></description></item><item><title>Students</title><link>http://localhost:1313/docs/policies/students/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/docs/policies/students/</guid><description>&lt;h1 id="homework-policy">
+ Homework Policy
+ &lt;a class="anchor" href="#homework-policy">#&lt;/a>
+&lt;/h1>
+&lt;p>&lt;strong>Completion of Homework&lt;/strong>&lt;br>
+Parents/guardians are required to ensure their child completes all assigned homework. If a homework booklet or sheet is provided, it must be signed by either the parent or guardian and returned to the teacher within the specified deadline.&lt;/p>
+&lt;p>&lt;strong>Non-Completion of Homework&lt;/strong>&lt;br>
+In the event that a child does not complete their homework, the teacher may, at their discretion, impose a sanction, such as detention. If there is a valid reason for the late submission of homework, it is the responsibility of the parent or guardian to notify the teacher in writing.&lt;/p></description></item><item><title>Teacher</title><link>http://localhost:1313/docs/policies/teachers/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/docs/policies/teachers/</guid><description>&lt;h1 id="teacher-and-volunteer-code-of-conduct">
+ Teacher and Volunteer Code of Conduct
+ &lt;a class="anchor" href="#teacher-and-volunteer-code-of-conduct">#&lt;/a>
+&lt;/h1>
+&lt;ul>
+&lt;li>&lt;strong>Professional Standards&lt;/strong>: Teachers and volunteers are expected to act as role models, demonstrating the highest standards of professionalism and Islamic ethics.&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>New Teachers&lt;/strong>&lt;/p>
+&lt;p>&lt;strong>Policy for Hiring New Teachers&lt;/strong>&lt;/p>
+&lt;p>&lt;strong>Trial Period for New Teachers&lt;/strong>&lt;/p>
+&lt;ol>
+&lt;li>Initial Trial Period&lt;br>
+All newly hired teachers will undergo a four-week trial period, during which they will work as a teaching assistant. This period will allow the school to assess the candidate&amp;rsquo;s suitability for a permanent teaching position.&lt;/li>
+&lt;li>Evaluation&lt;br>
+At the end of the trial period, a decision will be made regarding their employment based on performance, feedback, and alignment with the school&amp;rsquo;s standards.&lt;/li>
+&lt;/ol>
+&lt;p>&lt;strong>Payment During the Trial Period&lt;/strong>&lt;br>
+Teaching assistants currently are not paid during the trial period. However, this is an open topic for future discussion and decision-making.&lt;/p></description></item><item><title>Parents</title><link>http://localhost:1313/docs/policies/parents/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/docs/policies/parents/</guid><description>&lt;h1 id="school-fee-policy">
+ School Fee Policy
+ &lt;a class="anchor" href="#school-fee-policy">#&lt;/a>
+&lt;/h1>
+&lt;ol>
+&lt;li>
+&lt;p>&lt;strong>Fee Confirmation&lt;/strong>&lt;br>
+Parents are requested to confirm with the school during drop-off whether their school fees have been successfully processed and ensure that all references are correctly identified.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Fee Structure&lt;/strong>&lt;br>
+A clear fee payment structure will be communicated to all parents at the start of the year. Payment deadlines will be set, and reminders sent to parents via email or SMS.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Unpaid Fees&lt;/strong>&lt;br>
+For parents with unpaid school fees, full payment of the year’s fees will be required moving forward. This policy aims to reduce administrative tasks and allow the school to focus more on students&amp;rsquo; education.&lt;/p></description></item><item><title>Safeguarding</title><link>http://localhost:1313/docs/policies/safeguarding/</link><pubDate>Thu, 19 Jun 2025 00:00:00 +0000</pubDate><guid>http://localhost:1313/docs/policies/safeguarding/</guid><description>&lt;h1 id="safeguarding-and-child-protection">
+ Safeguarding and Child Protection
+ &lt;a class="anchor" href="#safeguarding-and-child-protection">#&lt;/a>
+&lt;/h1>
+&lt;p>At Crescent School, the safety and well-being of every child is our top priority. We are committed to providing a secure, caring, and supportive environment in which children can learn and flourish. Our safeguarding and health &amp;amp; safety policies are designed to protect all pupils, staff, and volunteers.&lt;/p>
+&lt;hr>
+&lt;h2 id="-safeguarding-and-child-protection-policy">
+ 🔒 Safeguarding and Child Protection Policy
+ &lt;a class="anchor" href="#-safeguarding-and-child-protection-policy">#&lt;/a>
+&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;strong>Designated Safeguarding Officer (DSO)&lt;/strong>&lt;br>
+A qualified Designated Safeguarding Officer is appointed each year. They are responsible for handling all matters related to child protection and are the first point of contact for any safeguarding concerns.&lt;/p></description></item><item><title>Venue</title><link>http://localhost:1313/docs/policies/venue/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/docs/policies/venue/</guid><description>&lt;h1 id="venue-management-and-cleanliness">
+ Venue Management and Cleanliness
+ &lt;a class="anchor" href="#venue-management-and-cleanliness">#&lt;/a>
+&lt;/h1>
+&lt;p>At Crescent School, we take pride in maintaining a clean, well-organised, and safe learning environment for all students and staff. Our venue management policies ensure smooth operations and uphold high standards of hygiene and organisation.&lt;/p>
+&lt;hr>
+&lt;h2 id="-room-bookings">
+ 🏫 Room Bookings
+ &lt;a class="anchor" href="#-room-bookings">#&lt;/a>
+&lt;/h2>
+&lt;ul>
+&lt;li>Room bookings are managed centrally to avoid clashes and ensure effective use of space.&lt;/li>
+&lt;li>A schedule review helps address any updates or changes.&lt;/li>
+&lt;li>Staff are expected to check and adhere to the published room timetable.&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="-cleanliness-standards">
+ 🧼 Cleanliness Standards
+ &lt;a class="anchor" href="#-cleanliness-standards">#&lt;/a>
+&lt;/h2>
+&lt;ul>
+&lt;li>Classrooms are cleaned regularly, with clear responsibilities assigned to volunteers.&lt;/li>
+&lt;li>A cleanliness checklist is displayed in each room to support hygiene standards.&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="-clean-up-assistance">
+ 🤝 Clean-Up Assistance
+ &lt;a class="anchor" href="#-clean-up-assistance">#&lt;/a>
+&lt;/h2>
+&lt;ul>
+&lt;li>Parents, students, and teachers are encouraged to work together to maintain a tidy environment.&lt;/li>
+&lt;li>Children learn the importance of caring for shared spaces as part of their character development.&lt;/li>
+&lt;li>End-of-day classroom checks help reinforce personal responsibility and teamwork.&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;p>Together, we create a space that reflects the values of respect, cleanliness, and cooperation.&lt;/p></description></item><item><title>What If?</title><link>http://localhost:1313/docs/policies/whatif/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/docs/policies/whatif/</guid><description>&lt;h1 id="what-if">
+ What If?
+ &lt;a class="anchor" href="#what-if">#&lt;/a>
+&lt;/h1>
+&lt;h2 id="scenarios-guide-for-staff-and-volunteers">
+ Scenarios Guide for Staff and Volunteers
+ &lt;a class="anchor" href="#scenarios-guide-for-staff-and-volunteers">#&lt;/a>
+&lt;/h2>
+&lt;h3 id="1-teacher-absence">
+ &lt;strong>1. Teacher Absence&lt;/strong>
+ &lt;a class="anchor" href="#1-teacher-absence">#&lt;/a>
+&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Scenario&lt;/strong>: A teacher is absent without prior notice.
+&lt;ul>
+&lt;li>&lt;strong>Action Plan&lt;/strong>:
+&lt;ul>
+&lt;li>&lt;strong>Immediate Communication&lt;/strong>: The absent teacher must inform the school coordinator as soon as possible via phone or WhatsApp.&lt;/li>
+&lt;li>&lt;strong>Cover Arrangements&lt;/strong>: The school coordinator will assign a backup teacher or a qualified volunteer to cover the class. In the absence of a substitute, a senior volunteer or class assistant should follow the pre-prepared lesson plan.&lt;/li>
+&lt;li>&lt;strong>Lesson Plan Availability&lt;/strong>: Teachers should submit their weekly lesson plans in advance, stored digitally (Google Docs or shared folder) for easy access by substitutes.&lt;/li>
+&lt;li>&lt;strong>Notification to Parents&lt;/strong>: If the absence will significantly impact the class, parents should be notified via the school’s WhatsApp group or email.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h3 id="2-student-behaviour-issues">
+ &lt;strong>2. Student behaviour Issues&lt;/strong>
+ &lt;a class="anchor" href="#2-student-behaviour-issues">#&lt;/a>
+&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Scenario&lt;/strong>: A student is disruptive during class (e.g., not listening, distracting others, showing defiant behaviour).
+&lt;ul>
+&lt;li>&lt;strong>Action Plan&lt;/strong>:
+&lt;ul>
+&lt;li>&lt;strong>Verbal Warning&lt;/strong>: The teacher gives a calm but firm verbal warning, explaining the disruptive behaviour and its impact on the class.&lt;/li>
+&lt;li>&lt;strong>Time-Out&lt;/strong>: If the behaviour continues, the student will be given a time-out in a designated quiet area for reflection (no more than 5 minutes).&lt;/li>
+&lt;li>&lt;strong>Discussion&lt;/strong>: After class, the teacher will have a one-on-one conversation with the student to understand the underlying cause of the behaviour and to reinforce expected conduct.&lt;/li>
+&lt;li>&lt;strong>Parental Involvement&lt;/strong>: If the behaviour persists across multiple sessions, the teacher will inform the parents and discuss possible solutions (e.g., positive reinforcement at home, additional support).&lt;/li>
+&lt;li>&lt;strong>Referral to Coordinator&lt;/strong>: For severe cases, the issue will be escalated to the school coordinator, who will schedule a meeting with the parents.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h3 id="3-a-volunteer-is-late-or-absent">
+ &lt;strong>3. A Volunteer is Late or Absent&lt;/strong>
+ &lt;a class="anchor" href="#3-a-volunteer-is-late-or-absent">#&lt;/a>
+&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Scenario&lt;/strong>: A volunteer responsible for helping with classroom activities or operations is late or absent.
+&lt;ul>
+&lt;li>&lt;strong>Action Plan&lt;/strong>:
+&lt;ul>
+&lt;li>&lt;strong>Immediate Communication&lt;/strong>: Volunteers must inform the school coordinator or class teacher if they anticipate being late or absent.&lt;/li>
+&lt;li>&lt;strong>Task Redistribution&lt;/strong>: The teacher or coordinator will reassign tasks to available volunteers or staff for that session. This could include dividing responsibilities (e.g., managing snack time, organizing materials).&lt;/li>
+&lt;li>&lt;strong>Volunteer Roster&lt;/strong>: Maintain a weekly volunteer roster with backup personnel for critical tasks like classroom support and monitoring student breaks.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h3 id="4-classroom-materials-or-resources-are-missing">
+ &lt;strong>4. Classroom Materials or Resources Are Missing&lt;/strong>
+ &lt;a class="anchor" href="#4-classroom-materials-or-resources-are-missing">#&lt;/a>
+&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Scenario&lt;/strong>: Key teaching materials or resources (e.g., textbooks, whiteboard markers) are missing or unavailable.
+&lt;ul>
+&lt;li>&lt;strong>Action Plan&lt;/strong>:
+&lt;ul>
+&lt;li>&lt;strong>Use Digital Resources&lt;/strong>: Teachers can switch to digital tools (e.g., tablets, phones) to access materials like Qur&amp;rsquo;an verses, Arabic worksheets, or educational videos.&lt;/li>
+&lt;li>&lt;strong>Improvise&lt;/strong>: Teachers can adapt the lesson by encouraging group discussions, storytelling, or using available materials creatively (e.g., using a chalkboard if whiteboard markers are missing).&lt;/li>
+&lt;li>&lt;strong>Restock Procedure&lt;/strong>: Ensure that a stock of essential materials is always available, and teachers are required to inform the coordinator about low stock at least a week in advance.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h3 id="5-a-student-falls-ill-during-class">
+ &lt;strong>5. A Student Falls Ill During Class&lt;/strong>
+ &lt;a class="anchor" href="#5-a-student-falls-ill-during-class">#&lt;/a>
+&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Scenario&lt;/strong>: A student becomes unwell or has a medical emergency during school hours.
+&lt;ul>
+&lt;li>&lt;strong>Action Plan&lt;/strong>:
+&lt;ul>
+&lt;li>&lt;strong>Immediate Care&lt;/strong>: The teacher or volunteer provides immediate care, ensuring the student is taken to a quiet, comfortable area.&lt;/li>
+&lt;li>&lt;strong>First-Aid Response&lt;/strong>: If first-aid is required, the designated first-aider on duty will administer necessary care.&lt;/li>
+&lt;li>&lt;strong>Notify Parents&lt;/strong>: The school coordinator must immediately notify the parents, requesting them to pick up their child if needed.&lt;/li>
+&lt;li>&lt;strong>Emergency Services&lt;/strong>: In the case of a severe illness or injury, call 999 for emergency medical assistance.&lt;/li>
+&lt;li>&lt;strong>Incident Report&lt;/strong>: Complete a written incident report to log the situation and actions taken.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h3 id="6-a-parent-is-late-for-pickup">
+ &lt;strong>6. A Parent is Late for Pickup&lt;/strong>
+ &lt;a class="anchor" href="#6-a-parent-is-late-for-pickup">#&lt;/a>
+&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Scenario&lt;/strong>: A parent is late in picking up their child after school hours.
+&lt;ul>
+&lt;li>&lt;strong>Action Plan&lt;/strong>:
+&lt;ul>
+&lt;li>&lt;strong>Supervision&lt;/strong>: The child will remain supervised by a designated teacher or volunteer in a safe space, preferably in the main hall or a designated waiting area.&lt;/li>
+&lt;li>&lt;strong>Parent Communication&lt;/strong>: Attempt to contact the parent via phone, using the emergency contact details provided during registration.&lt;/li>
+&lt;li>&lt;strong>Escalation&lt;/strong>: If the parent is unreachable after 30 minutes, escalate the matter to the school coordinator, who may need to contact an alternative emergency contact or, in rare cases, local authorities.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h3 id="7-a-student-is-absent-without-prior-notice">
+ &lt;strong>7. A Student is Absent Without Prior Notice&lt;/strong>
+ &lt;a class="anchor" href="#7-a-student-is-absent-without-prior-notice">#&lt;/a>
+&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Scenario&lt;/strong>: A student is absent without prior notification from parents.
+&lt;ul>
+&lt;li>&lt;strong>Action Plan&lt;/strong>:
+&lt;ul>
+&lt;li>&lt;strong>Contact the Parents&lt;/strong>: The coordinator or designated attendance officer should contact the parents after the first hour of class to check on the student’s well-being.&lt;/li>
+&lt;li>&lt;strong>Record Absences&lt;/strong>: Record the absence in the attendance register and, if frequent, follow up with the parents to address potential issues such as health concerns or lack of engagement.&lt;/li>
+&lt;li>&lt;strong>Encouraging Attendance&lt;/strong>: Discuss strategies with parents for improving attendance if necessary, such as incentives or personalised support.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h3 id="8-teacher-or-student-conflict">
+ &lt;strong>8. Teacher or Student Conflict&lt;/strong>
+ &lt;a class="anchor" href="#8-teacher-or-student-conflict">#&lt;/a>
+&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Scenario&lt;/strong>: A conflict arises between a teacher and a student during class (e.g., the student feels unfairly treated or the teacher feels disrespected).
+&lt;ul>
+&lt;li>&lt;strong>Action Plan&lt;/strong>:
+&lt;ul>
+&lt;li>&lt;strong>Calm Intervention&lt;/strong>: The teacher will address the issue calmly and privately with the student after class to understand both perspectives.&lt;/li>
+&lt;li>&lt;strong>Involve the Coordinator&lt;/strong>: If the issue is not resolved, the teacher will involve the school coordinator to mediate a discussion between the teacher, student, and parents if necessary.&lt;/li>
+&lt;li>&lt;strong>Documentation&lt;/strong>: The conflict and any resolutions will be documented for future reference in case of repeated incidents.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h3 id="9-parent-complaint">
+ &lt;strong>9. Parent Complaint&lt;/strong>
+ &lt;a class="anchor" href="#9-parent-complaint">#&lt;/a>
+&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Scenario&lt;/strong>: A parent raises a concern or complaint about the school (e.g., teaching methods, classroom behaviour management).
+&lt;ul>
+&lt;li>&lt;strong>Action Plan&lt;/strong>:
+&lt;ul>
+&lt;li>&lt;strong>Acknowledge the Complaint&lt;/strong>: Listen to the parent’s concerns respectfully and thank them for raising the issue.&lt;/li>
+&lt;li>&lt;strong>Immediate Follow-Up&lt;/strong>: Inform the school coordinator of the complaint and schedule a meeting with the parent to discuss the matter in detail.&lt;/li>
+&lt;li>&lt;strong>Action Plan&lt;/strong>: Based on the outcome of the meeting, create an action plan to address the issue and follow up with the parent to ensure satisfaction.&lt;/li>
+&lt;li>&lt;strong>Record the Complaint&lt;/strong>: Document the complaint and resolution steps for transparency and tracking.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h3 id="10-facility-issue-eg-heating-lighting-or-cleanliness">
+ &lt;strong>10. Facility Issue (e.g., Heating, Lighting, or Cleanliness)&lt;/strong>
+ &lt;a class="anchor" href="#10-facility-issue-eg-heating-lighting-or-cleanliness">#&lt;/a>
+&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Scenario&lt;/strong>: There is an issue with the facility, such as no heating, broken lighting, or unclean classrooms.
+&lt;ul>
+&lt;li>&lt;strong>Action Plan&lt;/strong>:
+&lt;ul>
+&lt;li>&lt;strong>Immediate Fix&lt;/strong>: Notify the venue manager or on-site staff to resolve the issue as quickly as possible.&lt;/li>
+&lt;li>&lt;strong>Temporary Solutions&lt;/strong>: If the issue cannot be fixed immediately, relocate the class to a different room or space. For cleanliness issues, assign available volunteers to clean up.&lt;/li>
+&lt;li>&lt;strong>Long-Term Resolution&lt;/strong>: Document the issue and schedule a meeting with the venue staff to ensure long-term solutions, especially for recurring problems.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul></description></item><item><title>112-Al-Ikhlāṣ</title><link>http://localhost:1313/docs/curriculum/quran/112-ikhlas/</link><pubDate>Mon, 23 Jun 2025 00:00:00 +0000</pubDate><guid>http://localhost:1313/docs/curriculum/quran/112-ikhlas/</guid><description>&lt;h1 id="-quran-syllabus-sūrah-al-ikhlāṣ">
+ 🕋 Qur’an Syllabus: &lt;strong>Sūrah al-Ikhlāṣ&lt;/strong>
+ &lt;a class="anchor" href="#-quran-syllabus-s%c5%abrah-al-ikhl%c4%81%e1%b9%a3">#&lt;/a>
+&lt;/h1>
+&lt;hr>
+&lt;h2 id="-surah-overview">
+ 📖 Surah Overview
+ &lt;a class="anchor" href="#-surah-overview">#&lt;/a>
+&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Name:&lt;/strong> Sūrah al-Ikhlāṣ (The Sincerity)&lt;/li>
+&lt;li>&lt;strong>Position in Qur’an:&lt;/strong> 112th Surah&lt;/li>
+&lt;li>&lt;strong>Verses:&lt;/strong> 4 (Āyāt)&lt;/li>
+&lt;li>&lt;strong>Revelation:&lt;/strong> Makkiyyah&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="-surah">
+ 📜 Surah
+ &lt;a class="anchor" href="#-surah">#&lt;/a>
+&lt;/h2>
+&lt;blockquote>
+&lt;p>&lt;strong>بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ&lt;/strong>&lt;br>
+قُلْ هُوَ ٱللَّهُ أَحَدٌ&lt;br>
+ٱللَّهُ ٱلصَّمَدُ&lt;br>
+لَمْ يَلِدْ وَلَمْ يُولَدْ&lt;br>
+وَلَمْ يَكُن لَّهُۥ كُفُوًا أَحَدٌ&lt;/p>&lt;/blockquote>
+&lt;hr>
+&lt;h2 id="-learning-objectives">
+ 🎯 Learning Objectives
+ &lt;a class="anchor" href="#-learning-objectives">#&lt;/a>
+&lt;/h2>
+&lt;ul>
+&lt;li>Recite Sūrah al-Ikhlāṣ fluently with correct Tajwīd.&lt;/li>
+&lt;li>Understand the meaning and significance of the surah.&lt;/li>
+&lt;li>Memorise the surah with correct pronunciation.&lt;/li>
+&lt;li>Appreciate the concept of &lt;strong>Tawḥīd&lt;/strong> (Oneness of Allāh).&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="-tajwīd-focus">
+ 🗣️ Tajwīd Focus
+ &lt;a class="anchor" href="#-tajw%c4%abd-focus">#&lt;/a>
+&lt;/h2>
+&lt;ul>
+&lt;li>Correct &lt;strong>Makharij&lt;/strong> (pronunciation of letters).&lt;/li>
+&lt;li>Introduction to &lt;strong>Madd&lt;/strong> (elongation).&lt;/li>
+&lt;li>Awareness of rules for &lt;strong>Lām&lt;/strong> and &lt;strong>Llāh&lt;/strong> in the name &amp;ldquo;اللَّهُ&amp;rdquo;.&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="-memorisation-strategy">
+ 🧠 Memorisation Strategy
+ &lt;a class="anchor" href="#-memorisation-strategy">#&lt;/a>
+&lt;/h2>
+&lt;ul>
+&lt;li>Memorise 1 āyah at a time using repetition and teacher guidance.&lt;/li>
+&lt;li>Practice with peers and at home for reinforcement.&lt;/li>
+&lt;li>Weekly revision in class and at home.&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="-key-vocabulary-optional">
+ 🗒️ Key Vocabulary (Optional)
+ &lt;a class="anchor" href="#-key-vocabulary-optional">#&lt;/a>
+&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Arabic Word&lt;/th>
+ &lt;th>Meaning&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>أَحَدٌ&lt;/td>
+ &lt;td>One / Unique&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>ٱلصَّمَدُ&lt;/td>
+ &lt;td>The Eternal&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>لَمْ يَلِدْ&lt;/td>
+ &lt;td>He begets not&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>كُفُوًا&lt;/td>
+ &lt;td>Equal / Comparable&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;hr>
+&lt;h2 id="-reflection-and-application">
+ 💬 Reflection and Application
+ &lt;a class="anchor" href="#-reflection-and-application">#&lt;/a>
+&lt;/h2>
+&lt;ul>
+&lt;li>Discuss what it means that Allāh is &lt;strong>One&lt;/strong> and &lt;strong>Eternal&lt;/strong>.&lt;/li>
+&lt;li>Reflect on how belief in the Oneness of Allāh shapes a Muslim&amp;rsquo;s life.&lt;/li>
+&lt;li>Encourage children to say this surah in daily prayers.&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;p>➡️ &lt;a href="http://localhost:1313/docs/curriculum/quran/">Back to Qur’an Curriculum&lt;/a>&lt;/p></description></item><item><title>(Hu)go Template Primer</title><link>http://localhost:1313/posts/goisforlovers/</link><pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate><guid>http://localhost:1313/posts/goisforlovers/</guid><description>&lt;p>Hugo uses the excellent &lt;a href="https://golang.org/">Go&lt;/a> &lt;a href="https://golang.org/pkg/html/template/">html/template&lt;/a> library for
+its template engine. It is an extremely lightweight engine that provides a very
+small amount of logic. In our experience that it is just the right amount of
+logic to be able to create a good static website. If you have used other
+template systems from different languages or frameworks you will find a lot of
+similarities in Go templates.&lt;/p>
+&lt;p>This document is a brief primer on using Go templates. The &lt;a href="https://golang.org/pkg/html/template/">Go docs&lt;/a>
+provide more details.&lt;/p></description></item><item><title>Getting Started with Hugo</title><link>http://localhost:1313/posts/hugoisforlovers/</link><pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate><guid>http://localhost:1313/posts/hugoisforlovers/</guid><description>&lt;h2 id="step-1-install-hugo">
+ Step 1. Install Hugo
+ &lt;a class="anchor" href="#step-1-install-hugo">#&lt;/a>
+&lt;/h2>
+&lt;p>Go to &lt;a href="https://github.com/spf13/hugo/releases">Hugo releases&lt;/a> and download the
+appropriate version for your OS and architecture.&lt;/p>
+&lt;p>Save it somewhere specific as we will be using it in the next step.&lt;/p>
+&lt;p>More complete instructions are available at &lt;a href="https://gohugo.io/getting-started/installing/">Install Hugo&lt;/a>&lt;/p>
+&lt;h2 id="step-2-build-the-docs">
+ Step 2. Build the Docs
+ &lt;a class="anchor" href="#step-2-build-the-docs">#&lt;/a>
+&lt;/h2>
+&lt;p>Hugo has its own example site which happens to also be the documentation site
+you are reading right now.&lt;/p>
+&lt;p>Follow the following steps:&lt;/p></description></item><item><title/><link>http://localhost:1313/docs/example/collapsed/3rd-level/4th-level/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/docs/example/collapsed/3rd-level/4th-level/</guid><description>&lt;h1 id="4th-level-of-menu">
+ 4th Level of Menu
+ &lt;a class="anchor" href="#4th-level-of-menu">#&lt;/a>
+&lt;/h1>
+&lt;h2 id="caesorum-illa-tu-sentit-micat-vestes-papyriferi">
+ Caesorum illa tu sentit micat vestes papyriferi
+ &lt;a class="anchor" href="#caesorum-illa-tu-sentit-micat-vestes-papyriferi">#&lt;/a>
+&lt;/h2>
+&lt;p>Inde aderam facti; Theseus vis de tauri illa peream. Oculos &lt;strong>uberaque&lt;/strong> non
+regisque vobis cursuque, opus venit quam vulnera. Et maiora necemque, lege modo;
+gestanda nitidi, vero? Dum ne pectoraque testantur.&lt;/p>
+&lt;p>Venasque repulsa Samos qui, exspectatum eram animosque hinc, &lt;a href="http://www.creveratnon.net/apricaaetheriis">aut
+manes&lt;/a>, Assyrii. Cupiens auctoribus
+pariter rubet, profana magni super nocens. Vos ius sibilat inpar turba visae
+iusto! Sedes ante dum superest &lt;strong>extrema&lt;/strong>.&lt;/p></description></item><item><title/><link>http://localhost:1313/docs/example/hidden/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/docs/example/hidden/</guid><description>&lt;h1 id="this-page-is-hidden-in-menu">
+ This page is hidden in menu
+ &lt;a class="anchor" href="#this-page-is-hidden-in-menu">#&lt;/a>
+&lt;/h1>
+&lt;h1 id="quondam-non-pater-est-dignior-ille-eurotas">
+ Quondam non pater est dignior ille Eurotas
+ &lt;a class="anchor" href="#quondam-non-pater-est-dignior-ille-eurotas">#&lt;/a>
+&lt;/h1>
+&lt;h2 id="latent-te-facies">
+ Latent te facies
+ &lt;a class="anchor" href="#latent-te-facies">#&lt;/a>
+&lt;/h2>
+&lt;p>Lorem markdownum arma ignoscas vocavit quoque ille texit mandata mentis ultimus,
+frementes, qui in vel. Hippotades Peleus &lt;a href="http://gratia.net/tot-qua.php">pennas
+conscia&lt;/a> cuiquam Caeneus quas.&lt;/p>
+&lt;ul>
+&lt;li>Pater demittere evincitque reddunt&lt;/li>
+&lt;li>Maxime adhuc pressit huc Danaas quid freta&lt;/li>
+&lt;li>Soror ego&lt;/li>
+&lt;li>Luctus linguam saxa ultroque prior Tatiumque inquit&lt;/li>
+&lt;li>Saepe liquitur subita superata dederat Anius sudor&lt;/li>
+&lt;/ul>
+&lt;h2 id="cum-honorum-latona">
+ Cum honorum Latona
+ &lt;a class="anchor" href="#cum-honorum-latona">#&lt;/a>
+&lt;/h2>
+&lt;p>O fallor &lt;a href="http://www.spectataharundine.org/aquas-relinquit.html">in sustinui
+iussorum&lt;/a> equidem.
+Nymphae operi oris alii fronde parens dumque, in auro ait mox ingenti proxima
+iamdudum maius?&lt;/p></description></item><item><title/><link>http://localhost:1313/docs/policies/hidden/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/docs/policies/hidden/</guid><description>&lt;h1 id="this-page-is-hidden-in-menu">
+ This page is hidden in menu
+ &lt;a class="anchor" href="#this-page-is-hidden-in-menu">#&lt;/a>
+&lt;/h1>
+&lt;h1 id="quondam-non-pater-est-dignior-ille-eurotas">
+ Quondam non pater est dignior ille Eurotas
+ &lt;a class="anchor" href="#quondam-non-pater-est-dignior-ille-eurotas">#&lt;/a>
+&lt;/h1>
+&lt;h2 id="latent-te-facies">
+ Latent te facies
+ &lt;a class="anchor" href="#latent-te-facies">#&lt;/a>
+&lt;/h2>
+&lt;p>Lorem markdownum arma ignoscas vocavit quoque ille texit mandata mentis ultimus,
+frementes, qui in vel. Hippotades Peleus &lt;a href="http://gratia.net/tot-qua.php">pennas
+conscia&lt;/a> cuiquam Caeneus quas.&lt;/p>
+&lt;ul>
+&lt;li>Pater demittere evincitque reddunt&lt;/li>
+&lt;li>Maxime adhuc pressit huc Danaas quid freta&lt;/li>
+&lt;li>Soror ego&lt;/li>
+&lt;li>Luctus linguam saxa ultroque prior Tatiumque inquit&lt;/li>
+&lt;li>Saepe liquitur subita superata dederat Anius sudor&lt;/li>
+&lt;/ul>
+&lt;h2 id="cum-honorum-latona">
+ Cum honorum Latona
+ &lt;a class="anchor" href="#cum-honorum-latona">#&lt;/a>
+&lt;/h2>
+&lt;p>O fallor &lt;a href="http://www.spectataharundine.org/aquas-relinquit.html">in sustinui
+iussorum&lt;/a> equidem.
+Nymphae operi oris alii fronde parens dumque, in auro ait mox ingenti proxima
+iamdudum maius?&lt;/p></description></item><item><title/><link>http://localhost:1313/docs/shortcodes/buttons/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/docs/shortcodes/buttons/</guid><description>&lt;h1 id="buttons">
+ Buttons
+ &lt;a class="anchor" href="#buttons">#&lt;/a>
+&lt;/h1>
+&lt;p>Buttons are styled links that can lead to local page or external link.&lt;/p>
+&lt;h2 id="example">
+ Example
+ &lt;a class="anchor" href="#example">#&lt;/a>
+&lt;/h2>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-tpl" data-lang="tpl">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#75715e">{{&lt;/span>&lt;span style="color:#f92672">&amp;lt;&lt;/span> &lt;span style="color:#a6e22e">button&lt;/span> &lt;span style="color:#a6e22e">relref&lt;/span>&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#34;/&amp;#34;&lt;/span> &lt;span style="color:#f92672">[&lt;/span>&lt;span style="color:#a6e22e">class&lt;/span>&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#34;...&amp;#34;&lt;/span>&lt;span style="color:#f92672">]&lt;/span> &lt;span style="color:#f92672">&amp;gt;&lt;/span>&lt;span style="color:#75715e">}}&lt;/span>Get Home&lt;span style="color:#75715e">{{&lt;/span>&lt;span style="color:#f92672">&amp;lt;&lt;/span> &lt;span style="color:#f92672">/&lt;/span>&lt;span style="color:#a6e22e">button&lt;/span> &lt;span style="color:#f92672">&amp;gt;&lt;/span>&lt;span style="color:#75715e">}}&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#75715e">{{&lt;/span>&lt;span style="color:#f92672">&amp;lt;&lt;/span> &lt;span style="color:#a6e22e">button&lt;/span> &lt;span style="color:#a6e22e">href&lt;/span>&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#34;https://github.com/alex-shpak/hugo-book&amp;#34;&lt;/span> &lt;span style="color:#f92672">&amp;gt;&lt;/span>&lt;span style="color:#75715e">}}&lt;/span>Contribute&lt;span style="color:#75715e">{{&lt;/span>&lt;span style="color:#f92672">&amp;lt;&lt;/span> &lt;span style="color:#f92672">/&lt;/span>&lt;span style="color:#a6e22e">button&lt;/span> &lt;span style="color:#f92672">&amp;gt;&lt;/span>&lt;span style="color:#75715e">}}&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>&lt;a href="http://localhost:1313/" class="book-btn">Get Home&lt;/a>
+
+&lt;a href="https://github.com/alex-shpak/hugo-book" target="_blank" rel="noopener" class="book-btn">Contribute&lt;/a>
+&lt;/p></description></item><item><title/><link>http://localhost:1313/docs/shortcodes/columns/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/docs/shortcodes/columns/</guid><description>&lt;h1 id="columns">
+ Columns
+ &lt;a class="anchor" href="#columns">#&lt;/a>
+&lt;/h1>
+&lt;p>Columns help organize shorter pieces of content horizontally for readability.&lt;/p>
+&lt;h2 id="example">
+ Example
+ &lt;a class="anchor" href="#example">#&lt;/a>
+&lt;/h2>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-html" data-lang="html">&lt;span style="display:flex;">&lt;span>{{% columns [ratio=&amp;#34;1:1&amp;#34;] [class=&amp;#34;...&amp;#34;] %}} &lt;span style="color:#75715e">&amp;lt;!-- begin columns block --&amp;gt;&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span># Left Content
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>Lorem markdownum insigne...
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&amp;lt;&lt;span style="color:#f92672">---&lt;/span>&amp;gt; &lt;span style="color:#75715e">&amp;lt;!-- magic separator, between columns --&amp;gt;&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span># Mid Content
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>Lorem markdownum insigne...
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&amp;lt;&lt;span style="color:#f92672">---&lt;/span>&amp;gt; &lt;span style="color:#75715e">&amp;lt;!-- magic separator, between columns --&amp;gt;&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span># Right Content
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>Lorem markdownum insigne...
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>{{% /columns %}}
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;div class="book-columns flex flex-wrap">
+&lt;div class="flex-even markdown-inner" style="flex-grow: 1;">
+&lt;h3 id="left-content">
+ Left Content
+ &lt;a class="anchor" href="#left-content">#&lt;/a>
+&lt;/h3>
+&lt;p>Lorem markdownum insigne. Olympo signis Delphis! Retexi Nereius nova develat
+stringit, frustra Saturnius uteroque inter! Oculis non ritibus Telethusa
+protulit, sed sed aere valvis inhaesuro Pallas animam: qui &lt;em>quid&lt;/em>, ignes.
+Miseratus fonte Ditis conubia.&lt;/p></description></item><item><title/><link>http://localhost:1313/docs/shortcodes/details/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/docs/shortcodes/details/</guid><description>&lt;h1 id="details">
+ Details
+ &lt;a class="anchor" href="#details">#&lt;/a>
+&lt;/h1>
+&lt;p>Details shortcode is a helper for &lt;code>details&lt;/code> html5 element. It is going to replace &lt;code>expand&lt;/code> shortcode.&lt;/p>
+&lt;h2 id="example">
+ Example
+ &lt;a class="anchor" href="#example">#&lt;/a>
+&lt;/h2>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-tpl" data-lang="tpl">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#75715e">{{&lt;/span>&lt;span style="color:#f92672">%&lt;/span> &lt;span style="color:#a6e22e">details&lt;/span> &lt;span style="color:#e6db74">&amp;#34;Title&amp;#34;&lt;/span> &lt;span style="color:#f92672">[&lt;/span>&lt;span style="color:#a6e22e">open&lt;/span>&lt;span style="color:#f92672">]&lt;/span> &lt;span style="color:#f92672">%&lt;/span>&lt;span style="color:#75715e">}}&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>## Markdown content
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>Lorem markdownum insigne...
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#75715e">{{&lt;/span>&lt;span style="color:#f92672">%&lt;/span> &lt;span style="color:#f92672">/&lt;/span>&lt;span style="color:#a6e22e">details&lt;/span> &lt;span style="color:#f92672">%&lt;/span>&lt;span style="color:#75715e">}}&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-tpl" data-lang="tpl">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#75715e">{{&lt;/span>&lt;span style="color:#f92672">%&lt;/span> &lt;span style="color:#a6e22e">details&lt;/span> &lt;span style="color:#a6e22e">title&lt;/span>&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#34;Title&amp;#34;&lt;/span> &lt;span style="color:#a6e22e">open&lt;/span>&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#66d9ef">true&lt;/span> &lt;span style="color:#f92672">%&lt;/span>&lt;span style="color:#75715e">}}&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>## Markdown content
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>Lorem markdownum insigne...
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#75715e">{{&lt;/span>&lt;span style="color:#f92672">%&lt;/span> &lt;span style="color:#f92672">/&lt;/span>&lt;span style="color:#a6e22e">details&lt;/span> &lt;span style="color:#f92672">%&lt;/span>&lt;span style="color:#75715e">}}&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;details open>&lt;summary>Title&lt;/summary>
+ &lt;div class="markdown-inner">
+&lt;h2 id="markdown-content">
+ Markdown content
+ &lt;a class="anchor" href="#markdown-content">#&lt;/a>
+&lt;/h2>
+&lt;p>Lorem markdownum insigne&amp;hellip;&lt;/p>
+ &lt;/div>
+&lt;/details></description></item><item><title/><link>http://localhost:1313/docs/shortcodes/hints/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/docs/shortcodes/hints/</guid><description>&lt;h1 id="hints">
+ Hints
+ &lt;a class="anchor" href="#hints">#&lt;/a>
+&lt;/h1>
+&lt;p>Hint shortcode can be used as hint/alerts/notification block.&lt;br>
+There are 3 colors to choose: &lt;code>info&lt;/code>, &lt;code>warning&lt;/code> and &lt;code>danger&lt;/code>.&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-tpl" data-lang="tpl">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#75715e">{{&lt;/span>&lt;span style="color:#f92672">%&lt;/span> &lt;span style="color:#a6e22e">hint&lt;/span> &lt;span style="color:#f92672">[&lt;/span>&lt;span style="color:#a6e22e">info&lt;/span>&lt;span style="color:#f92672">|&lt;/span>&lt;span style="color:#a6e22e">warning&lt;/span>&lt;span style="color:#f92672">|&lt;/span>&lt;span style="color:#a6e22e">danger&lt;/span>&lt;span style="color:#f92672">]&lt;/span> &lt;span style="color:#f92672">%&lt;/span>&lt;span style="color:#75715e">}}&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>**Markdown content** 
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>Lorem markdownum insigne. Olympo signis Delphis! Retexi Nereius nova develat
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>stringit, frustra Saturnius uteroque inter! Oculis non ritibus Telethusa
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#75715e">{{&lt;/span>&lt;span style="color:#f92672">%&lt;/span> &lt;span style="color:#f92672">/&lt;/span>&lt;span style="color:#a6e22e">hint&lt;/span> &lt;span style="color:#f92672">%&lt;/span>&lt;span style="color:#75715e">}}&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;h2 id="example">
+ Example
+ &lt;a class="anchor" href="#example">#&lt;/a>
+&lt;/h2>
+&lt;blockquote class="book-hint info">
+&lt;p>&lt;strong>Markdown content&lt;/strong>&lt;br>
+Lorem markdownum insigne. Olympo signis Delphis! Retexi Nereius nova develat
+stringit, frustra Saturnius uteroque inter! Oculis non ritibus Telethusa&lt;/p>
+&lt;/blockquote>
+&lt;blockquote class="book-hint warning">
+&lt;p>&lt;strong>Markdown content&lt;/strong>&lt;br>
+Lorem markdownum insigne. Olympo signis Delphis! Retexi Nereius nova develat
+stringit, frustra Saturnius uteroque inter! Oculis non ritibus Telethusa&lt;/p></description></item><item><title/><link>http://localhost:1313/docs/shortcodes/mermaid/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/docs/shortcodes/mermaid/</guid><description>&lt;h1 id="mermaid-chart">
+ Mermaid Chart
+ &lt;a class="anchor" href="#mermaid-chart">#&lt;/a>
+&lt;/h1>
+&lt;p>&lt;a href="https://mermaid-js.github.io/">MermaidJS&lt;/a> is library for generating svg charts and diagrams from text.&lt;/p>
+&lt;blockquote class="book-hint info">
+&lt;p>&lt;strong>Override Mermaid initialization config&lt;/strong>&lt;br>
+To override the &lt;a href="https://mermaid-js.github.io/mermaid/#/Setup">initialization config&lt;/a> for Mermaid,
+create a &lt;code>mermaid.json&lt;/code> file in your &lt;code>assets&lt;/code> folder!&lt;/p>
+&lt;/blockquote>
+&lt;h2 id="example">
+ Example
+ &lt;a class="anchor" href="#example">#&lt;/a>
+&lt;/h2>
+&lt;div class="book-columns flex flex-wrap">
+&lt;div class="flex-even markdown-inner" style="flex-grow: 1;">
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-tpl" data-lang="tpl">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#75715e">{{&lt;/span>&lt;span style="color:#f92672">&amp;lt;&lt;/span> &lt;span style="color:#a6e22e">mermaid&lt;/span> &lt;span style="color:#f92672">[&lt;/span>&lt;span style="color:#a6e22e">class&lt;/span>&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#34;...&amp;#34;&lt;/span>&lt;span style="color:#f92672">]&lt;/span> &lt;span style="color:#f92672">&amp;gt;&lt;/span>&lt;span style="color:#75715e">}}&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>stateDiagram-v2
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> State1: The state with a note
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> note right of State1
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> Important information! You can write
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> notes.
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> end note
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> State1 --&amp;gt; State2
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> note left of State2 : This is the note to the left.
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#75715e">{{&lt;/span>&lt;span style="color:#f92672">&amp;lt;&lt;/span> &lt;span style="color:#f92672">/&lt;/span>&lt;span style="color:#a6e22e">mermaid&lt;/span> &lt;span style="color:#f92672">&amp;gt;&lt;/span>&lt;span style="color:#75715e">}}&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div> &lt;/div>
+&lt;div class="flex-even markdown-inner" style="flex-grow: 1;">
+&lt;script src="http://localhost:1313/mermaid.min.js">&lt;/script>
+ &lt;script>mermaid.initialize({
+ "flowchart": {
+ "useMaxWidth":true
+ },
+ "theme": "default"
+}
+)&lt;/script>
+&lt;pre class="mermaid">
+stateDiagram-v2
+ State1: The state with a note
+ note right of State1
+ Important information! You can write
+ notes.
+ end note
+ State1 --> State2
+ note left of State2 : This is the note to the left.
+&lt;/pre>
+ &lt;/div>
+&lt;/div></description></item><item><title/><link>http://localhost:1313/docs/shortcodes/section/first-page/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/docs/shortcodes/section/first-page/</guid><description>&lt;h1 id="first-page">
+ First page
+ &lt;a class="anchor" href="#first-page">#&lt;/a>
+&lt;/h1>
+&lt;p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&lt;/p></description></item><item><title/><link>http://localhost:1313/docs/shortcodes/section/second-page/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/docs/shortcodes/section/second-page/</guid><description>&lt;h1 id="second-page">
+ Second Page
+ &lt;a class="anchor" href="#second-page">#&lt;/a>
+&lt;/h1>
+&lt;p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&lt;/p></description></item><item><title/><link>http://localhost:1313/docs/shortcodes/tabs/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/docs/shortcodes/tabs/</guid><description>&lt;h1 id="tabs">
+ Tabs
+ &lt;a class="anchor" href="#tabs">#&lt;/a>
+&lt;/h1>
+&lt;p>Tabs let you organize content by context, for example installation instructions for each supported platform.&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-tpl" data-lang="tpl">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#75715e">{{&lt;/span>&lt;span style="color:#f92672">&amp;lt;&lt;/span> &lt;span style="color:#a6e22e">tabs&lt;/span> &lt;span style="color:#e6db74">&amp;#34;id&amp;#34;&lt;/span> &lt;span style="color:#f92672">&amp;gt;&lt;/span>&lt;span style="color:#75715e">}}&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#75715e">{{&lt;/span>&lt;span style="color:#f92672">%&lt;/span> &lt;span style="color:#a6e22e">tab&lt;/span> &lt;span style="color:#e6db74">&amp;#34;MacOS&amp;#34;&lt;/span> &lt;span style="color:#f92672">%&lt;/span>&lt;span style="color:#75715e">}}&lt;/span> # MacOS Content &lt;span style="color:#75715e">{{&lt;/span>&lt;span style="color:#f92672">%&lt;/span> &lt;span style="color:#f92672">/&lt;/span>&lt;span style="color:#a6e22e">tab&lt;/span> &lt;span style="color:#f92672">%&lt;/span>&lt;span style="color:#75715e">}}&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#75715e">{{&lt;/span>&lt;span style="color:#f92672">%&lt;/span> &lt;span style="color:#a6e22e">tab&lt;/span> &lt;span style="color:#e6db74">&amp;#34;Linux&amp;#34;&lt;/span> &lt;span style="color:#f92672">%&lt;/span>&lt;span style="color:#75715e">}}&lt;/span> # Linux Content &lt;span style="color:#75715e">{{&lt;/span>&lt;span style="color:#f92672">%&lt;/span> &lt;span style="color:#f92672">/&lt;/span>&lt;span style="color:#a6e22e">tab&lt;/span> &lt;span style="color:#f92672">%&lt;/span>&lt;span style="color:#75715e">}}&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#75715e">{{&lt;/span>&lt;span style="color:#f92672">%&lt;/span> &lt;span style="color:#a6e22e">tab&lt;/span> &lt;span style="color:#e6db74">&amp;#34;Windows&amp;#34;&lt;/span> &lt;span style="color:#f92672">%&lt;/span>&lt;span style="color:#75715e">}}&lt;/span> # Windows Content &lt;span style="color:#75715e">{{&lt;/span>&lt;span style="color:#f92672">%&lt;/span> &lt;span style="color:#f92672">/&lt;/span>&lt;span style="color:#a6e22e">tab&lt;/span> &lt;span style="color:#f92672">%&lt;/span>&lt;span style="color:#75715e">}}&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#75715e">{{&lt;/span>&lt;span style="color:#f92672">&amp;lt;&lt;/span> &lt;span style="color:#f92672">/&lt;/span>&lt;span style="color:#a6e22e">tabs&lt;/span> &lt;span style="color:#f92672">&amp;gt;&lt;/span>&lt;span style="color:#75715e">}}&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;h2 id="example">
+ Example
+ &lt;a class="anchor" href="#example">#&lt;/a>
+&lt;/h2>
+&lt;div class="book-tabs">
+
+
+
+&lt;input type="radio" class="toggle" name="tabs-0" id="tabs-0-0" checked="checked" />
+&lt;label for="tabs-0-0">MacOS&lt;/label>
+&lt;div class="book-tabs-content markdown-inner">&lt;h1 id="macos">
+ MacOS
+ &lt;a class="anchor" href="#macos">#&lt;/a>
+&lt;/h1>
+&lt;p>This is tab &lt;strong>MacOS&lt;/strong> content.&lt;/p>
+&lt;p>Lorem markdownum insigne. Olympo signis Delphis! Retexi Nereius nova develat
+stringit, frustra Saturnius uteroque inter! Oculis non ritibus Telethusa
+protulit, sed sed aere valvis inhaesuro Pallas animam: qui &lt;em>quid&lt;/em>, ignes.
+Miseratus fonte Ditis conubia.&lt;/p></description></item><item><title>KaTeX</title><link>http://localhost:1313/docs/shortcodes/katex/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/docs/shortcodes/katex/</guid><description>&lt;h1 id="katex">
+ KaTeX
+ &lt;a class="anchor" href="#katex">#&lt;/a>
+&lt;/h1>
+&lt;p>KaTeX shortcode let you render math typesetting in markdown document. See &lt;a href="https://katex.org/">KaTeX&lt;/a>&lt;/p>
+&lt;h2 id="example">
+ Example
+ &lt;a class="anchor" href="#example">#&lt;/a>
+&lt;/h2>
+&lt;div class="book-columns flex flex-wrap">
+&lt;div class="flex-even markdown-inner" style="flex-grow: 1;">
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-latex" data-lang="latex">&lt;span style="display:flex;">&lt;span>{{&amp;lt; katex display=true &amp;gt;}}
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>f(x) = &lt;span style="color:#66d9ef">\int&lt;/span>_{-&lt;span style="color:#66d9ef">\infty&lt;/span>}^&lt;span style="color:#66d9ef">\infty\hat&lt;/span> f(&lt;span style="color:#66d9ef">\xi&lt;/span>)&lt;span style="color:#66d9ef">\,&lt;/span>e^{2 &lt;span style="color:#66d9ef">\pi&lt;/span> i &lt;span style="color:#66d9ef">\xi&lt;/span> x}&lt;span style="color:#66d9ef">\,&lt;/span>d&lt;span style="color:#66d9ef">\xi&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>{{&amp;lt; /katex &amp;gt;}}
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div> &lt;/div>
+&lt;div class="flex-even markdown-inner" style="flex-grow: 1;">
+&lt;link rel="stylesheet" href="http://localhost:1313/katex/katex.min.css" />
+&lt;script defer src="http://localhost:1313/katex/katex.min.js">&lt;/script>
+&lt;script defer src="http://localhost:1313/katex/auto-render.min.js" onload="renderMathInElement(document.body);">&lt;/script>&lt;span>
+ \[
+f(x) = \int_{-\infty}^\infty\hat f(\xi)\,e^{2 \pi i \xi x}\,d\xi
+\]
+&lt;/span>
+ &lt;/div>
+&lt;/div>
+&lt;h2 id="display-mode-example">
+ Display Mode Example
+ &lt;a class="anchor" href="#display-mode-example">#&lt;/a>
+&lt;/h2>
+&lt;p>Here is some inline example: &lt;span>
+ \(\pi(x)\)
+&lt;/span>
+, rendered in the same line. And below is &lt;code>display&lt;/code> example, having &lt;code>display: block&lt;/code>
+&lt;span>
+ \[
+f(x) = \int_{-\infty}^\infty\hat f(\xi)\,e^{2 \pi i \xi x}\,d\xi
+\]
+&lt;/span>
+
+Text continues here.&lt;/p></description></item></channel></rss>
