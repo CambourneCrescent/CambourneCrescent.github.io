@@ -84,7 +84,7 @@ Our Arabic language curriculum is based on the **Kitābī Series**, a progressiv
 ---
 
 ### **Class GCSE (Ages 11–13)**  
-**Based on: Kitābī 7**
+**Based on: Kitābī GCSE syllabus**
 - Sentence structure: nominal vs verbal sentences
 - Understanding and using root letters (*جذر*) and verb forms
 - Descriptive writing and letter writing in Arabic
@@ -107,6 +107,7 @@ Our approach is interactive, engaging, and paced to match the child’s developm
 
 *“Learn Arabic, for it strengthens the mind and increases one’s chivalry.”* — ʿUmar ibn al-Khaṭṭāb رضي الله عنه
 
+---
 
-Looking for more details?  
-➡️ [View Class-by-Class Curriculum →](/docs/curriculum/quran/)
+Looking for Crescent School Curriculum?  
+➡️ [View Curriculum Overview →](/docs/curriculum/)

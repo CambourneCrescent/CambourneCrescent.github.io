@@ -85,6 +85,16 @@ We welcome **volunteers** and **community support**! Whether you’d like to hel
 
 ---
 
+Looking for Crescent School Details?
+- [Curriclum](/docs/curriculum/)
+	- [Arabic Language](/docs/curriculum/arabic/)
+ 	- [Quran](/docs/curriculum/quran/)
+  	- [Islamic Studies](/docs/curriculum/islamicstudies/)
+- [Policies](/docs/policies/)
+	- [Students](https://cambournecrescent.github.io/docs/policies/students/) | [Teachers](https://cambournecrescent.github.io/docs/policies/teacher/) | [Parents](https://cambournecrescent.github.io/docs/policies/parents/)
+   	- [Safeguarding](https://cambournecrescent.github.io/docs/policies/safeguarding/) | [Venue](https://cambournecrescent.github.io/docs/policies/venue/) | [What if? (Scenario)](https://cambournecrescent.github.io/docs/policies/whatif/)
+- [Staff Directory](/docs/info/staff/)
+
 For more information, feel free to contact us at [info@cambournecrescent.org](mailto:info@cambournecrescent.org) or visit us on Sundays during school hours.
 
 ---

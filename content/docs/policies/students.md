@@ -1,42 +1,136 @@
 ---
-title: Students
+title: "Students"
 weight: 15
+tags: ["students", "behaviour", "homework", "attendance", "well-being", "no-nuts", "punctuality"]
 ---
-# Homework Policy
 
-**Completion of Homework**  
- Parents/guardians are required to ensure their child completes all assigned homework. If a homework booklet or sheet is provided, it must be signed by either the parent or guardian and returned to the teacher within the specified deadline.
+# 🎓 Student Behaviour and Expectations
 
-**Non-Completion of Homework**  
- In the event that a child does not complete their homework, the teacher may, at their discretion, impose a sanction, such as detention. If there is a valid reason for the late submission of homework, it is the responsibility of the parent or guardian to notify the teacher in writing.
+## Behaviour Policy
 
-**Preparation at Home**  
- Parents/guardians should ensure that their child prepares for lessons at home and familiarises themselves with the material in advance of attending school. The school’s teaching staff are available to liaise with parents to provide support in this regard.
+At Crescent School, we maintain high standards of behaviour to ensure a safe, respectful, and inclusive learning environment for all.
 
-**Punctuality**: A clear tardiness policy will be communicated to students and parents, with rewards for punctuality (e.g., “Student of the Month” recognition).
+- All students **must follow instructions** given by teachers and school staff at all times.
+- Students **must not be present in the corridors without supervision**.
+- If there is an issue involving another student, it must be **reported to the teacher** rather than handled directly or through arguments.
+- Any concerns regarding teachers must be reported **directly to the School Administrator** and not addressed with the teacher individually.
+- **Mobile phones are not permitted** unless prior arrangement has been made for specific educational purposes (e.g. Kahoot quizzes or competitions). Phones must remain switched off and out of sight at all other times.
+- **Chewing gum is strictly prohibited** on school premises.
+- Students must **bring all necessary items** to school, including:
+  - Textbooks and workbooks
+  - Exercise books and stationery (pens, pencils, ruler, etc.)
+  - A refillable water bottle
+  - A nut-free snack
 
-## **Attendance and Punctuality Policy**
+---
 
-* **Attendance Monitoring**: Student attendance will be monitored regularly, with absences followed up by phone calls to parents.
+# 📚 Homework Policy
 
-## **Student Engagement and Well-being Policy**
+## Completion of Homework
 
-* **Monthly Activities**: Regular Islamic and Arabic competitions, quizzes, and games will be held to engage students.  
-* **Student Recognition**: Students will be recognized for their academic progress, good behaviour, and attendance. Certificates or small gifts will be awarded to motivate students.  
-* **Well-being Officer**: A designated staff member will be responsible for monitoring student attendance, addressing any issues, and liaising with parents when necessary.
+- Students are expected to complete all homework tasks assigned by their teachers.
+- Parents/guardians are responsible for ensuring homework is completed and submitted on time.
+- If a homework booklet or worksheet is issued, it must be **signed by a parent or guardian** and returned within the deadline.
 
-**No-Nuts Policy**
+## Non-Completion of Homework
 
-In accordance with our commitment to ensuring the safety and well-being of all students, the school has a strict no-nuts policy in place. Nuts, including peanuts and nut-based products, present a serious health risk to students with allergies. Any violation of this policy, including the presence of nuts or nut-based products in classrooms, will result in immediate action, including the potential cancellation of bookings.
+- If homework is not completed, teachers may impose an appropriate sanction, such as detention.
+- If there is a valid reason for not completing homework on time, parents must **inform the teacher in writing**.
 
-**Permitted Snacks**  
- To comply with this policy, only the following snacks are permitted within school premises:
+## Preparation at Home
 
-* Fruits  
-* Nut-free cereal bars
+- Parents should support their children in preparing for lessons by reviewing the material in advance.
+- Teachers are available to communicate with parents and offer guidance where needed.
 
-**Parental Responsibility**  
- Parents and guardians are responsible for ensuring that their child’s snacks and lunches are free from any nuts or nut-based products. All snacks and lunches should be double-checked before being brought to school to maintain the safety of all students.
+---
 
-By adhering to this policy, we can ensure a safe environment for students with nut allergies. Thank you for your understanding and cooperation.
+# ⏰ Attendance and Punctuality Policy
 
+## School Hours
+
+- Crescent School operates on **Sundays from 10:00 AM to 2:00 PM** during term time and for shorter hours during **Ramadan**.
+
+## Punctuality
+
+- Students are expected to arrive on time.  
+  A clear lateness policy is in place, and repeated lateness may result in sanctions.
+- Good punctuality will be rewarded through positive reinforcement, such as **"Student of the Month"** awards.
+
+## Attendance Monitoring
+
+- Attendance is closely monitored.  
+  Unexplained absences will be followed up with parents via phone or other communication.
+
+---
+
+# 🧠 Student Engagement and Well-being
+
+## Engagement Activities
+
+- Monthly activities, including **Islamic and Arabic competitions**, quizzes, and team games, will be organised to enhance learning.
+- These events aim to keep students motivated and involved in school life.
+
+## Student Recognition
+
+- Students will be recognised for:
+  - Academic improvement  
+  - Good behaviour  
+  - Consistent attendance  
+- Certificates and small prizes will be awarded to celebrate their achievements.
+
+## Designated Well-being Lead
+
+- A member of staff will act as the **Well-being Officer**, responsible for:
+  - Monitoring attendance  
+  - Addressing student concerns  
+  - Communicating with parents where necessary
+
+---
+
+# 🚫 No-Nuts Policy
+
+To protect students with severe allergies, Crescent School enforces a **strict no-nuts policy**.
+
+## Prohibited Items
+
+- No nuts or nut-based products (including peanut butter, chocolate bars with nuts, etc.) are allowed on school premises.
+- Any breach of this policy may result in immediate disciplinary action or cancellation of school bookings.
+
+## Permitted Snacks
+
+Students may bring only the following snacks:
+
+- Fresh fruit
+- Nut-free cereal bars
+
+## Parental Responsibility
+
+Parents must ensure that their child's snacks and lunches are **completely nut-free**.  
+All food should be double-checked before being brought to school.
+
+---
+
+# 🕒 Break Time Schedule
+
+Students will receive the following breaks throughout the day:
+
+- **5-minute break** after the first hour  
+- **10 to 15-minute break** after the second hour  
+- **Final 5-minute break** after the third hour
+
+---
+
+# 🚻 Toilets & Water Facilities
+
+- 🚫 **Avoid Water Spillage:**  
+  Students must be careful not to spill water, especially near toilet areas, as this may cause slips and safety hazards.
+
+- 🚽 **Use Toilets Before School:**  
+  Students are expected to use the toilet before arriving at school to minimise lesson disruptions caused by frequent toilet breaks.
+
+- 💧 **Bring Water Bottles:**  
+  Students should bring their own filled water bottles. This helps reduce congestion and waiting time at the water coolers.
+
+---
+
+By following these policies, we create a safe, respectful, and engaging environment where every student can thrive.
