@@ -5,7 +5,7 @@ date: 2025-06-23T00:00:00Z
 draft: false
 tags: ["curriculum", "Qur’an", "memorisation", "Islamic education"]
 categories: ["Education", "Islamic School"]
-ookCollapseSection: true
+bookCollapseSection: true
 ---
 
 # 📖 Qur’an Curriculum Overview
