@@ -4,7 +4,7 @@ weight: 15
 tags: ["students", "behaviour", "homework", "attendance", "well-being", "no-nuts", "punctuality"]
 ---
 
-# 🎓 Student Behaviour and Expectations
+# Student Behaviour and Expectations
 
 ## Behaviour Policy
 
@@ -24,7 +24,7 @@ At Crescent School, we maintain high standards of behaviour to ensure a safe, re
 
 ---
 
-# 📚 Homework Policy
+# Homework Policy
 
 ## Completion of Homework
 
@@ -44,7 +44,7 @@ At Crescent School, we maintain high standards of behaviour to ensure a safe, re
 
 ---
 
-# ⏰ Attendance and Punctuality Policy
+# Attendance and Punctuality Policy
 
 ## School Hours
 
@@ -63,7 +63,7 @@ At Crescent School, we maintain high standards of behaviour to ensure a safe, re
 
 ---
 
-# 🧠 Student Engagement and Well-being
+# Student Engagement and Well-being
 
 ## Engagement Activities
 
@@ -87,7 +87,7 @@ At Crescent School, we maintain high standards of behaviour to ensure a safe, re
 
 ---
 
-# 🚫 No-Nuts Policy
+# No-Nuts Policy
 
 To protect students with severe allergies, Crescent School enforces a **strict no-nuts policy**.
 
@@ -110,7 +110,7 @@ All food should be double-checked before being brought to school.
 
 ---
 
-# 🕒 Break Time Schedule
+# Break Time Schedule
 
 Students will receive the following breaks throughout the day:
 
@@ -120,17 +120,19 @@ Students will receive the following breaks throughout the day:
 
 ---
 
-# 🚻 Toilets & Water Facilities
+# Toilets & Water Facilities
 
-- 🚫 **Avoid Water Spillage:**  
+- **Avoid Water Spillage:**  
   Students must be careful not to spill water, especially near toilet areas, as this may cause slips and safety hazards.
 
-- 🚽 **Use Toilets Before School:**  
+- **Use Toilets Before School:**  
   Students are expected to use the toilet before arriving at school to minimise lesson disruptions caused by frequent toilet breaks.
 
-- 💧 **Bring Water Bottles:**  
+- **Bring Water Bottles:**  
   Students should bring their own filled water bottles. This helps reduce congestion and waiting time at the water coolers.
 
 ---
-
 By following these policies, we create a safe, respectful, and engaging environment where every student can thrive.
+
+---
+{{< home-link "Home" >}} | {{< section-index >}}  

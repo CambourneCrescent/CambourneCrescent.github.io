@@ -31,7 +31,7 @@ About the School#Crescent School was established in 2011 to meet the growing r
 <link rel="canonical" href="http://localhost:1313/">
 <link rel="stylesheet" href="/book.min.d5e59cb0aa8d22a5813c62cd5e25d3d172489a369c61dc3f622ee96ae1ebb457.css" integrity="sha256-1eWcsKqNIqWBPGLNXiXT0XJImjacYdw/Yi7pauHrtFc=" crossorigin="anonymous">
   <script defer src="/fuse.min.js"></script>
-  <script defer src="/en.search.min.e79e321270723c17b14db70683518bfbb3d55cc2f1470895f05cf3f56f385ddc.js" integrity="sha256-554yEnByPBexTbcGg1GL&#43;7PVXMLxRwiV8Fzz9W84Xdw=" crossorigin="anonymous"></script>
+  <script defer src="/en.search.min.503fcb1e153e978ef77420a450353755527bade8930da6cb085e89dcaebc2ee7.js" integrity="sha256-UD/LHhU&#43;l473dCCkUDU3VVJ7reiTDabLCF6J3K68Luc=" crossorigin="anonymous"></script>
 <link rel="alternate" type="application/rss+xml" href="http://localhost:1313/index.xml" title="Crescent School" />
 <!--
 Made with Book Theme
@@ -307,8 +307,13 @@ https://github.com/alex-shpak/hugo-book
   
 
   
-    <a href="/docs/info/staff/" class="">Staff Directory</a>
+    <a href="/docs/info/" class="">Staff Directory</a>
   
+
+          
+  <ul>
+    
+  </ul>
 
         </li>
       
@@ -429,19 +434,6 @@ https://github.com/alex-shpak/hugo-book
 </ul>
 
 
-<script src="/mermaid.min.js"></script>
-
-  <script>mermaid.initialize({
-  "flowchart": {
-    "useMaxWidth":true
-  },
-  "theme": "default"
-}
-)</script>
-
-
-
-
 <pre class="mermaid">
 stateDiagram-v2
     State1: Crescet School Curriculum
@@ -477,27 +469,77 @@ stateDiagram-v2
 </h2>
 <p>We welcome <strong>volunteers</strong> and <strong>community support</strong>! Whether you’d like to help with teaching, admin, or special events, your involvement helps us grow stronger together.</p>
 <hr>
-<p>Looking for Crescent School Details?</p>
-<ul>
-<li><a href="/docs/curriculum/">Curriclum</a>
-<ul>
-<li><a href="/docs/curriculum/arabic/">Arabic Language</a></li>
-<li><a href="/docs/curriculum/quran/">Quran</a>
-- <a href="/docs/curriculum/islamicstudies/">Islamic Studies</a></li>
-</ul>
-</li>
-<li><a href="/docs/policies/">Policies</a>
-<ul>
-<li><a href="https://cambournecrescent.github.io/docs/policies/students/">Students</a> | <a href="https://cambournecrescent.github.io/docs/policies/teacher/">Teachers</a> | <a href="https://cambournecrescent.github.io/docs/policies/parents/">Parents</a>
-- <a href="https://cambournecrescent.github.io/docs/policies/safeguarding/">Safeguarding</a> | <a href="https://cambournecrescent.github.io/docs/policies/venue/">Venue</a> | <a href="https://cambournecrescent.github.io/docs/policies/whatif/">What if? (Scenario)</a></li>
-</ul>
-</li>
-<li><a href="/docs/info/staff/">Staff Directory</a></li>
-</ul>
-<p>For more information, feel free to contact us at <a href="mailto:info@cambournecrescent.org">info@cambournecrescent.org</a> or visit us on Sundays during school hours.</p>
+<p>For more information, feel free to contact us at <a href="mailto:school@cambournecrescent.org">school@cambournecrescent.org</a> or visit us on Sundays during school hours.</p>
+<blockquote class="book-hint info">
+<p><em>“The best among you are those who learn the Qur’an and teach it.”</em></p>
+<p>— Prophet Muḥammad ﷺ <em>(Sahih al-Bukhari)</em></p>
+</blockquote>
 <hr>
-<p><em>“The best among you are those who learn the Qur’an and teach it.”</em><br>
-— Prophet Muḥammad ﷺ <em>(Sahih al-Bukhari)</em></p>
+<style>
+  .folder-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 1.5rem;
+    margin-top: 1rem;
+  }
+  .folder-card {
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 1rem;
+    text-align: center;
+    transition: box-shadow 0.2s ease;
+  }
+  .folder-card:hover {
+    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  }
+  .folder-card img {
+    max-width: 100%;
+    height: 120px;
+    object-fit: cover;
+    border-radius: 6px;
+    margin-bottom: 0.5rem;
+  }
+  .folder-title {
+    font-weight: bold;
+    margin-bottom: 0.5rem;
+    display: block;
+  }
+  .folder-description {
+    font-size: 0.9rem;
+    color: #666;
+  }
+</style>
+
+<div class="folder-grid">
+  
+  
+    
+      <a href="/docs/curriculum/" class="folder-card">
+        
+        <span class="folder-title">Curriculum Overview</span>
+        
+      </a>
+    
+  
+    
+      <a href="/docs/policies/" class="folder-card">
+        
+        <span class="folder-title">Policies</span>
+        
+      </a>
+    
+  
+    
+      <a href="/docs/info/" class="folder-card">
+        
+        <span class="folder-title">Staff Directory</span>
+        
+      </a>
+    
+  
+    
+  
+</div>
 </article>
  
       

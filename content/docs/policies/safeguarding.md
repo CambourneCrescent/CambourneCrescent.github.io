@@ -12,7 +12,7 @@ At Crescent School, the safety and well-being of every child is our top priority
 
 ---
 
-## 🔒 Safeguarding and Child Protection Policy
+## Safeguarding and Child Protection Policy
 
 - **Designated Safeguarding Officer (DSO)**  
   A qualified Designated Safeguarding Officer is appointed each year. They are responsible for handling all matters related to child protection and are the first point of contact for any safeguarding concerns.
@@ -22,14 +22,14 @@ At Crescent School, the safety and well-being of every child is our top priority
 
 ---
 
-## 🧾 Disclosure and Barring Service (DBS)
+## Disclosure and Barring Service (DBS)
 
 - All staff and volunteers who work with children are required to undergo an enhanced **DBS check**.
 - No adult may work unsupervised with children unless a valid DBS certificate is on file.
 
 ---
 
-## 🩹 Health, Safety, and Emergency Response
+## Health, Safety, and Emergency Response
 
 - **First Aid & Emergency Training**  
   First-aid kits are available at designated locations within the school premises.
@@ -39,7 +39,7 @@ At Crescent School, the safety and well-being of every child is our top priority
 
 ---
 
-## 🍎 Hygiene and Food Safety
+## Hygiene and Food Safety
 
 - **Snack Time Supervision**  
   Volunteers monitor snack times to ensure hygiene is maintained and appropriate behaviour is encouraged.
@@ -48,5 +48,7 @@ At Crescent School, the safety and well-being of every child is our top priority
   Children are reminded and supervised to wash their hands properly before and after snack breaks and after using the toilet.
 
 ---
-
 If you have any questions about our safeguarding policies or would like to raise a concern, please contact our Designated Safeguarding Officer Ms Lobna Rihawi.
+
+---
+{{< home-link "Home" >}} | {{< section-index >}}  

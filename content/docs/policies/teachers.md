@@ -4,7 +4,7 @@ weight: 20
 tags: ["teachers", "volunteers", "staff policy", "code of conduct", "onboarding"]
 ---
 
-# 👩‍🏫 Teachers and Volunteers
+# Teachers and Volunteers
 
 All teachers are expected to arrive at least **5 minutes before** the start of their lesson.  
 Students are the **responsibility of the teacher** from the beginning of the class until they are either:
@@ -14,7 +14,7 @@ Students are the **responsibility of the teacher** from the beginning of the cla
 
 ---
 
-## 🏫 Supervision and Dismissal
+## Supervision and Dismissal
 
 - At the end of the school day, **teachers must escort their students to the exit gate** and ensure they are handed over safely to their parent/guardian.
 - Students must **not be left unsupervised in the corridors at any time**.
@@ -22,7 +22,7 @@ Students are the **responsibility of the teacher** from the beginning of the cla
 
 ---
 
-## 🧹 Classroom Cleanliness
+## Classroom Cleanliness
 
 - Teachers must leave the classroom in the same condition as they found it.
 - They should **involve students in cleaning up** after the lesson, which includes:
@@ -33,7 +33,7 @@ Students are the **responsibility of the teacher** from the beginning of the cla
 
 ---
 
-## ✏️ Stationery and Supplies
+## Stationery and Supplies
 
 - Teachers must **not use Cambourne Village College stationery** or materials left in classrooms.
 - All teachers are expected to bring their **own teaching resources and stationery**.
@@ -41,7 +41,7 @@ Students are the **responsibility of the teacher** from the beginning of the cla
 
 ---
 
-## 📝 Homework Communication
+## Homework Communication
 
 - Homework should be sent to parents **on the same day** as the lesson.
 - If this is not possible, it must be sent **by the next day at the latest** to give students and parents enough time to complete it.
@@ -49,7 +49,7 @@ Students are the **responsibility of the teacher** from the beginning of the cla
 
 ---
 
-# 🧭 Code of Conduct
+# Code of Conduct
 
 - **Professional Standards**: All teachers and volunteers must act as role models, maintaining high standards of professionalism and Islamic character.
 - **Respectful Communication**: Teachers must communicate respectfully with students, parents, and colleagues at all times.
@@ -57,9 +57,9 @@ Students are the **responsibility of the teacher** from the beginning of the cla
 
 ---
 
-# 📋 New Teacher Policy
+# New Teacher Policy
 
-## ✍️ Recruitment and Trial Period
+## Recruitment and Trial Period
 
 1. **Initial Trial Period**  
    - All newly recruited teachers will undergo a **four-week trial period**.
@@ -74,7 +74,7 @@ Students are the **responsibility of the teacher** from the beginning of the cla
 
 ---
 
-## ✅ Hiring Criteria
+## Hiring Criteria
 
 1. **English Proficiency**  
    - Teachers must have a **minimum level of spoken and written English** to effectively communicate with students, staff, and parents.
@@ -84,7 +84,7 @@ Students are the **responsibility of the teacher** from the beginning of the cla
 
 ---
 
-## 👥 Interview Process
+## Interview Process
 
 1. **Onsite Interview**  
    - Candidates will be invited to attend a **Sunday session** for an interview with the Head Teacher and a school representative.
@@ -95,7 +95,7 @@ Students are the **responsibility of the teacher** from the beginning of the cla
 
 ---
 
-## 📚 Onboarding and Training
+## Onboarding and Training
 
 All new teachers and volunteers will undergo a **structured onboarding programme**, which includes:
 
@@ -105,5 +105,7 @@ All new teachers and volunteers will undergo a **structured onboarding programme
 - Ongoing training and feedback
 
 ---
-
 Together, we maintain a school culture built on trust, integrity, respect, and continuous growth.
+
+---
+{{< home-link "Home" >}} | {{< section-index >}}  

@@ -140,26 +140,6 @@
   </url><url>
     <loc>http://localhost:1313/docs/policies/hidden/</loc>
   </url><url>
-    <loc>http://localhost:1313/docs/shortcodes/</loc>
-  </url><url>
-    <loc>http://localhost:1313/docs/shortcodes/buttons/</loc>
-  </url><url>
-    <loc>http://localhost:1313/docs/shortcodes/columns/</loc>
-  </url><url>
-    <loc>http://localhost:1313/docs/shortcodes/details/</loc>
-  </url><url>
-    <loc>http://localhost:1313/docs/shortcodes/hints/</loc>
-  </url><url>
-    <loc>http://localhost:1313/docs/shortcodes/mermaid/</loc>
-  </url><url>
-    <loc>http://localhost:1313/docs/shortcodes/section/</loc>
-  </url><url>
-    <loc>http://localhost:1313/docs/shortcodes/section/first-page/</loc>
-  </url><url>
-    <loc>http://localhost:1313/docs/shortcodes/section/second-page/</loc>
-  </url><url>
-    <loc>http://localhost:1313/docs/shortcodes/tabs/</loc>
-  </url><url>
     <loc>http://localhost:1313/tags/attendance/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/behaviour/</loc>
@@ -183,8 +163,6 @@
     <loc>http://localhost:1313/tags/fees/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/homework/</loc>
-  </url><url>
-    <loc>http://localhost:1313/docs/shortcodes/katex/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/management/</loc>
   </url><url>

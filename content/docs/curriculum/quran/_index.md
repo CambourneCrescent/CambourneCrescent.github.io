@@ -3,77 +3,75 @@ title: "Qur'an"
 weight: 20
 date: 2025-06-23T00:00:00Z
 draft: false
-tags: ["curriculum", "Qurâ€™an", "memorisation", "Islamic education"]
+tags: ["curriculum", "Qur¡¯an", "memorisation", "Islamic education"]
 categories: ["Education", "Islamic School"]
 bookCollapseSection: true
 ---
 
-# ğŸ“– Qurâ€™an Curriculum Overview
+# Qur¡¯an Curriculum Overview
 
-Our Qurâ€™an programme emphasises **TajwÄ«d**, reading fluency, memorisation, and the learning of essential **duÊ¿Äs**. Students progress through a carefully structured syllabus from Class 1 to Class 7, allowing them to gradually develop confidence, skill, and a connection with the Qurâ€™an.
+Our Qur¡¯an programme emphasises **Tajw¨©d**, reading fluency, memorisation, and the learning of essential **du?¨¡s**. Students progress through a carefully structured syllabus from Class 1 to Class 7, allowing them to gradually develop confidence, skill, and a connection with the Qur¡¯an.
 
 ---
 
-## ğŸ§  Memorisation Curriculum
+## Memorisation Curriculum
 
-Each class memorises a set of short **SÅ«rahs** from *Juz Ê¿Amma*, along with other important verses and Surahs, beginning with those that are easiest to learn. The memorisation schedule is spread across [three terms](https://cambournecrescent.github.io/docs/curriculum/#-academic-year-structure) each year. As students progress, they are gradually introduced to longer and more complex SÅ«rahs suited to their age and ability.
+Each class memorises a set of short **S¨±rahs** from *Juz ?Amma*, along with other important verses and Surahs, beginning with those that are easiest to learn. The memorisation schedule is spread across [three terms](https://cambournecrescent.github.io/docs/curriculum/#-academic-year-structure) each year. As students progress, they are gradually introduced to longer and more complex S¨±rahs suited to their age and ability.
 
 | **Class** | **Autumn Term** | **Spring Term** | **Summer Term** |
 |:---------:|:----------------|:----------------|:----------------|
-| 1 | [Al-IkhlÄá¹£](/docs/curriculum/quran/112-ikhlas/), [Al-Falaq](/docs/curriculum/quran/113-falaq/) | Al-Masad, An-NÄs | An-Naá¹£r, [Al-FÄtiá¸¥ah](/docs/curriculum/quran/01-fatihah/) |
-| 2 | Al-KÄfirÅ«n, Al-Kawthar, Al-MÄÊ¿Å«n | Quraysh, Al-FÄ«l, Al-Humazah | Al-Ê¿Aá¹£r, At-TakÄthur, Al-QÄriÊ¿ah |
-| 3 | Al-Ê¿Ä€diyÄt, Az-Zalzalah, Al-Bayyinah | Al-Qadr, Al-Ê¿Alaq, At-TÄ«n | Ash-Shará¸¥, Aá¸-á¸Œuá¸¥Ä, Al-Layl |
-| 4 | Ash-Shams, Al-Balad | Al-Fajr, Al-GhÄshiyah | Al-AÊ¿lÄ, [Aá¹­-á¹¬Äriq](/docs/curriculum/quran/86-tariq/) |
-| 5 | Al-BurÅ«j | Al-InshiqqÄq | Al-Muá¹­affifÄ«n |
-| 6 | Al-Infiá¹­Är | At-TakwÄ«r | Ê¿Abasa |
-| 7 | An-NÄziÊ¿Ät | An-NabaÊ¾ | Al-Kahf (1â€“10), Al-Baqarah (285â€“286) |
+| 1 | [Al-Ikhl¨¡?](/docs/curriculum/quran/112-ikhlas/), [Al-Falaq](/docs/curriculum/quran/113-falaq/) | Al-Masad, An-N¨¡s | An-Na?r, [Al-F¨¡ti?ah](/docs/curriculum/quran/01-fatihah/) |
+| 2 | Al-K¨¡fir¨±n, Al-Kawthar, Al-M¨¡?¨±n | Quraysh, Al-F¨©l, Al-Humazah | Al-?A?r, At-Tak¨¡thur, Al-Q¨¡ri?ah |
+| 3 | Al-?¨¡diy¨¡t, Az-Zalzalah, Al-Bayyinah | Al-Qadr, Al-?Alaq, At-T¨©n | Ash-Shar?, A?-?u?¨¡, Al-Layl |
+| 4 | Ash-Shams, Al-Balad | Al-Fajr, Al-Gh¨¡shiyah | Al-A?l¨¡, [A?-?¨¡riq](/docs/curriculum/quran/86-tariq/) |
+| 5 | Al-Bur¨±j | Al-Inshiqq¨¡q | Al-Mu?affif¨©n |
+| 6 | Al-Infi?¨¡r | At-Takw¨©r | ?Abasa |
+| 7 | An-N¨¡zi?¨¡t | An-Naba? | Al-Kahf (1¨C10), Al-Baqarah (285¨C286) |
 
 ---
 
-## ğŸ“˜ TajwÄ«d and Reading Curriculum
+## Tajw¨©d and Reading Curriculum
 
-Each year group follows a progressive TajwÄ«d curriculum focused on clarity of recitation and accurate application of rules. Below is a summary of the key learning objectives by class:
+Each year group follows a progressive Tajw¨©d curriculum focused on clarity of recitation and accurate application of rules. Below is a summary of the key learning objectives by class:
 
 ---
 
 ### Class 1  
-- **TajwÄ«d Focus**: Correct **Makharij** (pronunciation of Arabic letters)  
-- **Reading**: *Noorani QÄÊ¿idah* â€“ letter recognition, short vowels, basic elongation rules
+- **Tajw¨©d Focus**: Correct **Makharij** (pronunciation of Arabic letters)  
+- **Reading**: *Noorani Q¨¡?idah* ¨C letter recognition, short vowels, basic elongation rules
 
 ---
 
 ### Class 2  
-- **TajwÄ«d Focus**: Introduction to **Ghunnah**, **Qalqalah**, and simple **Madd** (elongation)
+- **Tajw¨©d Focus**: Introduction to **Ghunnah**, **Qalqalah**, and simple **Madd** (elongation)
 
 ---
 
 ### Class 3  
-- **TajwÄ«d Focus**: Rules of **NÅ«n SÄkin** and **TanwÄ«n**  
-  *(IkhfÄÊ¾, IdghÄm, IqlÄb, Iáº“hÄr)*
+- **Tajw¨©d Focus**: Rules of **N¨±n S¨¡kin** and **Tanw¨©n**  
+  *(Ikhf¨¡?, Idgh¨¡m, Iql¨¡b, I?h¨¡r)*
 
 ---
 
 ### Class 4  
-- **TajwÄ«d Focus**: Rules of **MÄ«m SÄkin**, and extended **Madd** rules
+- **Tajw¨©d Focus**: Rules of **M¨©m S¨¡kin**, and extended **Madd** rules
 
 ---
 
 ### Class 5  
-- **TajwÄ«d Focus**: Refinement of **Makharij** and learning **á¹¢ifÄt** (characteristics of letters), including  
+- **Tajw¨©d Focus**: Refinement of **Makharij** and learning **?if¨¡t** (characteristics of letters), including  
   - Whispered and voiced letters  
   - Heavy and light articulation
 
 ---
 
 ### Class 6  
-- **TajwÄ«d Focus**: Advanced application including **Hamzah** rules and stopping signs
+- **Tajw¨©d Focus**: Advanced application including **Hamzah** rules and stopping signs
 
 ---
 
 ### Class 7  
-- **TajwÄ«d Focus**: Mastery of stopping rules, silent letters, and advanced TajwÄ«d techniques
+- **Tajw¨©d Focus**: Mastery of stopping rules, silent letters, and advanced Tajw¨©d techniques
 
 ---
-
-Looking for Crescent School Curriculum?  
-â¡ï¸ [View Curriculum Overview â†’](/docs/curriculum/)
+{{< home-link "Home" >}} | {{< section-index >}}  

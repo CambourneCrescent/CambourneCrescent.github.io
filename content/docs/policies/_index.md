@@ -7,8 +7,6 @@ title: "Policies"
 
 These policy guidelines are for those wanting to enrol their child/ren to the School which is run on Sundays between 10:00 am to 2:00 pm.
 
-Narrated 'Uthman: The Prophet (SAW) said, "The best among you are those who learn the Qur'an and teach it." (Sahih Bukhari)
-
 Cambourne Crescent is fully committed to equal opportunities in education. No applicant should be discriminated against on the basis of race, nationality, colour or ethnic origin. The school is run and administered by voluntary staff and Trustees.
 
 ## **1\. Mission and Vision Statement**
@@ -21,4 +19,11 @@ Our school is committed to providing equal opportunities to all students, regard
 
 * **Non-Discrimination**: No student, staff member, or volunteer will face discrimination in any form.  
 * **Inclusivity**: We promote an inclusive atmosphere, ensuring all students have access to necessary learning tools and support.
+
+---
+
+{{< section-list >}}
+
+---
+{{< home-link "Home" >}}
 

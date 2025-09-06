@@ -4,9 +4,9 @@ title: "Parents"
 tags: ["parents", "fees", "attendance", "drop-off", "collection", "policy", "school rules", "communication"]
 ---
 
-# 📆 Attendance and Absence Policy
+# Attendance and Absence Policy
 
-## ⏰ Operating Hours
+## Operating Hours
 
 - The school operates on Sundays from **10:00 AM to 2:00 PM** during term time.  
 - During **Ramadan**, the school runs on a reduced timetable, typically until **1:00 PM**.
@@ -15,39 +15,39 @@ tags: ["parents", "fees", "attendance", "drop-off", "collection", "policy", "sch
 Children are given a 5 to 10-minute break after every hour.
 Please note that it is not possible to take children outside to the school grounds during breaks, as we do not have access to the grounds.
 
-## 🎯 Punctuality and Attendance Expectations
+## Punctuality and Attendance Expectations
 
 - Punctuality is a key value. Students arriving more than **10 minutes late** will receive a warning.
 - Two or more late arrivals in one term **without a valid reason** may result in a detention.
 - Persistent lateness or short-term absences will be followed up seriously.
 
-## 🚸 Absences During Term Time
+## Absences During Term Time
 
 - Parents are asked to carefully consider the impact of term-time absences on their child’s education.
 - Up to **3 weeks of absence per academic year** is permitted if informed in advance.
 - If a student is absent for more than 3 weeks without prior approval or a valid reason, the child will be **removed from the register**.  
   - Re-admittance is **not guaranteed** and will depend on available places.
 
-## 📣 Communication Regarding Absence
+## Communication Regarding Absence
 
 - All attendance and punctuality queries should be directed to the **School Lead**.
 - Parents must also notify the class teacher via the class **WhatsApp group** if an absence is expected.
 
 ---
 
-# 🚗 Drop-Off and Collection Policy
+# Drop-Off and Collection Policy
 
 - Parents must arrive **5 minutes before** the end of class and **no later than 10 minutes after** the end time.
 - Late collections may incur a **fine**, as repeated lateness disrupts school operations and inconveniences staff.
 
-## 🚷 Classroom Access
+## Classroom Access
 
 - For safety and safeguarding reasons, **parents/guardians are not allowed** to enter classrooms during drop-off or collection, unless they have **explicit prior approval**.
 - This ensures a secure and calm environment for all students and teachers.
 
 ---
 
-# 💬 Parent Communication Policy
+# Parent Communication Policy
 
 - **Parents must not post unrelated or social messages** in the class WhatsApp groups. These groups are strictly for:
   - Homework and reminders shared by teachers.
@@ -55,14 +55,14 @@ Please note that it is not possible to take children outside to the school groun
 - While the groups are **monitored**, teachers are **not expected to reply to each message** individually.
 - Homework-related questions may be asked in the group, but please allow teachers **adequate time** to respond.
 
-## 🚫 Respect for Staff
+## Respect for Staff
 
 - **Parents must treat all Crescent School teachers and admin staff with respect and courtesy.**  
 - Any form of mistreatment, including inappropriate language or behaviour, will not be tolerated and may result in further action from the school.
 
 ---
 
-# 🧾 School Fee Policy
+# School Fee Policy
 
 1. **Fee Confirmation**  
    Parents are requested to confirm with the school at drop-off whether their school fees have been successfully processed. Please ensure all payment references are correctly labelled to avoid confusion.
@@ -80,5 +80,7 @@ Please note that it is not possible to take children outside to the school groun
    A small discount will be offered to parents who pay the full year’s fees in advance.
 
 ---
-
 Together, we can maintain a respectful, safe, and well-managed school environment for all members of our community.
+
+---
+{{< home-link "Home" >}} | {{< section-index >}}  

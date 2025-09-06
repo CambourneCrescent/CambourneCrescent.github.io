@@ -105,9 +105,10 @@ Our Arabic language curriculum is based on the **Kitābī Series**, a progressiv
 
 Our approach is interactive, engaging, and paced to match the child’s developmental stage—ensuring a joyful and meaningful connection with the Arabic language.
 
-*“Learn Arabic, for it strengthens the mind and increases one’s chivalry.”* — ʿUmar ibn al-Khaṭṭāb رضي الله عنه
+{{% hint info %}}
+*“Learn Arabic, for it strengthens the mind and increases one’s chivalry.”* 
 
+— ʿUmar ibn al-Khaṭṭāb رضي الله عنه
+{{% /hint %}}
 ---
-
-Looking for Crescent School Curriculum?  
-➡️ [View Curriculum Overview →](/docs/curriculum/)
+{{< home-link "Home" >}} | {{< section-index >}}  

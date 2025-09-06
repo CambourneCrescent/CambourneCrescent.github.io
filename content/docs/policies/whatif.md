@@ -90,3 +90,6 @@ title: "What If?"
     * **Immediate Fix**: Notify the venue manager or on-site staff to resolve the issue as quickly as possible.  
     * **Temporary Solutions**: If the issue cannot be fixed immediately, relocate the class to a different room or space. For cleanliness issues, assign available volunteers to clean up.  
     * **Long-Term Resolution**: Document the issue and schedule a meeting with the venue staff to ensure long-term solutions, especially for recurring problems.
+	
+---
+{{< home-link "Home" >}} | {{< section-index >}}  
