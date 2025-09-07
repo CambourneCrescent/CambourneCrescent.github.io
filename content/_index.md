@@ -7,7 +7,7 @@ weight: 1
 
 # Crescent School
 
-Welcome to **Crescent School**, a weekend Arabic Language and Islamic school dedicated to nurturing young hearts and minds with knowledge, character development, and community spirit.
+Welcome to **Crescent School**, a weekend Arabic Language and Islamic Studies school dedicated to nurturing young hearts and minds with knowledge, character development, and community spirit.
 
 {{% columns %}}
 
@@ -50,7 +50,7 @@ Our curriculum blends traditional and contemporary methods, tailored to suit eac
 
 {{<mermaid>}}
 stateDiagram-v2
-    State1: Crescet School Curriculum
+    State1: Crescet School
 	State1 --> Arabic
     note right of Arabic
 		Arabic GCSE

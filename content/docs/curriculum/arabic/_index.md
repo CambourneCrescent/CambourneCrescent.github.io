@@ -1,10 +1,10 @@
 ---
 title: "Arabic Language"
+weight: 40
 date: 2025-06-19T00:00:00Z
 draft: false
 tags: ["Arabic", "Kitabi Series", "Language Curriculum"]
 categories: ["Education", "Islamic School"]
-weight: 10
 ---
 
 # Arabic language Curriculum Overview
@@ -22,6 +22,7 @@ Our Arabic language curriculum is based on the **Kitābī Series**, a progressiv
 ---
 
 ## Class Breakdown
+
 
 ### **Class 1 (Ages 5–6)**  
 **Based on: Kitābī 1**

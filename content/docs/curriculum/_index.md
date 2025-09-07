@@ -28,12 +28,6 @@ We offer a combination of **core** and **optional** subjects that cater to the v
 
 ## Core Subjects for Children
 
-### Arabic Language
-
-Our Arabic curriculum is carefully structured to build fluency in reading, writing, speaking, and understanding the Arabic language. Lessons are age-appropriate and designed to support steady progress in vocabulary, grammar, and communication skills.
-
-[View Arabic Language Curriculum →](/docs/curriculum/arabic/)
-
 ### Qur’an Studies
 
 Students begin by learning the Arabic alphabet and pronunciation rules. They gradually progress towards fluent recitation of the **Qur’an**, with a strong emphasis on **Tajwīd** (correct articulation and pronunciation). The goal is to instil a deep appreciation of the Qur’an while developing accurate reading skills.
@@ -46,11 +40,19 @@ Using the **Safar Publications** curriculum, children explore key themes such as
 
 [View Islamic Studies Curriculum →](/docs/curriculum/islamicstudies/)
 
+### Arabic Language
+
+Our Arabic curriculum is carefully structured to build fluency in reading, writing, speaking, and understanding the Arabic language. Lessons are age-appropriate and designed to support steady progress in vocabulary, grammar, and communication skills.
+
+[View Arabic Language Curriculum →](/docs/curriculum/arabic/)
+
 ---
 
 ## Inclusion and Language Learners
 
-Crescent School is proud to welcome children from diverse backgrounds. Some students attend exclusively to study the **Arabic language** as part of their interest in language learning and cultural enrichment.
+Crescent School encourages all students to attend the full four hours of classes, covering Qur’an, Islamic Studies, and Arabic Language.
+
+At the same time, we are proud to welcome children from diverse backgrounds. Some students choose to attend exclusively for **Arabic language** learning as part of their interest in language and cultural enrichment. These students typically join for the first two hours of the school day, where the focus is solely on Arabic instruction.
 
 These students typically attend for the **first two hours** of the school day, where the focus is solely on Arabic language instruction. We ensure that every learner feels respected, supported, and included in the school environment.
 

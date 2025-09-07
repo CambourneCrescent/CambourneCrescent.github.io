@@ -26,4 +26,3 @@ Our school is committed to providing equal opportunities to all students, regard
 
 ---
 {{< home-link "Home" >}}
-

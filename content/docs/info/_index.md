@@ -31,29 +31,26 @@ Our dedicated team of educators and administrators work together to deliver high
 ## 📘 Arabic Language Teachers
 
 ### Classes 1–6  
-- **Class 1 Teacher** – *Ms Rana Ezzat*  
-  ![](https://via.placeholder.com/150)  
-- **Class 2 Teacher** – *Ms Yomna Mostafa*  
-  ![](https://via.placeholder.com/150)  
-- **Class 3 Teacher** – *Ms Eman Siddek*  
+- **Class 1 Teacher** – *Ms Eman Abdelzaher*
+  ![](https://via.placeholder.com/150)
+- **Class 2 Teacher** – *Ms Yomna Mostafa and Ms Asmaa*  
+  ![](https://via.placeholder.com/150)
+- **Class 3 Teacher** – *Ms Heba*  
   ![](https://via.placeholder.com/150)  
 - **Class 4 Teacher** – *Ms Wessam Khalifa*  
   ![](https://via.placeholder.com/150)  
-- **Class 5 Teacher** – *Dr Rasha Badawy*  
+- **Class 5 Teacher** – *Ms Fatimah*  
   ![](https://via.placeholder.com/150)  
 - **Class 6 Teacher** – *Ms Madleen Alhams*  
   ![](https://via.placeholder.com/150)
-
 ### GCSE Class  
 - **GCSE Arabic Teacher** – *Ms Khatija Abughannam*  
   ![](https://via.placeholder.com/150)
-
 ### Non-Arabic Speaker Classes  
 - **NAS Class 1 Teacher** – *Ms Noura Adem*  
   ![](https://via.placeholder.com/150)  
 - **NAS Class 2 Teacher** – *Ms Shima Barkati*  
   ![](https://via.placeholder.com/150)
-
 ### Adult Arabic Classes  
 - **Adult Class Teacher** – [*Dr. Abdellatif Salah*](https://www.linkedin.com/in/abdellatif-salah)
   ![](https://via.placeholder.com/150)
@@ -63,15 +60,15 @@ Our dedicated team of educators and administrators work together to deliver high
 ## 📖 Qur’an Teachers
 
 ### Classes 1–7  
-- **Class 1 Qur’an Teacher** – *Ms Yomna Mostafa & Ms Eman Abdelzaher*  
+- **Class 1 Qur’an Teacher** – *Ms Yomna Mostafa* & *Ms Eman Abdelzaher*
   ![](https://via.placeholder.com/150)  
-- **Class 2 Qur’an Teacher** – *Ms Khatija Abughannam*  
+- **Class 2 Qur’an Teacher** – *Ms Asmaa*  
   ![](https://via.placeholder.com/150)  
-- **Class 3 Qur’an Teacher** – *Dr Rasha Badawy*  
+- **Class 3 Qur’an Teacher** – *Ms Khatija Abughannam*  
   ![](https://via.placeholder.com/150)  
-- **Class 4 Qur’an Teacher** – *Dr Rasha Badawy*  
+- **Class 4 Qur’an Teacher** – *Ms Khatija Abughannam*  
   ![](https://via.placeholder.com/150)  
-- **Class 5 Qur’an Teacher** – *Ms Mouna & Ms Wessam Khalifa*  
+- **Class 5 Qur’an Teacher** – *Ms Wessam Khalifa*  
   ![](https://via.placeholder.com/150)  
 - **Class 6 Qur’an Teacher** – [*Dr Tamer Said*](https://www.linkedin.com/in/tamer-said-54a01b26)  
   ![](https://via.placeholder.com/150)  
@@ -84,8 +81,8 @@ Our dedicated team of educators and administrators work together to deliver high
 
 ### Classes 1–7  
 - **Class 1 Islamic Studies Teacher** – *Ms Yomna Mostafa & Ms Eman Abdelzaher*  
-  ![](https://via.placeholder.com/150)  
-- **Class 2 Islamic Studies Teacher** – *Ms Rana Ezzat*  
+  ![](https://via.placeholder.com/150)
+- **Class 2 Islamic Studies Teacher** – *Ms Fatimah*
   ![](https://via.placeholder.com/150)  
 - **Class 3 Islamic Studies Teacher** – *Ms Noura Adem*  
   ![](https://via.placeholder.com/150)  
