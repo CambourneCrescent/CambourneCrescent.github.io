@@ -35,42 +35,25 @@ Each class memorises a set of short **Surahs** from *Juz Amma*, along with other
 Each year group follows a progressive Tajwid curriculum focused on clarity of recitation and accurate application of rules. Below is a summary of the key learning objectives by class:
 
 ---
-
-### Class 1  
-- **Tajwid Focus**: Correct **Makharij** (pronunciation of Arabic letters)  
-- **Reading**: *Noorani Qaidah* - letter recognition, short vowels, basic elongation rules
-
----
-
-### Class 2  
-- **Tajwid Focus**: Introduction to **Ghunnah**, **Qalqalah**, and simple **Madd** (elongation)
-
----
-
-### Class 3  
-- **Tajwid Focus**: Rules of **Nun Sakin** and **Tanwin**  
-  *(Ikhfa, Idgham, Iqlab, Izhar)*
----
-
-### Class 4  
-- **Tajwid Focus**: Rules of **Mim Sakin**, and extended **Madd** rules
-
----
-
-### Class 5  
-- **Tajwid Focus**: Refinement of **Makharij** and learning **?ifat** (characteristics of letters), including  
-  - Whispered and voiced letters  
-  - Heavy and light articulation
-
----
-
-### Class 6  
-- **Tajwid Focus**: Advanced application including **Hamzah** rules and stopping signs
-
----
-
-### Class 7  
-- **Tajwid Focus**: Mastery of stopping rules, silent letters, and advanced Tajwid techniques
-
+{{% steps %}}
+1. ### Class 1  
+	- **Tajwid Focus**: Correct **Makharij** (pronunciation of Arabic letters)  
+	- **Reading**: *Noorani Qaidah* - letter recognition, short vowels, basic elongation rules
+2. ### Class 2  
+	- **Tajwid Focus**: Introduction to **Ghunnah**, **Qalqalah**, and simple **Madd** (elongation)
+3. ### Class 3  
+	- **Tajwid Focus**: Rules of **Nun Sakin** and **Tanwin**  
+	  *(Ikhfa, Idgham, Iqlab, Izhar)*
+4. ### Class 4  
+	- **Tajwid Focus**: Rules of **Mim Sakin**, and extended **Madd** rules
+5. ### Class 5  
+	- **Tajwid Focus**: Refinement of **Makharij** and learning **Sifaat** (characteristics of letters), including  
+	  - Whispered and voiced letters  
+	  - Heavy and light articulation
+6. ### Class 6  
+	- **Tajwid Focus**: Advanced application including **Hamzah** rules and stopping signs
+7. ### Class 7  
+	- **Tajwid Focus**: Mastery of stopping rules, silent letters, and advanced Tajwid techniques
+{{% /steps %}}
 ---
 {{< home-link "Home" >}} | {{< section-index >}}  

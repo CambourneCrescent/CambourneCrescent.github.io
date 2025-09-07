@@ -21,86 +21,66 @@ Our Islamic Studies curriculum is based on the **Safar Islamic Studies series**,
 ---
 
 ## Class Breakdown
-
-### **Class 1 (Ages 5–6)**  
-**Based on: Safar Book 1**
-- Introduction to Allāh ﷻ and His creations
-- Basic Islamic manners (e.g., saying salām, cleanliness, respect)
-- Names of the Five Pillars
-- Simple daily duas with meaning
-- Introduction to key Prophets
-
----
-
-### **Class 2 (Ages 6–7)**  
-**Based on: Safar Book 2**
-- Stories of the Prophets (Nūḥ, Ibrāhīm, Mūsā عليهم السلام)
-- Angels, books, and the basic articles of faith
-- Islamic greetings and etiquettes
-- Basic practices of ṣalāh
-- Duas with meaning and context
-
----
-
-### **Class 3 (Ages 7–8)**  
-**Based on: Safar Book 3**
-- Story of Prophet Muḥammad ﷺ (early life in Makkah)
-- Life after death and belief in the Hereafter
-- Importance of being truthful, kind, and just
-- Understanding halal and haram
-- Short sūrahs with meaning
-
----
-
-### **Class 4 (Ages 8–9)**  
-**Based on: Safar Book 4**
-- Hijrah and life in Madinah
-- Islamic calendar and major events
-- Concept of reward and punishment
-- Manners in the masjid and at home
-- Importance of ṣalāh and good character
-
----
-
-### **Class 5 (Ages 9–10)**  
-**Based on: Safar Book 5**
-- Prophetic characteristics and key companions
-- Zakat and fasting in detail
-- Good and bad deeds: accountability
-- Manners of speech and interaction
-- Duas and short sūrahs with reflection
-
----
-
-### **Class 6 (Ages 10–11)**  
-**Based on: Safar Book 6**
-- Seerah: key battles and Treaty of Hudaybiyyah
-- Concepts of taqwā, sabr, shukr
-- Practical Islamic decision making
-- Islamic contribution to the world
-- Death, the grave, and Yawm al-Qiyāmah
+{{% steps %}}
+1. ### **Class 1 (Ages 5–6)**  
+	**Based on: Safar Book 1**
+	- Introduction to Allāh ﷻ and His creations
+	- Basic Islamic manners (e.g., saying salām, cleanliness, respect)
+	- Names of the Five Pillars
+	- Simple daily duas with meaning
+	- Introduction to key Prophets
+2. ### **Class 2 (Ages 6–7)**  
+	**Based on: Safar Book 2**
+	- Stories of the Prophets (Nūḥ, Ibrāhīm, Mūsā عليهم السلام)
+	- Angels, books, and the basic articles of faith
+	- Islamic greetings and etiquettes
+	- Basic practices of ṣalāh
+	- Duas with meaning and context
+3. ### **Class 3 (Ages 7–8)**  
+	**Based on: Safar Book 3**
+	- Story of Prophet Muḥammad ﷺ (early life in Makkah)
+	- Life after death and belief in the Hereafter
+	- Importance of being truthful, kind, and just
+	- Understanding halal and haram
+	- Short sūrahs with meaning
+4. ### **Class 4 (Ages 8–9)**  
+	**Based on: Safar Book 4**
+	- Hijrah and life in Madinah
+	- Islamic calendar and major events
+	- Concept of reward and punishment
+	- Manners in the masjid and at home
+	- Importance of ṣalāh and good character
+5. ### **Class 5 (Ages 9–10)**  
+	**Based on: Safar Book 5**
+	- Prophetic characteristics and key companions
+	- Zakat and fasting in detail
+	- Good and bad deeds: accountability
+	- Manners of speech and interaction
+	- Duas and short sūrahs with reflection
+6. ### **Class 6 (Ages 10–11)**  
+	**Based on: Safar Book 6**
+	- Seerah: key battles and Treaty of Hudaybiyyah
+	- Concepts of taqwā, sabr, shukr
+	- Practical Islamic decision making
+	- Islamic contribution to the world
+	- Death, the grave, and Yawm al-Qiyāmah
+7. ### **Class 7 (Ages 11–13)**  
+	**Based on: Safar Book 7**
+	- Deep dive into the Farewell Sermon
+	- Signs of the Day of Judgement
+	- Social responsibilities in Islam
+	- Balancing deen and dunya
+	- Islamic worldview on equality and justice
+{{% /steps %}}
 
 ---
-
-### **Class 7 (Ages 11–13)**  
-**Based on: Safar Book 7**
-- Deep dive into the Farewell Sermon
-- Signs of the Day of Judgement
-- Social responsibilities in Islam
-- Balancing deen and dunya
-- Islamic worldview on equality and justice
-
----
-
 ## Assessment & Progress
-
 - **Weekly homework** based on workbook activities
 - **Termly assessments** covering core knowledge and application
 - **In-class discussions** to reflect on moral choices and real-life situations
 - **Parent feedback reports** every term
 
 ---
-
 We aim to nurture students who understand Islam not only as a subject, but as a way of life.
 
 {{% hint info %}}
