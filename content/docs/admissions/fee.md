@@ -5,9 +5,6 @@ draft: false
 tags: ["policies", "fees", "school"]
 categories: ["Policies", "Crescent School"]
 weight: 35
-menu:
-  main:
-    parent: "Policies"
 ---
 
 # Fees Policy
@@ -48,4 +45,4 @@ Support is available for families unable to meet fees.
 If you require assistance, please contact us by email at **school@cambournecrescent.org**.  
 
 ---
-{{< home-link "Home" >}}
+{{< home-link "Home" >}} | {{< section-index >}}
