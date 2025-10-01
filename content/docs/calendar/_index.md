@@ -5,14 +5,15 @@ draft: false
 weight: 100
 ---
 
-# Crescent School Calendar 2025–2026
-
-## Autumn Term
+# Term Dates
+## 2025–2026
+---
+## Autumn Term 2025
 
 ### September 2025
 | Date    | Notes |
 |---------|-------|
-| 14-Sep  | 📖 Class |
+| 14-Sep  | 📖 Class - All pupils in school |
 | 21-Sep  | 📖 Class |
 | 28-Sep  | 📖 Class |
 
@@ -43,7 +44,7 @@ weight: 100
 
 ---
 
-## Spring Term
+## Spring Term 2026
 
 ### January 2026
 | Date    | Notes |
@@ -60,20 +61,20 @@ weight: 100
 | 8-Feb   | 📖 Class |
 | 15-Feb  | 🏖️ Half Term Holiday |
 | 17/18-Feb | 🌙 Ramadan begins (approx.) |
-| 22-Feb  | 🌙📖 Ramadan Hours |
+| 22-Feb  | 📖 Class - 🌙📖 Ramadan Hours |
 
 ### March 2026
 | Date    | Notes |
 |---------|-------|
-| 1-Mar   | 🌙📖 Ramadan Hours |
-| 8-Mar   | 🌙📖 Ramadan Hours |
-| 15-Mar  | 🌙📖 Ramadan Hours |
+| 1-Mar   | 📖 Class - 🌙📖 Ramadan Hours |
+| 8-Mar   | 📖 Class - 🌙📖 Ramadan Hours |
+| 15-Mar  | 📖 Class - 🌙📖 Ramadan Hours |
 | 22-Mar  | 🎉 Eid Holiday (19th/20th Mar) |
 | 29-Mar  | 🐣 Half Term Holiday |
 
 ---
 
-## Summer Term
+## Summer Term 2026
 
 ### April 2026
 | Date    | Notes |
@@ -104,7 +105,8 @@ weight: 100
 | Date    | Notes |
 |---------|-------|
 | 5-Jul   | 📖 Class |
-| 12-Jul  | 🎓 Class - Last Day of Term |
+| 12-Jul  | 📖 Class - 🎓 Last Day of Term |
 
 ---
+
 {{< home-link "Home" >}}
