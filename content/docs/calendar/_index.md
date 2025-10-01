@@ -60,15 +60,15 @@ weight: 100
 | 1-Feb   | 📖 Class |
 | 8-Feb   | 📖 Class |
 | 15-Feb  | 🏖️ Half Term Holiday |
-| 17/18-Feb | 🌙 Ramadan begins (approx.) |
-| 22-Feb  | 📖 Class - 🌙📖 Ramadan Hours |
+| _17/18-Feb_ | 🌙 _Ramadan begins (approx.)_ |
+| 22-Feb  | 📖 Class - 🌙 Ramadan Hours |
 
 ### March 2026
 | Date    | Notes |
 |---------|-------|
-| 1-Mar   | 📖 Class - 🌙📖 Ramadan Hours |
-| 8-Mar   | 📖 Class - 🌙📖 Ramadan Hours |
-| 15-Mar  | 📖 Class - 🌙📖 Ramadan Hours |
+| 1-Mar   | 📖 Class - 🌙 Ramadan Hours |
+| 8-Mar   | 📖 Class - 🌙 Ramadan Hours |
+| 15-Mar  | 📖 Class - 🌙 Ramadan Hours |
 | 22-Mar  | 🎉 Eid Holiday (19th/20th Mar) |
 | 29-Mar  | 🐣 Half Term Holiday |
 
@@ -110,3 +110,4 @@ weight: 100
 ---
 
 {{< home-link "Home" >}}
+
