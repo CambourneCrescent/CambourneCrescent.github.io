@@ -10,7 +10,7 @@ menu: main
 
 # Crescent School – Year Groups
 
-Students are acessed at the time of admission and at the start and end of the year the classes are allocated based on skill and age level.
+Student placement is determined through an initial assessment at the time of admission. Subsequently, classes are allocated at the beginning of the academic year based on a combination of the student's age and skill level, with progress being formally reviewed at the end of the year.
 
 ---
 
