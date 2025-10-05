@@ -32,11 +32,13 @@ Our dedicated team of educators and administrators work together to deliver high
 ### Classes 1–6  
 - **Class 1 Teacher** – *Ms Eman Abdelzaher*
   ![](https://via.placeholder.com/150)
-- **Class 2 Teacher** – *Ms Yomna Mostafa*
+- **Class 2 - A Teacher** – *Ms Yomna Mostafa*
   ![](https://via.placeholder.com/150)
 - **Class 2 - B Teacher** – *Ms Noura Adem*
   ![](https://via.placeholder.com/150)
-- **Class 3 Teacher** – *Ms Heba*
+- **Class 3 - A Teacher** – *Ms Farha*
+  ![](https://via.placeholder.com/150)
+- **Class 3 - B Teacher** – *Ms Heba*
   ![](https://via.placeholder.com/150)
 - **Class 4 Teacher** – *Ms Wessam Khalifa*
   ![](https://via.placeholder.com/150)
