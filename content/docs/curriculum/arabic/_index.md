@@ -89,7 +89,7 @@ Our Arabic language curriculum is based on the **Kitābī Series**, a progressiv
 | **Crescent School Year Group** | **Book (2025-26)**       | **Age Group** | **Weekday School Year Group** | **Number of Years to Complete & Criteria to Move to Next Class** |
 |:------------------------------:|:-----------------------:|:------------:|:----------------------------:|:-----------------------------------------------------------------|
 | ALS 1                        | Ms Eman  | Kitabi 1                | 5-6          | Y1                           | 1 year                                                            |
-| ALS 2_A                      | Ms Yomna  | Kitabi 2 (First Half)   | 6-7          | Y2                           | 1 year                                                            |
+| ALS 2_A                      | Ms Yomna  | Kitabi 2  | 6-7          | Y2                           | 1 year                                                            |
 | ALS 2_B                      | Ms Noura | Kitabi 2 (Second Half)  | 7-8          | Y2                           | 1 year                                                            |
 | ALS 3_A                        | Ms Farha  | Kitabi 3                | 8-9          | Y3                           | 1 year                                                            |
 | ALS 3_B                        | Ms Heba | Kitabi 3 (Second Half)   | 8-9          | Y3                           | 1 year                                                            |
