@@ -85,21 +85,7 @@ Our Arabic language curriculum is based on the **Kitābī Series**, a progressiv
 - **Linking Arabic to Qur’ānic phrases and duʿās**
 
 ---
-## Class Transition
-| **Crescent School Year Group** | **Book (2025-26)**       | **Age Group** | **Weekday School Year Group** | **Number of Years to Complete & Criteria to Move to Next Class** |
-|:------------------------------:|:-----------------------:|:------------:|:----------------------------:|:-----------------------------------------------------------------|
-| ALS 1                        | Ms Eman  | Kitabi 1                | 5-6          | Y1                           | 1 year                                                            |
-| ALS 2_A                      | Ms Yomna  | Kitabi 2  | 6-7          | Y2                           | 1 year                                                            |
-| ALS 2_B                      | Ms Noura | Kitabi 2 (Second Half)  | 7-8          | Y2                           | 1 year                                                            |
-| ALS 3_A                        | Ms Farha  | Kitabi 3                | 8-9          | Y3                           | 1 year                                                            |
-| ALS 3_B                        | Ms Heba | Kitabi 3 (Second Half)   | 8-9          | Y3                           | 1 year                                                            |
-| ALS 4                        | Ms Wessam  | Kitabi 4                | 10-11        | Y4 / Y5                      | 1 or 2 years depending on proficiency                              |
-| ALS 5                        | Ms Asmaa  | Kitabi 5                | 11-12        | Y5 / Y6                      | 1 or 2 years depending on proficiency                              |
-| ALS 6                        | Ms Madleen  | Kitabi 6                | 12-13        | Y7 / Y8                      | 2 years                                                           |
-| ALS GCSE                     | Ms Khatija  | Kitabi GCSE             | 13-14        | Y9 / Y10 / Y11               | 2 or 3 years                                                      |
-| ALS Pathway                   | Ms Rouda  | Gateway To Arabic       | 8-15         | Non Native Speaker           | Pathway students could be moved to other classes at the end of the year depending on proficiency |
 
----
 Our approach is interactive, engaging, and paced to match the child’s developmental stage—ensuring a joyful and meaningful connection with the Arabic language.
 
 {{% hint info %}}
