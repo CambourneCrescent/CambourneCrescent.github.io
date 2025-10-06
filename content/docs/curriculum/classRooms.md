@@ -15,6 +15,7 @@ Student placement is determined through an initial assessment at the time of adm
 ---
 
 ## Arabic Language
+When a student joins the school, a short assessment is carried out to determine their level in Arabic reading, writing, speaking, and understanding. Based on the results, students are placed into the appropriate Arabic Language class at the start of the academic year.
 
 ### Class Transition
 
@@ -34,12 +35,7 @@ Student placement is determined through an initial assessment at the time of adm
 ---
 
 ## Quran & Islamic Studies
-When a student joins the school, a short assessment is done to place them in the right Qur’an class. Placement is based on both age and ability. Progress is reviewed at the end of the academic year.
-
-Islamic Studies classes follow the same level as the Qur’an classes. For example, if a student is in Qur’an Class 4, they will also be in Islamic Studies Class 4. This helps ensure balanced learning in both subjects.
-
-Each level has a dedicated WhatsApp group, used for both Qur’an and Islamic Studies.
-If your child is in Group IS 4, this means they are in Class 4 for both Qur’an and Islamic Studies.
+When a student joins the school, a short assessment is done to place them in the right Qur’an class. Islamic Studies classes follow the same level as the Qur’an classes. For example, if a student is in Qur’an Class 4, they will also be in Islamic Studies Class 4. This helps ensure balanced learning in both subjects.
 
 ### Class Transition
 | **Crescent School Year Group** | **Quran Teacher**       | **Islamic Studies Teacher** | **Books** |
@@ -55,8 +51,18 @@ If your child is in Group IS 4, this means they are in Class 4 for both Qur’an
 
 ---
 
+## Class Groups & WhatsApp Communication
+
+To support communication with parents, we use dedicated WhatsApp groups for each level:
+- Arabic Language: Each WhatsApp group is labelled with the class number followed by the prefix "Arabic Studies" (e.g. CC-4 Arabic Studies).
+- Qur’an & Islamic Studies: These subjects share the same group, labelled with the class number followed by the prefix "Islamic Studies" (e.g. CC-5 Islamic Studies).
+
+So, if your child is in Group CC-5 Islamic Studies, they are in Class 5 for both Qur’an and Islamic Studies.
+If they are in Group CC-4 Arabic Studies, this refers specifically to their Arabic Language class.
+
 {{< section-list >}}
 
 ---
 
 {{< home-link "Home" >}}
+
