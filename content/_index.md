@@ -69,7 +69,7 @@ stateDiagram-v2
 
 ## School Calendar
 
-Term dates, events, and holidays can be found on the [School Calendar](http://www.cambournecrescent.org/news-events/calendar/). Please check regularly for updates.
+Term dates, events, and holidays can be found on the [School Calendar](/docs/calendar/). Please check regularly for updates.
 
 ---
 
@@ -94,3 +94,4 @@ For more information, feel free to contact us at [school@cambournecrescent.org](
 {{% /hint %}}
 ---
 {{< list-docs-folders >}}
+
