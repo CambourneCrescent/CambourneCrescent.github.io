@@ -12,6 +12,8 @@ bookCollapseSection: true
 
 Our Quran programme emphasises **Tajwid**, reading fluency, memorisation, and the learning of essential **duas**. Students progress through a carefully structured syllabus from Class 1 to Class 7, allowing them to gradually develop confidence, skill, and a connection with the Quran.
 
+When a student joins the school, a short assessment is carried out to help place them in the right Qur’an level. Classes are then arranged at the start of the academic year based on the student’s age and ability. Progress is reviewed formally at the end of the year.
+
 ---
 
 ## Memorisation Curriculum
@@ -56,4 +58,5 @@ Each year group follows a progressive Tajwid curriculum focused on clarity of re
 	- **Tajwid Focus**: Mastery of stopping rules, silent letters, and advanced Tajwid techniques
 {{% /steps %}}
 ---
+
 {{< home-link "Home" >}} | {{< section-index >}}  
