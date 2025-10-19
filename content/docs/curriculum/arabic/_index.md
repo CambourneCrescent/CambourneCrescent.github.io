@@ -39,7 +39,7 @@ Our Arabic language curriculum is based on the **Kitābī Series**, a progressiv
 	- Vocabulary: household items, food, family members
 	- Introduction to demonstrative pronouns (هذا / هذه)
 	- Listening and repeating short dialogues
-3.  **Class 3 (Ages 7–8)**  
+3.  ### **Class 3 (Ages 7–8)**  
 	**Based on: Kitābī 3**
 	- Reading full sentences with vowels
 	- Use of definite article (الـ)
@@ -74,7 +74,14 @@ Our Arabic language curriculum is based on the **Kitābī Series**, a progressiv
 	- Descriptive writing and letter writing in Arabic
 	- Comprehending and discussing longer passages
 	- Introduction to basic Qur’ānic Arabic structures
+
 {{% /steps %}}
+
+---
+### **Class Pathway (Ages 8-15)**
+**Based on: Gateway to Arabic syllabus**
+- The Pathway Class is a special Arabic class designed for non-native speakers and focuses on building core language skills. 
+- Students may be moved to a different Arabic class at the end of the year based on their progress and proficiency.
 
 ---
 ## Assessment & Enrichment
@@ -96,3 +103,4 @@ Our approach is interactive, engaging, and paced to match the child’s developm
 ---
 
 {{< home-link "Home" >}} | {{< section-index >}}  
+
