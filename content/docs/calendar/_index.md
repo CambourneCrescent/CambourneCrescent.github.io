@@ -23,7 +23,7 @@ weight: 100
 | 5-Oct   | 📖 Class |
 | 12-Oct  | 📖 Class |
 | 19-Oct  | 📖 Class |
-| 25-Oct  | 🏖️ Half Term Holiday |
+| 26-Oct  | 🏖️ Half Term Holiday |
 
 ### November 2025
 | Date    | Notes |
@@ -40,7 +40,7 @@ weight: 100
 | 7-Dec   | 📖 Class |
 | 14-Dec  | 📖 Class |
 | 21-Dec  | 🏖️ Half Term Holiday |
-| 22-Dec  | 🏖️ Half Term Holiday |
+| 28-Dec  | 🏖️ Half Term Holiday |
 
 ---
 
