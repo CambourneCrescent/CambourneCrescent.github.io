@@ -12,7 +12,7 @@ tags: ["parents", "fees", "attendance", "drop-off", "collection", "policy", "sch
 - During **Ramadan**, the school runs on a reduced timetable, typically until **1:00 PM**.
 
 ## Break Times
-Children are given a 5 to 10-minute break after every hour.
+Children are given a 5 to 10-minute break after every hour.  
 Please note that it is not possible to take children outside to the school grounds during breaks, as we do not have access to the grounds.
 
 ## Punctuality and Attendance Expectations
@@ -51,9 +51,20 @@ Please note that it is not possible to take children outside to the school groun
 
 - **Parents must not post unrelated or social messages** in the class WhatsApp groups. These groups are strictly for:
   - Homework and reminders shared by teachers.
-  - Parents to notify the teacher about absences or changes in pick-up arrangements.
+  - Parents notifying teachers about absences or changes in pick-up arrangements.
 - While the groups are **monitored**, teachers are **not expected to reply to each message** individually.
 - Homework-related questions may be asked in the group, but please allow teachers **adequate time** to respond.
+
+## Books & Stationery
+
+Parents must ensure that children attend school **each week** with all their required learning materials, including:
+
+- Textbooks  
+- Notebooks  
+- Pencils, pens, and erasers  
+
+If students arrive without these items, it disrupts lessons and affects learning.  
+Please check your child’s bag before leaving home each Sunday.
 
 ## Respect for Staff
 
@@ -80,7 +91,9 @@ Please note that it is not possible to take children outside to the school groun
    A small discount will be offered to parents who pay the full year’s fees in advance.
 
 ---
+
 Together, we can maintain a respectful, safe, and well-managed school environment for all members of our community.
 
 ---
-{{< home-link "Home" >}} | {{< section-index >}}  
+
+{{< home-link "Home" >}} | {{< section-index >}}
