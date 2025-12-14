@@ -86,6 +86,16 @@ At Crescent School, we maintain high standards of behaviour to ensure a safe, re
   - Communicating with parents where necessary
 
 ---
+# Mobile phones / Earphones
+
+- Students may bring mobile phones or electronic devices to school only if necessary.
+- All devices must be switched off upon arrival and placed inside the student’s school bag.
+- Earphones and mobile phones must not be visible anywhere on the school premises.
+- Any device seen in use or on display will be confiscated by staff.
+
+If a student is found taking photographs or videos of classmates, the device will be confiscated immediately. The phone will only be returned to a parent or guardian once staff have confirmed that all images or recordings have been permanently deleted.
+
+---
 
 # No-Nuts Policy
 
