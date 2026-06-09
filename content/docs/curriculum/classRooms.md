@@ -19,7 +19,7 @@ When a student joins the school, a short assessment is carried out to determine 
 
 ### Class Transition
 
-| **Crescent School<br>Year Group** | **Teacher** | **Book<br>(2025–26)** | **Age<br>Group** | **Weekday School<br>Year Group** | **Years to Complete<br>& Criteria to Move Up** |
+| **Crescent School<br>Year Group** | **Teacher** | **Book<br>** | **Age<br>Group** | **Weekday School<br>Year Group** | **Years to Complete<br>& Criteria to Move Up** |
 |:---------------------------------:|:-----------:|:----------------------:|:----------------:|:-------------------------------:|:-----------------------------------------------:|
 | ALS 1  | Ms Eman  | Kitabi 1 | 5-6 | Y1 | 1 year |
 | ALS 2_A | Ms Yomna  | Kitabi 2  | 6-7 | Y2 | 1 year |
