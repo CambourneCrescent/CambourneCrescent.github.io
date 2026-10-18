@@ -29,7 +29,7 @@ When a student joins the school, a short assessment is carried out to determine 
 | ALS 3_A | Ms Heba | Kitabi 3 | 8–9 | Y3 | 1 year |
 | ALS 3_B | Ms Asma | Kitabi 3<br>(Second Half) | 8–9 | Y3 | 1 year |
 | ALS 4 | Ms Salma | Kitabi 4 | 10–11 | Y4 / Y5 | 1 or 2 years<br>depending on proficiency |
-| ALS 5 | Ms Wessam Khalifa | Kitabi 5 | 11–12 | Y5 / Y6 | 1 or 2 years<br>depending on proficiency |
+| ALS 5 | Ms Laila Elmancy | Kitabi 5 | 11–12 | Y5 / Y6 | 1 or 2 years<br>depending on proficiency |
 | ALS 6 | Ms Madleen Alhams | Kitabi 6 | 12–13 | Y7 / Y8 | 2 years |
 | ALS GCSE | Ms Khadija Abughannam | Kitabi GCSE | 13–14 | Y9 / Y10 / Y11 | 2 or 3 years |
 | ALS Pathway | Ms Rouda | Gateway to Arabic | 8–15 | Non-native speakers | Pathway students may be moved to another class at year-end based on progress. |
